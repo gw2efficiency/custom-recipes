@@ -26854,5 +26854,2246 @@
         "output_item_count": 1, 
         "output_item_id": 68942, 
         "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 50064
+            }, 
+            {
+                "count": 10, 
+                "item_id": 50059
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Dynamic Tempered Spinal Blades", 
+        "output_item_count": 1, 
+        "output_item_id": 50051, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 50064
+            }, 
+            {
+                "count": 10, 
+                "item_id": 50059
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38023
+            }, 
+            {
+                "count": 1, 
+                "item_id": 37070
+            }
+        ], 
+        "name": "Dynamic Tempered Spinal Blades (Infused)", 
+        "output_item_count": 1, 
+        "output_item_id": 50053, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 50064
+            }, 
+            {
+                "count": 10, 
+                "item_id": 50057
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Static Tempered Spinal Blades", 
+        "output_item_count": 1, 
+        "output_item_id": 50055, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 50064
+            }, 
+            {
+                "count": 10, 
+                "item_id": 50057
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38023
+            }, 
+            {
+                "count": 1, 
+                "item_id": 37070
+            }
+        ], 
+        "name": "Static Tempered Spinal Blades (Infused)", 
+        "output_item_count": 1, 
+        "output_item_id": 50054, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 50064
+            }, 
+            {
+                "count": 10, 
+                "item_id": 50058
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Synergetic Tempered Spinal Blades", 
+        "output_item_count": 1, 
+        "output_item_id": 50056, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 50064
+            }, 
+            {
+                "count": 10, 
+                "item_id": 50058
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38023
+            }, 
+            {
+                "count": 1, 
+                "item_id": 37070
+            }
+        ], 
+        "name": "Synergetic Tempered Spinal Blades (Infused)", 
+        "output_item_count": 1, 
+        "output_item_id": 50052, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Gift Dolyak Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38121, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }
+        ], 
+        "name": "Endless Gift Dolyak Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38121, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Gift Dolyak Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38121, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Gift Dolyak Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38121, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Gift Dolyak Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38121, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toymaker's Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38115, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }
+        ], 
+        "name": "Endless Toymaker's Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38115, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toymaker's Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38115, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toymaker's Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38115, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toymaker's Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38115, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toy Golem Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38118, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }
+        ], 
+        "name": "Endless Plush Griffon Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38117, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toy Soldier Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38119, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Princess Doll Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38120, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38118
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38119
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38117
+            }
+        ], 
+        "name": "Endless Toy Ventari Tonic", 
+        "output_item_count": 0.33, 
+        "output_item_id": 38116, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 38134
+            }, 
+            {
+                "count": 10, 
+                "item_id": 38133
+            }, 
+            {
+                "count": 10, 
+                "item_id": 38132
+            }, 
+            {
+                "count": 10, 
+                "item_id": 38131
+            }
+        ], 
+        "name": "Giant Wintersday Gift", 
+        "output_item_count": 5, 
+        "output_item_id": 38291, 
+        "type": "Container"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 38134
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38135
+            }, 
+            {
+                "count": 5, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 5, 
+                "item_id": 20796
+            }
+        ], 
+        "name": "Flawless Snowflake", 
+        "output_item_count": 8.5, 
+        "output_item_id": 38135, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 38133
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38134
+            }, 
+            {
+                "count": 5, 
+                "item_id": 24276
+            }, 
+            {
+                "count": 4, 
+                "item_id": 20796
+            }
+        ], 
+        "name": "Pristine Snowflake", 
+        "output_item_count": 23.5, 
+        "output_item_id": 38134, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 38132
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38133
+            }, 
+            {
+                "count": 5, 
+                "item_id": 24275
+            }, 
+            {
+                "count": 3, 
+                "item_id": 20796
+            }
+        ], 
+        "name": "Unique Snowflake", 
+        "output_item_count": 23.5, 
+        "output_item_id": 38133, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 38131
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38132
+            }, 
+            {
+                "count": 5, 
+                "item_id": 24274
+            }, 
+            {
+                "count": 2, 
+                "item_id": 20796
+            }
+        ], 
+        "name": "Glittering Snowflake", 
+        "output_item_count": 23.5, 
+        "output_item_id": 38132, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 38130
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38131
+            }, 
+            {
+                "count": 5, 
+                "item_id": 24273
+            }, 
+            {
+                "count": 1, 
+                "item_id": 20796
+            }
+        ], 
+        "name": "Delicate Snowflake", 
+        "output_item_count": 23.5, 
+        "output_item_id": 38131, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item_id": 68435
+            }, 
+            {
+                "count": 2, 
+                "item_id": 38134
+            }, 
+            {
+                "count": 2, 
+                "item_id": 19976
+            }, 
+            {
+                "count": 2, 
+                "item_id": 24276
+            }
+        ], 
+        "name": "Superior Rune of Snowfall", 
+        "output_item_count": 1, 
+        "output_item_id": 68437, 
+        "type": "Rune"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item_id": 68434
+            }, 
+            {
+                "count": 4, 
+                "item_id": 38134
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19976
+            }, 
+            {
+                "count": 4, 
+                "item_id": 24276
+            }
+        ], 
+        "name": "Superior Sigil of Mischief", 
+        "output_item_count": 1, 
+        "output_item_id": 68436, 
+        "type": "Sigil"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item_id": 68438
+            }, 
+            {
+                "count": 2, 
+                "item_id": 38130
+            }, 
+            {
+                "count": 2, 
+                "item_id": 19976
+            }, 
+            {
+                "count": 2, 
+                "item_id": 24272
+            }
+        ], 
+        "name": "Major Rune of Snowfall", 
+        "output_item_count": 1, 
+        "output_item_id": 68435, 
+        "type": "Rune"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item_id": 68439
+            }, 
+            {
+                "count": 4, 
+                "item_id": 38130
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19976
+            }, 
+            {
+                "count": 4, 
+                "item_id": 24272
+            }
+        ], 
+        "name": "Major Sigil of Mischief", 
+        "output_item_count": 1, 
+        "output_item_id": 68434, 
+        "type": "Sigil"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64287
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Axe", 
+        "output_item_count": 1, 
+        "output_item_id": 64277, 
+        "type": "Axe"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64288
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Dagger", 
+        "output_item_count": 1, 
+        "output_item_id": 64276, 
+        "type": "Dagger"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64293
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Mace", 
+        "output_item_count": 1, 
+        "output_item_id": 64271, 
+        "type": "Mace"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64284
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Pistol", 
+        "output_item_count": 1, 
+        "output_item_id": 64270, 
+        "type": "Pistol"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64295
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Scepter", 
+        "output_item_count": 1, 
+        "output_item_id": 64265, 
+        "type": "Scepter"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64299
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Sword", 
+        "output_item_count": 1, 
+        "output_item_id": 64279, 
+        "type": "Sword"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64289
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Focus", 
+        "output_item_count": 1, 
+        "output_item_id": 64275, 
+        "type": "Focus"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64296
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Shield", 
+        "output_item_count": 1, 
+        "output_item_id": 64264, 
+        "type": "Shield"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64300
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Torch", 
+        "output_item_count": 1, 
+        "output_item_id": 64281, 
+        "type": "Torch"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64301
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Warhorn", 
+        "output_item_count": 1, 
+        "output_item_id": 64278, 
+        "type": "Warhorn"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64290
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Greatsword", 
+        "output_item_count": 1, 
+        "output_item_id": 64274, 
+        "type": "Greatsword"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64291
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Hammer", 
+        "output_item_count": 1, 
+        "output_item_id": 64273, 
+        "type": "Hammer"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64292
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Longbow", 
+        "output_item_count": 1, 
+        "output_item_id": 64272, 
+        "type": "LongBow"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64294
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Rifle", 
+        "output_item_count": 1, 
+        "output_item_id": 64269, 
+        "type": "Rifle"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64297
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Short Bow", 
+        "output_item_count": 1, 
+        "output_item_id": 64266, 
+        "type": "ShortBow"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64298
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Staff", 
+        "output_item_count": 1, 
+        "output_item_id": 64280, 
+        "type": "Staff"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64283
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Harpoon Gun", 
+        "output_item_count": 1, 
+        "output_item_id": 64267, 
+        "type": "Speargun"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64285
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Trident", 
+        "output_item_count": 1, 
+        "output_item_id": 64282, 
+        "type": "Trident"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 64286
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43244
+            }, 
+            {
+                "count": 10, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 4, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Mistforged Hero's Spear", 
+        "output_item_count": 1, 
+        "output_item_id": 64268, 
+        "type": "Harpoon"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76795
+            }
+        ], 
+        "name": "Spirit of the Tooth of Frostfang Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 75534, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72827
+            }
+        ], 
+        "name": "Spirit of the Spark Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 71203, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70610
+            }
+        ], 
+        "name": "Spirit of The Energizer Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 71723, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75846
+            }
+        ], 
+        "name": "Spirit of the Chaos Gun Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 70763, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74655
+            }
+        ], 
+        "name": "Spirit of the Storm Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 73891, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74093
+            }
+        ], 
+        "name": "Spirit of the Zap Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 73841, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72827
+            }
+        ], 
+        "name": "Spirit of The Bard Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": -1, 
+        "type": ""
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74275
+            }
+        ], 
+        "name": "Spirit of The Chosen Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 75246, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70566
+            }
+        ], 
+        "name": "Spirit of the Rodgort's Flame Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 72126, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71345
+            }
+        ], 
+        "name": "Spirit of the Howl Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 77026, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70853
+            }
+        ], 
+        "name": "Spirit of the Dawn Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 74662, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75592
+            }
+        ], 
+        "name": "Spirit of the Dusk Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 73524, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74163
+            }
+        ], 
+        "name": "Spirit of The Colossus Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 74032, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73382
+            }
+        ], 
+        "name": "Spirit of the Kudzu Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 71671, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71078
+            }
+        ], 
+        "name": "Spirit of The Hunter Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 73615, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77097
+            }
+        ], 
+        "name": "Spirit of The Lover Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 72778, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73431
+            }
+        ], 
+        "name": "Spirit of The Legend Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 75535, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72748
+            }
+        ], 
+        "name": "Spirit of the Carcharias Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 76354, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73087
+            }
+        ], 
+        "name": "Spirit of the Rage Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 75237, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72629
+            }
+        ], 
+        "name": "Spirit of the Venom Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 71720, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70989
+            }
+        ], 
+        "name": "Spirit of The Device", 
+        "output_item_count": 1, 
+        "output_item_id": 74158, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70960
+            }
+        ], 
+        "name": "Spirit of Research", 
+        "output_item_count": 1, 
+        "output_item_id": 72458, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75467
+            }
+        ], 
+        "name": "Spirit of the Ravenswood Branch", 
+        "output_item_count": 1, 
+        "output_item_id": 76116, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71910
+            }
+        ], 
+        "name": "Spirit of the Perfected Axe", 
+        "output_item_count": 1, 
+        "output_item_id": 71915, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77156
+            }
+        ], 
+        "name": "Spirit of the Perfected Dagger", 
+        "output_item_count": 1, 
+        "output_item_id": 75064, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74020
+            }
+        ], 
+        "name": "Spirit of the Perfected Mace", 
+        "output_item_count": 1, 
+        "output_item_id": 76735, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73023
+            }
+        ], 
+        "name": "Spirit of the Perfected Pistol", 
+        "output_item_count": 1, 
+        "output_item_id": 73396, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71886
+            }
+        ], 
+        "name": "Spirit of the Perfected Scepter", 
+        "output_item_count": 1, 
+        "output_item_id": 75336, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77118
+            }
+        ], 
+        "name": "Spirit of the Perfected Sword", 
+        "output_item_count": 1, 
+        "output_item_id": 76269, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": -3
+            }
+        ], 
+        "name": "Spirit of the Perfected Focus", 
+        "output_item_count": 1, 
+        "output_item_id": -2, 
+        "type": ""
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71847
+            }
+        ], 
+        "name": "Spirit of the Perfected Shield", 
+        "output_item_count": 1, 
+        "output_item_id": 74907, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72245
+            }
+        ], 
+        "name": "Spirit of the Perfected Torch", 
+        "output_item_count": 1, 
+        "output_item_id": 75991, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74010
+            }
+        ], 
+        "name": "Spirit of the Perfected Warhorn", 
+        "output_item_count": 1, 
+        "output_item_id": 73569, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75163
+            }
+        ], 
+        "name": "Spirit of the Perfected Daysword", 
+        "output_item_count": 1, 
+        "output_item_id": 71392, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75618
+            }
+        ], 
+        "name": "Spirit of the Perfected Nightsword", 
+        "output_item_count": 1, 
+        "output_item_id": 73193, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71134
+            }
+        ], 
+        "name": "Spirit of the Perfected Hammer", 
+        "output_item_count": 1, 
+        "output_item_id": 75207, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70814
+            }
+        ], 
+        "name": "Spirit of the Perfected Longbow", 
+        "output_item_count": 1, 
+        "output_item_id": 76249, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75399
+            }
+        ], 
+        "name": "Spirit of the Perfected Short Bow", 
+        "output_item_count": 1, 
+        "output_item_id": 71998, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76027
+            }
+        ], 
+        "name": "Spirit of the Perfected Staff", 
+        "output_item_count": 1, 
+        "output_item_id": 76891, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75949
+            }
+        ], 
+        "name": "Spirit of the Perfected Harpoon Gun", 
+        "output_item_count": 1, 
+        "output_item_id": 74809, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74468
+            }
+        ], 
+        "name": "Spirit of the Perfected Trident", 
+        "output_item_count": 1, 
+        "output_item_id": 76376, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70805
+            }
+        ], 
+        "name": "Spirit of the Perfected Spear", 
+        "output_item_count": 1, 
+        "output_item_id": 74804, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70989
+            }
+        ], 
+        "name": "Spirit of The Apparatus", 
+        "output_item_count": 1, 
+        "output_item_id": 74492, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70743
+            }
+        ], 
+        "name": "Spirit of Development", 
+        "output_item_count": 1, 
+        "output_item_id": 76083, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76582
+            }
+        ], 
+        "name": "Spirit of the Ravenswood Staff", 
+        "output_item_count": 1, 
+        "output_item_id": 73266, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": -7
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71820
+            }, 
+            {
+                "count": 1, 
+                "item_id": -5
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73239
+            }
+        ], 
+        "name": "Astralaria", 
+        "output_item_count": 1, 
+        "output_item_id": -4, 
+        "type": ""
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76399
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71820
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77086
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73239
+            }
+        ], 
+        "name": "HOPE", 
+        "output_item_count": 1, 
+        "output_item_id": 72713, 
+        "type": "Pistol"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76427
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19676
+            }, 
+            {
+                "count": 1, 
+                "item_id": -9
+            }, 
+            {
+                "count": 1, 
+                "item_id": 19623
+            }
+        ], 
+        "name": "Gift of Nevermore", 
+        "output_item_count": 1, 
+        "output_item_id": -8, 
+        "type": ""
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74927
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72964
+            }, 
+            {
+                "count": 1, 
+                "item_id": 20797
+            }, 
+            {
+                "count": 250, 
+                "item_id": 46683
+            }
+        ], 
+        "name": "Gift of Maguuma Mastery", 
+        "output_item_count": 1, 
+        "output_item_id": 73239, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70797
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71943
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74528
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70698
+            }
+        ], 
+        "name": "Gift of Maguuma", 
+        "output_item_count": 1, 
+        "output_item_id": 74927, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73469
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76767
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76636
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71311
+            }
+        ], 
+        "name": "Gift of Insights", 
+        "output_item_count": 1, 
+        "output_item_id": 72964, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74068
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71820
+            }, 
+            {
+                "count": 1, 
+                "item_id": -8
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73239
+            }
+        ], 
+        "name": "Nevermore", 
+        "output_item_count": 1, 
+        "output_item_id": -10, 
+        "type": ""
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76427
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19676
+            }, 
+            {
+                "count": 1, 
+                "item_id": -6
+            }, 
+            {
+                "count": 1, 
+                "item_id": 19621
+            }
+        ], 
+        "name": "Gift of Astralaria", 
+        "output_item_count": 1, 
+        "output_item_id": -5, 
+        "type": ""
     }
 ]
