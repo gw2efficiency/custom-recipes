@@ -22,9 +22,6 @@ diff = subprocess.Popen("git diff " + file_name, shell=True, stdout=subprocess.P
 
 # If yes, commit and push it to the repo, else do nothing
 if len(diff) > 0:
-    print "JSON file changed, committing..."
-    print subprocess.Popen("git commit " + file_name + " -m \"[Automatic] Update JSON file\"", shell=True, stdout=subprocess.PIPE).stdout.read()
-    print "Committed... pushing"
-    print subprocess.Popen("git push", shell=True, stdout=subprocess.PIPE).stdout.read()
+    print diff
 else:
     print "JSON file is the same"
