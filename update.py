@@ -1,6 +1,6 @@
 import json, requests, subprocess
 
-api_url = 'http://gw2profits.com/json/v2/forrge/'
+api_url = 'http://gw2profits.com/json/v2/forge/'
 file_name = 'recipes.json'
 
 # Grab the recipes from the API
