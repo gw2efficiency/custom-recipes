@@ -28307,7 +28307,7 @@
         ], 
         "name": "Spirit of The Bard Experiment", 
         "output_item_count": 1, 
-        "output_item_id": -1, 
+        "output_item_id": 73117, 
         "type": ""
     }, 
     {
@@ -28647,12 +28647,12 @@
         "ingredients": [
             {
                 "count": 1, 
-                "item_id": -3
+                "item_id": -103
             }
         ], 
         "name": "Spirit of the Perfected Focus", 
         "output_item_count": 1, 
-        "output_item_id": -2, 
+        "output_item_id": -102, 
         "type": ""
     }, 
     {
@@ -28887,7 +28887,7 @@
         "ingredients": [
             {
                 "count": 1, 
-                "item_id": -7
+                "item_id": 71426
             }, 
             {
                 "count": 1, 
@@ -28895,7 +28895,7 @@
             }, 
             {
                 "count": 1, 
-                "item_id": -5
+                "item_id": 71972
             }, 
             {
                 "count": 1, 
@@ -28958,7 +28958,7 @@
         ], 
         "name": "Gift of Nevermore", 
         "output_item_count": 1, 
-        "output_item_id": -8, 
+        "output_item_id": 74300, 
         "type": ""
     }, 
     {
@@ -29057,7 +29057,7 @@
             }, 
             {
                 "count": 1, 
-                "item_id": -8
+                "item_id": 74300
             }, 
             {
                 "count": 1, 
@@ -29093,7 +29093,7 @@
         ], 
         "name": "Gift of Astralaria", 
         "output_item_count": 1, 
-        "output_item_id": -5, 
+        "output_item_id": 71972, 
         "type": ""
     }, 
     {
@@ -32814,12 +32814,12 @@
             }, 
             {
                 "count": 1, 
-                "item_id": -12
+                "item_id": -112
             }
         ], 
         "name": "Ad Infinitum", 
         "output_item_count": 1, 
-        "output_item_id": -11, 
+        "output_item_id": -111, 
         "type": ""
     }, 
     {
@@ -33420,7 +33420,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33439,7 +33439,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33458,7 +33458,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33477,7 +33477,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33496,7 +33496,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33515,7 +33515,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33534,7 +33534,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33553,7 +33553,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33572,7 +33572,7 @@
         "ingredients": [
             {
                 "count": 2640, 
-                "item_id": 1
+                "item_id": -1
             }, 
             {
                 "count": 50, 
@@ -33614,7 +33614,7 @@
             }, 
             {
                 "count": 150, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 3, 
@@ -33641,7 +33641,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33668,7 +33668,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33695,7 +33695,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33722,7 +33722,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33749,7 +33749,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33776,7 +33776,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33803,7 +33803,7 @@
             }, 
             {
                 "count": 150, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 3, 
@@ -33830,7 +33830,7 @@
             }, 
             {
                 "count": 150, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 3, 
@@ -33857,7 +33857,7 @@
             }, 
             {
                 "count": 150, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 3, 
@@ -33884,7 +33884,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33911,7 +33911,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33938,7 +33938,7 @@
             }, 
             {
                 "count": 100, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 2, 
@@ -33965,7 +33965,7 @@
             }, 
             {
                 "count": 150, 
-                "item_id": 20
+                "item_id": -20
             }, 
             {
                 "count": 3, 
@@ -33997,6 +33997,14 @@
             {
                 "count": 1, 
                 "item_id": 75571
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75197
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72855
             }
         ], 
         "name": "Machined Torch", 
@@ -34024,6 +34032,14 @@
             {
                 "count": 1, 
                 "item_id": 72514
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72394
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73760
             }
         ], 
         "name": "Machined Sword", 
@@ -34051,6 +34067,14 @@
             {
                 "count": 1, 
                 "item_id": 76050
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70900
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76605
             }
         ], 
         "name": "Machined Rifle", 
@@ -34078,6 +34102,14 @@
             {
                 "count": 1, 
                 "item_id": 71871
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76997
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71907
             }
         ], 
         "name": "Machined Shield", 
@@ -34105,6 +34137,14 @@
             {
                 "count": 1, 
                 "item_id": 74608
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76088
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75027
             }
         ], 
         "name": "Machined Axe", 
@@ -34132,6 +34172,14 @@
             {
                 "count": 1, 
                 "item_id": 73650
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75842
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71967
             }
         ], 
         "name": "Machined Longbow", 
@@ -34159,6 +34207,14 @@
             {
                 "count": 1, 
                 "item_id": 73786
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70775
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74663
             }
         ], 
         "name": "Machined Hammer", 
@@ -34186,6 +34242,14 @@
             {
                 "count": 1, 
                 "item_id": 74732
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72661
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74208
             }
         ], 
         "name": "Machined Staff", 
@@ -34213,6 +34277,14 @@
             {
                 "count": 1, 
                 "item_id": 75947
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72692
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75673
             }
         ], 
         "name": "Machined Greatsword", 
@@ -34240,6 +34312,14 @@
             {
                 "count": 1, 
                 "item_id": 75497
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76013
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76605
             }
         ], 
         "name": "Machined Warhorn", 
@@ -34267,6 +34347,14 @@
             {
                 "count": 1, 
                 "item_id": 71270
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71177
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71976
             }
         ], 
         "name": "Machined Pistol", 
@@ -34294,6 +34382,14 @@
             {
                 "count": 1, 
                 "item_id": 75497
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72737
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74138
             }
         ], 
         "name": "Machined Dagger", 
@@ -34461,6 +34557,18 @@
             {
                 "count": 1, 
                 "item_id": 74277
+            }, 
+            {
+                "count": 1, 
+                "item_id": 23305
+            }, 
+            {
+                "count": 1, 
+                "item_id": 23346
+            }, 
+            {
+                "count": 1, 
+                "item_id": 23402
             }
         ], 
         "name": "Essence of Artistry", 
@@ -34488,6 +34596,58 @@
             {
                 "count": 1, 
                 "item_id": 73494
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73275
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72447
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72184
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71474
+            }, 
+            {
+                "count": 7, 
+                "item_id": 43773
+            }, 
+            {
+                "count": 1, 
+                "item_id": 43772
+            }, 
+            {
+                "count": 1, 
+                "item_id": 20799
+            }, 
+            {
+                "count": 1, 
+                "item_id": 24330
+            }, 
+            {
+                "count": 1, 
+                "item_id": 24474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 24521
+            }, 
+            {
+                "count": 1, 
+                "item_id": 24519
+            }, 
+            {
+                "count": 1, 
+                "item_id": 24473
+            }, 
+            {
+                "count": 1, 
+                "item_id": 24475
             }
         ], 
         "name": "Essence of Rainbows", 
@@ -34515,6 +34675,34 @@
             {
                 "count": 1, 
                 "item_id": 76918
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70523
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75871
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71165
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71158
+            }, 
+            {
+                "count": 1, 
+                "item_id": 37054
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76172
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71281
             }
         ], 
         "name": "Solution: Finite Result", 
@@ -34542,6 +34730,34 @@
             {
                 "count": 1, 
                 "item_id": 75477
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77109
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76623
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76964
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75164
+            }, 
+            {
+                "count": 1, 
+                "item_id": 49381
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73755
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75887
             }
         ], 
         "name": "Solution: Upper Bound", 
@@ -34569,6 +34785,34 @@
             {
                 "count": 1, 
                 "item_id": 71427
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72120
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73929
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72521
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 49391
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77266
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75018
             }
         ], 
         "name": "Solution: Unbound", 
@@ -34596,6 +34840,42 @@
             {
                 "count": 1, 
                 "item_id": 31100
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72605
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72685
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72186
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71568
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73146
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72176
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75523
             }
         ], 
         "name": "The North Wind", 
@@ -34623,6 +34903,42 @@
             {
                 "count": 1, 
                 "item_id": 31094
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75411
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74849
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76801
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75479
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72045
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71183
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74535
             }
         ], 
         "name": "Ydalir", 
@@ -34650,6 +34966,42 @@
             {
                 "count": 1, 
                 "item_id": 31091
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73254
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74227
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76665
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77235
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75344
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71927
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71808
             }
         ], 
         "name": "Glint's Bastion", 
@@ -34677,6 +35029,42 @@
             {
                 "count": 1, 
                 "item_id": 31097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70663
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71144
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72914
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75814
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70060
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72050
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75792
             }
         ], 
         "name": "Fix-r-Upper", 
@@ -34704,6 +35092,42 @@
             {
                 "count": 1, 
                 "item_id": 31086
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75807
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72982
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73028
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70429
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75672
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70479
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71647
             }
         ], 
         "name": "Dark Harvest", 
@@ -34731,6 +35155,42 @@
             {
                 "count": 1, 
                 "item_id": 31092
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74477
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73648
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70436
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72290
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75383
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72228
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72877
             }
         ], 
         "name": "Bo", 
@@ -34758,6 +35218,42 @@
             {
                 "count": 1, 
                 "item_id": 31091
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71317
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76355
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74325
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73864
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75093
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71808
             }
         ], 
         "name": "Horologicus", 
@@ -34785,6 +35281,42 @@
             {
                 "count": 1, 
                 "item_id": 31099
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70784
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70795
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77255
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71333
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73506
             }
         ], 
         "name": "Wild Abandon", 
@@ -34812,6 +35344,10 @@
             {
                 "count": 400, 
                 "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
             }
         ], 
         "name": "Expertise in Harpoon Gun Crafting", 
@@ -34839,6 +35375,10 @@
             {
                 "count": 400, 
                 "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
             }
         ], 
         "name": "Expertise in Spear Crafting", 
@@ -34866,6 +35406,74 @@
             {
                 "count": 5, 
                 "item_id": 13259
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13258
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13257
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13256
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13255
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13254
+            }, 
+            {
+                "count": 3, 
+                "item_id": 45886
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12981
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12980
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12979
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12978
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12977
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12976
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Scepter Crafting", 
@@ -34893,6 +35501,86 @@
             {
                 "count": 250, 
                 "item_id": 73924
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12966
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12944
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45844
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12967
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12966
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12965
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12964
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12963
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12962
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45842
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12949
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12948
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12947
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12946
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12945
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12944
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
             }
         ], 
         "name": "Expertise in Short Bow Crafting", 
@@ -34920,6 +35608,86 @@
             {
                 "count": 250, 
                 "item_id": 74917
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45833
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12925
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12924
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12923
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12922
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12921
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12920
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45835
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12961
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12960
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12959
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12958
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12957
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12956
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Advanced Pistol Crafting", 
@@ -34947,6 +35715,86 @@
             {
                 "count": 250, 
                 "item_id": 71087
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13266
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13265
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13264
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13263
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13262
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13261
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12975
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12974
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12973
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12972
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12971
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12970
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Runed Staff Crafting", 
@@ -34974,6 +35822,90 @@
             {
                 "count": 250, 
                 "item_id": 73954
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12869
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12845
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45848
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12871
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12870
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12869
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12868
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12867
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12866
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45856
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12847
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12846
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12845
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12844
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12843
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12842
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Sword Crafting", 
@@ -35001,6 +35933,90 @@
             {
                 "count": 250, 
                 "item_id": 73564
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12857
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12881
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45846
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12859
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12858
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12857
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12856
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12855
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12854
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45854
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12883
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12882
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12881
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12880
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12879
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12878
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Dagger Crafting", 
@@ -35028,6 +36044,94 @@
             {
                 "count": 250, 
                 "item_id": 76386
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12839
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12887
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45847
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12841
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12840
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12839
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12838
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12837
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12836
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45855
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12886
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12885
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12884
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Nightsword Crafting", 
@@ -35055,6 +36159,94 @@
             {
                 "count": 250, 
                 "item_id": 71087
+            }, 
+            {
+                "count": 250, 
+                "item_id": 13262
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12970
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13266
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13265
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13264
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13263
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13262
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13261
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12975
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12974
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12973
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12972
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12971
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12970
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Staff Crafting", 
@@ -35082,6 +36274,94 @@
             {
                 "count": 250, 
                 "item_id": 71922
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12863
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12896
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45851
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12865
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12864
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12863
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12862
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12861
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12860
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45849
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12901
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12900
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12899
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12898
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12897
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12896
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Hammer Crafting", 
@@ -35109,6 +36389,94 @@
             {
                 "count": 250, 
                 "item_id": 76386
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12839
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12887
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45847
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12841
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12840
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12839
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12838
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12837
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12836
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45855
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12886
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12885
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12884
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
             }
         ], 
         "name": "Expertise in Daysword Crafting", 
