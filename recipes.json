@@ -40910,7 +40910,7 @@
                 "item_id": 20852
             }, 
             {
-                "count": 1, 
+                "count": 50, 
                 "item_id": 19976
             }, 
             {
@@ -59905,5 +59905,50 @@
         "output_item_count": 1, 
         "output_item_id": 48805, 
         "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Buy"
+        ], 
+        "ingredients": [
+            {
+                "count": 2100, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Obsidian Shard", 
+        "output_item_count": 1, 
+        "output_item_id": 19925, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Buy"
+        ], 
+        "ingredients": [
+            {
+                "count": 21000, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Obsidian Shard", 
+        "output_item_count": 10, 
+        "output_item_id": 19925, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Buy"
+        ], 
+        "ingredients": [
+            {
+                "count": 4550, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Lost Orrian Jewelry Box", 
+        "output_item_count": 1, 
+        "output_item_id": 39088, 
+        "type": "Container"
     }
 ]
