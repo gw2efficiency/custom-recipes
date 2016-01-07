@@ -59950,5 +59950,2236 @@
         "output_item_count": 1, 
         "output_item_id": 39088, 
         "type": "Container"
+    }, 
+    {
+        "disciplines": [
+            "Buy"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38135
+            }, 
+            {
+                "count": 700, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Sealed Package of Snowballs", 
+        "output_item_count": 1, 
+        "output_item_id": 24, 
+        "type": "Generic"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 23611
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72714
+            }
+        ], 
+        "name": "Essence of Blooms", 
+        "output_item_count": 1, 
+        "output_item_id": 73753, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75152
+            }
+        ], 
+        "name": "Essence of Freezing", 
+        "output_item_count": 1, 
+        "output_item_id": 75818, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 75, 
+                "item_id": 70820
+            }
+        ], 
+        "name": "Essence of Discipline", 
+        "output_item_count": 1, 
+        "output_item_id": 77541, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 70820
+            }
+        ], 
+        "name": "Essence of Determination", 
+        "output_item_count": 1, 
+        "output_item_id": 77552, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76626
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74651
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72519
+            }, 
+            {
+                "count": 10, 
+                "item_id": 75640
+            }
+        ], 
+        "name": "Cosmic Mechanism", 
+        "output_item_count": 1, 
+        "output_item_id": 71924, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 69953
+            }
+        ], 
+        "name": "Essence of Heroes", 
+        "output_item_count": 1, 
+        "output_item_id": 71979, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73153
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71208
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72422
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76393
+            }
+        ], 
+        "name": "Gift of the Cosmos", 
+        "output_item_count": 1, 
+        "output_item_id": 72083, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73089
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73640
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74560
+            }, 
+            {
+                "count": 250, 
+                "item_id": 73074
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12938
+            }, 
+            {
+                "count": 250, 
+                "item_id": 12966
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45844
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12967
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12966
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12965
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12964
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12963
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12962
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45841
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12943
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12942
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12941
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12940
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12939
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12938
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Expertise in Longbow Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 72961, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77163
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76201
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74075
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73216
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71118
+            }
+        ], 
+        "name": "Essence of Dragons", 
+        "output_item_count": 1, 
+        "output_item_id": 73671, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 76646
+            }
+        ], 
+        "name": "Essence of the Garden", 
+        "output_item_count": 1, 
+        "output_item_id": 76405, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71987
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76074
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76034
+            }, 
+            {
+                "count": 250, 
+                "item_id": 75621
+            }, 
+            {
+                "count": 3, 
+                "item_id": 45852
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12877
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12876
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12875
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12874
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12873
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12872
+            }, 
+            {
+                "count": 3, 
+                "item_id": 45850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12894
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12893
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12892
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12891
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12890
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Expertise in Mace Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 77018, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71520
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74901
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75145
+            }, 
+            {
+                "count": 250, 
+                "item_id": 76963
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45845
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12853
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12852
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12851
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12849
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12848
+            }, 
+            {
+                "count": 5, 
+                "item_id": 45850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12894
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12893
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12892
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12891
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12890
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Expertise in Advanced Axe Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 72622, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Buy"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 38135
+            }, 
+            {
+                "count": 17500, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Magnanimous Choir Bell", 
+        "output_item_count": 1, 
+        "output_item_id": 68361, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75674
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76554
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75168
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45858
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12913
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12912
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12911
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12910
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12909
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12908
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45857
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12907
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12906
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12905
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12904
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12903
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12902
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Expertise in Shield Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 75095, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77535
+            }, 
+            {
+                "count": 20, 
+                "item_id": 24351
+            }, 
+            {
+                "count": 50, 
+                "item_id": 24350
+            }, 
+            {
+                "count": 10, 
+                "item_id": 46681
+            }
+        ], 
+        "name": "Mystic Essence of Success", 
+        "output_item_count": 1, 
+        "output_item_id": 77519, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74973
+            }
+        ], 
+        "name": "Essence of Villains", 
+        "output_item_count": 1, 
+        "output_item_id": 73111, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Buy"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 70820
+            }
+        ], 
+        "name": "Essence of Success", 
+        "output_item_count": 1, 
+        "output_item_id": 77535, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76241
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74361
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73918
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76978
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70659
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76507
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71924
+            }
+        ], 
+        "name": "Essence of Time and Space", 
+        "output_item_count": 1, 
+        "output_item_id": 74457, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72761
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72742
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74385
+            }
+        ], 
+        "name": "Essence of the Celebration", 
+        "output_item_count": 1, 
+        "output_item_id": 73375, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77552
+            }, 
+            {
+                "count": 20, 
+                "item_id": 24295
+            }, 
+            {
+                "count": 50, 
+                "item_id": 24294
+            }, 
+            {
+                "count": 250, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Mystic Essence of Determination", 
+        "output_item_count": 1, 
+        "output_item_id": 77479, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77479
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77492
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77510
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77519
+            }
+        ], 
+        "name": "Vial of Salt", 
+        "output_item_count": 1, 
+        "output_item_id": 77482, 
+        "type": "Amulet"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 50, 
+                "item_id": 70820
+            }
+        ], 
+        "name": "Essence of Challenge", 
+        "output_item_count": 1, 
+        "output_item_id": 77488, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77488
+            }, 
+            {
+                "count": 20, 
+                "item_id": 24358
+            }, 
+            {
+                "count": 50, 
+                "item_id": 24358
+            }, 
+            {
+                "count": 250, 
+                "item_id": 46735
+            }
+        ], 
+        "name": "Mystic Essence of Challenge", 
+        "output_item_count": 1, 
+        "output_item_id": 77492, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77541
+            }, 
+            {
+                "count": 20, 
+                "item_id": 24289
+            }, 
+            {
+                "count": 50, 
+                "item_id": 24288
+            }, 
+            {
+                "count": 250, 
+                "item_id": 46733
+            }
+        ], 
+        "name": "Mystic Essence of Discipline", 
+        "output_item_count": 1, 
+        "output_item_id": 77510, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76995
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72348
+            }, 
+            {
+                "count": 250, 
+                "item_id": 76963
+            }, 
+            {
+                "count": 3, 
+                "item_id": 45845
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12853
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12852
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12851
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12849
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12848
+            }, 
+            {
+                "count": 3, 
+                "item_id": 45850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12894
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12893
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12892
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12891
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12890
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Expertise in Axe Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 76051, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71561
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72367
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73319
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31100
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72605
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72685
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72186
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71568
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73146
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72176
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75523
+            }
+        ], 
+        "name": "The North Wind", 
+        "output_item_count": 1, 
+        "output_item_id": 73037, 
+        "type": "Warhorn"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 150, 
+                "item_id": -19
+            }, 
+            {
+                "count": 150, 
+                "item_id": -22
+            }, 
+            {
+                "count": 150, 
+                "item_id": -20
+            }, 
+            {
+                "count": 3, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Hammer", 
+        "output_item_count": 1, 
+        "output_item_id": 75838, 
+        "type": "Hammer"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 28, 
+                "item_id": 73834
+            }
+        ], 
+        "name": "Ascalonian Fractal Field Research Paper", 
+        "output_item_count": 1, 
+        "output_item_id": 75871, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Chronomancer's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 71809, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75725
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70864
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73340
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31091
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73254
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74227
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76665
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77235
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75344
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71927
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71808
+            }
+        ], 
+        "name": "Glint's Bastion", 
+        "output_item_count": 1, 
+        "output_item_id": 75482, 
+        "type": "Shield"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72545
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74993
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74701
+            }, 
+            {
+                "count": 250, 
+                "item_id": 71087
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13266
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13265
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13264
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13263
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13262
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13261
+            }, 
+            {
+                "count": 1, 
+                "item_id": 45888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12975
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12974
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12973
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12972
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12971
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12970
+            }, 
+            {
+                "count": 1000, 
+                "item_id": 67787
+            }, 
+            {
+                "count": 400, 
+                "item_id": 69812
+            }, 
+            {
+                "count": 100, 
+                "item_id": 19925
+            }, 
+            {
+                "count": 100, 
+                "item_id": 37897
+            }, 
+            {
+                "count": 25, 
+                "item_id": 37907
+            }, 
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Expertise in Staff Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 77139, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73483
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70501
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70587
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70663
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71144
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72914
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75814
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70060
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72050
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75792
+            }
+        ], 
+        "name": "Fix-r-Upper", 
+        "output_item_count": 1, 
+        "output_item_id": 69932, 
+        "type": "Hammer"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Focus", 
+        "output_item_count": 1, 
+        "output_item_id": 73285, 
+        "type": "Focus"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24277
+            }, 
+            {
+                "count": 3, 
+                "item_id": 24884
+            }, 
+            {
+                "count": 3, 
+                "item_id": 24884
+            }, 
+            {
+                "count": 3, 
+                "item_id": 24884
+            }
+        ], 
+        "name": "Amalgamated Gemstone", 
+        "output_item_count": 1, 
+        "output_item_id": 68063, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 150, 
+                "item_id": -19
+            }, 
+            {
+                "count": 150, 
+                "item_id": -22
+            }, 
+            {
+                "count": 150, 
+                "item_id": -20
+            }, 
+            {
+                "count": 3, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Rifle", 
+        "output_item_count": 1, 
+        "output_item_id": 73714, 
+        "type": "Rifle"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Herald's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 74227, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Dagger", 
+        "output_item_count": 1, 
+        "output_item_id": 74231, 
+        "type": "Dagger"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Warhorn", 
+        "output_item_count": 1, 
+        "output_item_id": 76294, 
+        "type": "Warhorn"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Scepter", 
+        "output_item_count": 1, 
+        "output_item_id": 71595, 
+        "type": "Scepter"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72152
+            }
+        ], 
+        "name": "Reclaimed Metal Plate", 
+        "output_item_count": 1, 
+        "output_item_id": 74356, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Axe", 
+        "output_item_count": 1, 
+        "output_item_id": 71109, 
+        "type": "Axe"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Dragonhunter's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 74849, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 150, 
+                "item_id": -19
+            }, 
+            {
+                "count": 150, 
+                "item_id": -22
+            }, 
+            {
+                "count": 150, 
+                "item_id": -20
+            }, 
+            {
+                "count": 3, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Greatsword", 
+        "output_item_count": 1, 
+        "output_item_id": 74558, 
+        "type": "Greatsword"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 28, 
+                "item_id": 73834
+            }
+        ], 
+        "name": "Molten Alliance Fractal Field Research Paper", 
+        "output_item_count": 1, 
+        "output_item_id": 76623, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Scrapper's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 71144, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Druid's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 74654, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71685
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70942
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76433
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31099
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70784
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70795
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77255
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71333
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73506
+            }
+        ], 
+        "name": "Wild Abandon", 
+        "output_item_count": 1, 
+        "output_item_id": 74918, 
+        "type": "Torch"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70816
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77253
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71067
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31086
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75807
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72982
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73028
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70429
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75672
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70479
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71647
+            }
+        ], 
+        "name": "Dark Harvest", 
+        "output_item_count": 1, 
+        "output_item_id": 69893, 
+        "type": "Greatsword"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Pistol", 
+        "output_item_count": 1, 
+        "output_item_id": 70831, 
+        "type": "Pistol"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Tempest's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 72685, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74559
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72263
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31091
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71317
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76355
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74325
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73864
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71097
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75093
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71808
+            }
+        ], 
+        "name": "Horologicus", 
+        "output_item_count": 1, 
+        "output_item_id": 74858, 
+        "type": "Shield"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Berserker's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 70784, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Torch", 
+        "output_item_count": 1, 
+        "output_item_id": 70807, 
+        "type": "Torch"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38046
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38048
+            }, 
+            {
+                "count": 1, 
+                "item_id": 38049
+            }, 
+            {
+                "count": 25, 
+                "item_id": 38450
+            }
+        ], 
+        "name": "Foostivoo the Merry", 
+        "output_item_count": 1, 
+        "output_item_id": 38047, 
+        "type": "MiniPet"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 28, 
+                "item_id": 73834
+            }
+        ], 
+        "name": "Thaumanova Fractal Field Research Paper", 
+        "output_item_count": 1, 
+        "output_item_id": 73929, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 150, 
+                "item_id": -19
+            }, 
+            {
+                "count": 150, 
+                "item_id": -22
+            }, 
+            {
+                "count": 150, 
+                "item_id": -20
+            }, 
+            {
+                "count": 3, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Staff", 
+        "output_item_count": 1, 
+        "output_item_id": 76987, 
+        "type": "Staff"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 150, 
+                "item_id": -19
+            }, 
+            {
+                "count": 150, 
+                "item_id": -22
+            }, 
+            {
+                "count": 150, 
+                "item_id": -20
+            }, 
+            {
+                "count": 3, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Longbow", 
+        "output_item_count": 1, 
+        "output_item_id": 75120, 
+        "type": "LongBow"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75974
+            }
+        ], 
+        "name": "Spirit of The Apparatus", 
+        "output_item_count": 1, 
+        "output_item_id": 74492, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72167
+            }
+        ], 
+        "name": "Spirit of The Bard Experiment", 
+        "output_item_count": 1, 
+        "output_item_id": 73117, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Shield", 
+        "output_item_count": 1, 
+        "output_item_id": 71628, 
+        "type": "Shield"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Daredevil's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 73648, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2640, 
+                "item_id": 1
+            }, 
+            {
+                "count": 50, 
+                "item_id": 46682
+            }
+        ], 
+        "name": "Reaper's Inscription", 
+        "output_item_count": 1, 
+        "output_item_id": 72982, 
+        "type": "Accessory"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": -19
+            }, 
+            {
+                "count": 100, 
+                "item_id": -22
+            }, 
+            {
+                "count": 100, 
+                "item_id": -20
+            }, 
+            {
+                "count": 2, 
+                "item_id": 74356
+            }
+        ], 
+        "name": "Plated Sword", 
+        "output_item_count": 1, 
+        "output_item_id": 74044, 
+        "type": "Sword"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71718
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70430
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73245
+            }, 
+            {
+                "count": 1, 
+                "item_id": 31092
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74477
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73648
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70436
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72290
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70862
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75383
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72228
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72877
+            }
+        ], 
+        "name": "Bo", 
+        "output_item_count": 1, 
+        "output_item_id": 69984, 
+        "type": "Staff"
     }
 ]
