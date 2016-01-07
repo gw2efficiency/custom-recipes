@@ -16,17 +16,20 @@ def recipe_items(recipes):
     return [recipe['output_item_id'] for recipe in recipes] \
            + [ingredient['item_id'] for recipe in recipes for ingredient in recipe['ingredients']]
 
+def compare_recipes(ingredients1, ingredients2):
+    if ingredients1['output_item_count'] != ingredients2['output_item_count']:
+        return True
+
+    ingredients1 = {x['item_id']: x['count'] for x in ingredients1['ingredients']}
+    ingredients2 = {x['item_id']: x['count'] for x in ingredients2['ingredients']}
+    return ingredients1 != ingredients2
 
 # Print a recipe as markdown
-def print_recipe(recipe, items):
-    string = '1. ' + str(recipe['output_item_count']) + 'x ' \
-             + items.get(recipe['output_item_id'], '???') \
-             + ' `' + str(recipe['output_item_id']) + '`' + "\n"
+def print_recipe(recipe):
+    string = str(recipe['output_item_id']) + ',' + str(recipe['output_item_count'])
 
     for ingredient in recipe['ingredients']:
-        string += '    - ' + str(ingredient['count']) + 'x ' \
-                  + items.get(ingredient['item_id'], '???') \
-                  + ' `' + str(ingredient['item_id']) + '`' + "\n"
+        string += ',' + str(ingredient['item_id']) + ',' + str(ingredient['count'])
 
     return string
 
@@ -49,7 +52,7 @@ new_recipes = [recipe for id, recipe in formatted_new.iteritems() if id in new_k
 # See what's different
 same_keys = set(formatted_new.keys()) & set(formatted_old.keys())
 changed_recipes = [recipe for id, recipe in formatted_new.iteritems() if
-                   id in same_keys and formatted_new[id] != formatted_old[id]]
+                   id in same_keys and compare_recipes(formatted_new[id], formatted_old[id])]
 
 # Output some stats
 print 'Same recipes: %d' % (len(same_keys) - len(changed_recipes))
@@ -57,28 +60,25 @@ print 'New recipes: %d' % len(new_recipes)
 print 'Changed recipes: %d' % len(changed_recipes)
 print 'Missing recipes: %d' % len(set(formatted_old.keys()) - set(formatted_new.keys()))
 
-# Write to files
-with open('b-differences-new.json', 'w') as outfile:
-    json.dump(new_recipes, outfile, indent=4, sort_keys=True)
-
-with open('c-differences-changed.json', 'w') as outfile:
-    json.dump(changed_recipes, outfile, indent=4, sort_keys=True)
-
 # Grab all the item id, so we can resolve them into names
 ids = set(recipe_items(new_recipes) + recipe_items(changed_recipes))
-resp = requests.get(url='http://gw2-api.com/items/?ids=' + ','.join(str(x) for x in ids))
-items = {item['id']: item['name'] for item in json.loads(resp.text) if item is not False}
 
 # Generate human readable output (markdown)
-string = "# New in other file\n\n"
+string = "# New in other file\n\n```\n"
+string += "output_id,output_count,input1_id,input1_count,input2_id,input2_count,...\n"
 for recipe in new_recipes:
-    string += print_recipe(recipe, items)
+    string += print_recipe(recipe) + "\n"
 
-string += "\n\n"
+string += "```\n\n"
 
-string += "# Different in other file\n\n"
+string += "# Different in other file\n\n```\n"
+string += "output_id,output_count,input1_id,input1_count,input2_id,input2_count,...\n"
 for recipe in changed_recipes:
-    string += print_recipe(recipe, items)
+    string += print_recipe(recipe)
+    string += '\nvs our ' + print_recipe(formatted_old[recipe['output_item_id']])
+    string += "\n\n"
+
+string += "```\n"
 
 with open('a-differences.md', 'w') as outfile:
     outfile.write(string.encode('utf8'))
