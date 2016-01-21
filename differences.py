@@ -16,22 +16,29 @@ def recipe_items(recipes):
     return [recipe['output_item_id'] for recipe in recipes] \
            + [ingredient['item_id'] for recipe in recipes for ingredient in recipe['ingredients']]
 
+
 def compare_recipes(ingredients1, ingredients2):
     if ingredients1['output_item_count'] != ingredients2['output_item_count']:
         return True
 
     ingredients1 = {x['item_id']: x['count'] for x in ingredients1['ingredients']}
-    ingredients2 = {x['item_id']: x['count'] for x in ingredients2['ingredients']}
+    ingredients2 = {abs(x['item_id']): x['count'] for x in ingredients2['ingredients']}
     return ingredients1 != ingredients2
+
 
 # Print a recipe as markdown
 def print_recipe(recipe):
+    first = True
     string = str(recipe['output_item_id']) + ',' + str(recipe['output_item_count'])
 
     for ingredient in recipe['ingredients']:
-        string += ',' + str(ingredient['item_id']) + ',' + str(ingredient['count'])
+        string += ','
+        if first:
+            first = False
+            string += '"'
+        string += str(ingredient['item_id']) + ',' + str(ingredient['count'])
 
-    return string
+    return string + '"'
 
 
 # Grab the currently known recipes
