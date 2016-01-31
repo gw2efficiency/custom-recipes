@@ -21197,7 +21197,7 @@
             }, 
             {
                 "count": 25, 
-                "item_id": 68625
+                "item_id": 77699
             }, 
             {
                 "count": 20, 
@@ -28578,12 +28578,12 @@
         "ingredients": [
             {
                 "count": 1, 
-                "item_id": -103
+                "item_id": 70417
             }
         ], 
         "name": "Spirit of the Perfected Focus", 
         "output_item_count": 1, 
-        "output_item_id": -102, 
+        "output_item_id": 72035, 
         "type": ""
     }, 
     {
@@ -32735,7 +32735,7 @@
         ], 
         "name": "Ad Infinitum", 
         "output_item_count": 1, 
-        "output_item_id": -111, 
+        "output_item_id": 74155, 
         "type": ""
     }, 
     {
@@ -36050,15 +36050,7 @@
                 "item_id": 71087
             }, 
             {
-                "count": 250, 
-                "item_id": 13262
-            }, 
-            {
-                "count": 250, 
-                "item_id": 12970
-            }, 
-            {
-                "count": 5, 
+                "count": 1, 
                 "item_id": 45887
             }, 
             {
@@ -36086,7 +36078,7 @@
                 "item_id": 13261
             }, 
             {
-                "count": 5, 
+                "count": 1, 
                 "item_id": 45888
             }, 
             {
@@ -36150,7 +36142,7 @@
         "ingredients": [
             {
                 "count": 1, 
-                "item_id": 76791
+                "item_id": 76751
             }, 
             {
                 "count": 1, 
@@ -47059,7 +47051,7 @@
                 "item_id": -22
             }, 
             {
-                "count": 21, 
+                "count": 2112, 
                 "item_id": -1
             }
         ], 
@@ -59581,7 +59573,7 @@
             }, 
             {
                 "count": 10, 
-                "item_id": 12889
+                "item_id": 12895
             }, 
             {
                 "count": 1000, 
@@ -59688,7 +59680,7 @@
             }, 
             {
                 "count": 10, 
-                "item_id": 12889
+                "item_id": 12895
             }, 
             {
                 "count": 1000, 
@@ -60045,7 +60037,7 @@
             }, 
             {
                 "count": 50, 
-                "item_id": 24358
+                "item_id": 24341
             }, 
             {
                 "count": 250, 
@@ -60155,7 +60147,7 @@
             }, 
             {
                 "count": 10, 
-                "item_id": 12889
+                "item_id": 12895
             }, 
             {
                 "count": 1000, 
@@ -60650,5 +60642,5923 @@
         "output_item_count": 1, 
         "output_item_id": 72238, 
         "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45851
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12865
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12864
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12863
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12862
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12861
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12860
+            }
+        ], 
+        "name": "The Art of Forging: Hammer Head Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73739, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Pistol Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 73750, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Light of the Chak", 
+        "output_item_count": 1, 
+        "output_item_id": 73754, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68625
+            }
+        ], 
+        "name": "Celebrate Raven", 
+        "output_item_count": 1, 
+        "output_item_id": 75111, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Cobalt Great Jungle Wurm", 
+        "output_item_count": 1, 
+        "output_item_id": 73857, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Mace Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73968, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24475
+            }
+        ], 
+        "name": "Test Sapphire Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 74116, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74151
+            }
+        ], 
+        "name": "Flame Jelly", 
+        "output_item_count": 1, 
+        "output_item_id": 73454, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73494
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75143
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76398
+            }
+        ], 
+        "name": "Red Color Study", 
+        "output_item_count": 1, 
+        "output_item_id": 74152, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71882
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72033
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73418
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74462
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70560
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77142
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73384
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74502
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71804
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77070
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72668
+            }
+        ], 
+        "name": "Expertise in Focus Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 74171, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74282
+            }
+        ], 
+        "name": "Caustic Paste", 
+        "output_item_count": 1, 
+        "output_item_id": 71531, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12839
+            }
+        ], 
+        "name": "Mithril Nightsword Blade Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 74306, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12944
+            }
+        ], 
+        "name": "Elder Short Bow Stave Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 74311, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73785
+            }
+        ], 
+        "name": "Spirit of the Perfected Rifle", 
+        "output_item_count": 1, 
+        "output_item_id": 74348, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72243
+            }
+        ], 
+        "name": "True Love of the Dwarves", 
+        "output_item_count": 1, 
+        "output_item_id": 74387, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Crimson Great Jungle Wurm", 
+        "output_item_count": 1, 
+        "output_item_id": 76571, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24330
+            }
+        ], 
+        "name": "Test Crystal Lodestone Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 74406, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76646
+            }
+        ], 
+        "name": "Watered with Pure Grove Water", 
+        "output_item_count": 1, 
+        "output_item_id": 74413, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45833
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12925
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12924
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12923
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12922
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12921
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12920
+            }
+        ], 
+        "name": "The Art of Forging: Pistol Barrel Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74418, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12857
+            }
+        ], 
+        "name": "Mithril Dagger Blade Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 74442, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73316
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73164
+            }
+        ], 
+        "name": "Essence of the Krait", 
+        "output_item_count": 1, 
+        "output_item_id": 75215, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45883
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12987
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12986
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12985
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12984
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12983
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12982
+            }
+        ], 
+        "name": "The Art of Woodworking: Focus Casing Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74462, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Focus Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74502, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 73954
+            }
+        ], 
+        "name": "Basic Mithril Sword Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 74503, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74813
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77033
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76413
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76540
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74011
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76637
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75806
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73300
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72218
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75834
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75788
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70559
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76868
+            }
+        ], 
+        "name": "Mini Holographic Zinn", 
+        "output_item_count": 1, 
+        "output_item_id": 74532, 
+        "type": "MiniPet"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Scepter Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74550, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Axe Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74551, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68436
+            }
+        ], 
+        "name": "Trickery of the Mighty Oouo", 
+        "output_item_count": 1, 
+        "output_item_id": 73990, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72155
+            }
+        ], 
+        "name": "Technomancy Blueprint", 
+        "output_item_count": 1, 
+        "output_item_id": 74651, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Trident Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74727, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45841
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12943
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12942
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12941
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12940
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12939
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12938
+            }
+        ], 
+        "name": "The Art of Woodworking: Longbow Stave Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75262, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45835
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12961
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12960
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12959
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12958
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12957
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12956
+            }
+        ], 
+        "name": "The Art of Woodworking: Pistol Frame Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 74773, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 69953
+            }
+        ], 
+        "name": "War Machine", 
+        "output_item_count": 1, 
+        "output_item_id": 74799, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Axe Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74820, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank Tequatl", 
+        "output_item_count": 1, 
+        "output_item_id": 74828, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73358
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75715
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72623
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73342
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74428
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75700
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71588
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74739
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73400
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73376
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76902
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75209
+            }
+        ], 
+        "name": "Expertise in Warhorn Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 74846, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stablizing Magics: Staff Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 74859, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Branded Light", 
+        "output_item_count": 1, 
+        "output_item_id": 75282, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Harpoon Gun Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74870, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Mace Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74943, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68436
+            }
+        ], 
+        "name": "Trickery of Lyss", 
+        "output_item_count": 1, 
+        "output_item_id": 74951, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73275
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75143
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76398
+            }
+        ], 
+        "name": "Orange Color Study", 
+        "output_item_count": 1, 
+        "output_item_id": 75300, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank Old Tom", 
+        "output_item_count": 1, 
+        "output_item_id": 75014, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71476
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73066
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75150
+            }
+        ], 
+        "name": "Essence of Tentacles", 
+        "output_item_count": 1, 
+        "output_item_id": 75043, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Dagger Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75086, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 66915
+            }
+        ], 
+        "name": "Polarized Ley Line Infused Stone", 
+        "output_item_count": 1, 
+        "output_item_id": 66914, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 66918
+            }
+        ], 
+        "name": "Purified Vial of Sacred Glacial Water", 
+        "output_item_count": 1, 
+        "output_item_id": 66919, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 66922
+            }
+        ], 
+        "name": "Weirded Phantasmal Residue", 
+        "output_item_count": 1, 
+        "output_item_id": 66921, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45844
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12967
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12966
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12965
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12964
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12963
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12962
+            }
+        ], 
+        "name": "The Art of Tanning: Longbow String Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75329, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 71099
+            }
+        ], 
+        "name": "Basic Mithril Rifle Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 75173, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 66985
+            }
+        ], 
+        "name": "Resonating Chaos Orb", 
+        "output_item_count": 1, 
+        "output_item_id": 66983, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 66988
+            }
+        ], 
+        "name": "Pile of Crackling Ley Line Dust", 
+        "output_item_count": 1, 
+        "output_item_id": 66986, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 66990
+            }
+        ], 
+        "name": "Vial of Mending Oasis Water", 
+        "output_item_count": 1, 
+        "output_item_id": 66991, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Torch Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75239, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Sword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75271, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45847
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12841
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12840
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12839
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12838
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12837
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12836
+            }
+        ], 
+        "name": "The Art of Forging: Nightsword Blade Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75341, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45856
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12847
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12846
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12845
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12844
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12843
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12842
+            }
+        ], 
+        "name": "The Art of Forging: Sword Hilt Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75361, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Amber Great Jungle Wurm", 
+        "output_item_count": 1, 
+        "output_item_id": 75371, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12881
+            }
+        ], 
+        "name": "Mithril Dagger Hilt Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 75374, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank the Arcane Council", 
+        "output_item_count": 1, 
+        "output_item_id": 75377, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68625
+            }
+        ], 
+        "name": "Celebrate Wolf", 
+        "output_item_count": 1, 
+        "output_item_id": 75442, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8711
+            }
+        ], 
+        "name": "Birding with the Grawl Shaman", 
+        "output_item_count": 1, 
+        "output_item_id": 75345, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45850
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12894
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12893
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12892
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12891
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12890
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12889
+            }
+        ], 
+        "name": "The Art of Woodworking: Axe Haft Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75463, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Torch Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75475, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank the Voice of Koda", 
+        "output_item_count": 1, 
+        "output_item_id": 75491, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76760
+            }
+        ], 
+        "name": "Concentrated Volatile Substance", 
+        "output_item_count": 1, 
+        "output_item_id": 75649, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12887
+            }
+        ], 
+        "name": "Mithril Nightsword Hilt Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 75676, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Mace Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75755, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74416
+            }
+        ], 
+        "name": "Essence of Meteorology", 
+        "output_item_count": 1, 
+        "output_item_id": 75801, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Sword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75803, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45842
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12949
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12948
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12947
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12946
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12945
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12944
+            }
+        ], 
+        "name": "The Art of Woodworking: Short Bow Stave Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75829, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71319
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71401
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71310
+            }
+        ], 
+        "name": "Essence of Spirit", 
+        "output_item_count": 1, 
+        "output_item_id": 75899, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Staff Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 75906, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 76386
+            }
+        ], 
+        "name": "Basic Mithril Nightsword Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 75908, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Hammer Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75924, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71566
+            }, 
+            {
+                "count": 1, 
+                "item_id": 46746
+            }
+        ], 
+        "name": "Combine Raven and Spirit", 
+        "output_item_count": 1, 
+        "output_item_id": 75938, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72174
+            }, 
+            {
+                "count": 1, 
+                "item_id": 23637
+            }, 
+            {
+                "count": 1, 
+                "item_id": 23686
+            }, 
+            {
+                "count": 1, 
+                "item_id": 8733
+            }
+        ], 
+        "name": "Essence of Technology", 
+        "output_item_count": 1, 
+        "output_item_id": 75939, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Hammer Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75941, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45845
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12853
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12852
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12851
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12849
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12848
+            }
+        ], 
+        "name": "The Art of Forging: Axe Blade Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 76004, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12966
+            }
+        ], 
+        "name": "The Art of Tanning: Short Bow String Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76015, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45848
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12871
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12870
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12869
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12868
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12867
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12866
+            }
+        ], 
+        "name": "The Art of Forging: Sword Blade Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76021, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68436
+            }
+        ], 
+        "name": "Trickery of Ilya", 
+        "output_item_count": 1, 
+        "output_item_id": 75637, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Hammer Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76031, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Short Bow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76081, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75173
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72639
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72483
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73155
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75419
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71471
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73547
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75131
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71238
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73256
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71142
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70905
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71056
+            }
+        ], 
+        "name": "Expertise in Rifle Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 76093, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ancient Thistlereed", 
+        "output_item_count": 1, 
+        "output_item_id": 76156, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74521
+            }
+        ], 
+        "name": "Essence of Diving", 
+        "output_item_count": 1, 
+        "output_item_id": 76157, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank the Pale Tree", 
+        "output_item_count": 1, 
+        "output_item_id": 75499, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Pistol Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76176, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Pistol Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 76188, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Staff Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76192, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71942
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74151
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73039
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71072
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70577
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74282
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72078
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72019
+            }
+        ], 
+        "name": "Essence of Chemistry", 
+        "output_item_count": 1, 
+        "output_item_id": 75504, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8711
+            }
+        ], 
+        "name": "Birding with the Molten Berserker", 
+        "output_item_count": 1, 
+        "output_item_id": 76203, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45854
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12883
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12882
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12881
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12880
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12879
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12878
+            }
+        ], 
+        "name": "The Art of Forging: Dagger Hilt Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76243, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12896
+            }
+        ], 
+        "name": "Elder Hammer Haft Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 76323, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68625
+            }
+        ], 
+        "name": "Celebrate Snow Leopard", 
+        "output_item_count": 1, 
+        "output_item_id": 76370, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71974
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77145
+            }
+        ], 
+        "name": "Essence of Energy", 
+        "output_item_count": 1, 
+        "output_item_id": 76380, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76760
+            }
+        ], 
+        "name": "Ichor Alkahest", 
+        "output_item_count": 1, 
+        "output_item_id": 76395, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43449
+            }
+        ], 
+        "name": "Test Potent Master Tuning Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 75544, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24521
+            }
+        ], 
+        "name": "Test Opal Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 76437, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76646
+            }
+        ], 
+        "name": "Watered with Ancient Waters of Hope", 
+        "output_item_count": 1, 
+        "output_item_id": 76472, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Nightsword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76481, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45844
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12967
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12966
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12965
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12964
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12963
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12962
+            }
+        ], 
+        "name": "Thick Short Bow String Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 75561, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Trident Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76616, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12894
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12893
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12892
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12891
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12890
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }
+        ], 
+        "name": "The Art of Woodworking: Axe Haft Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 76619, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Torch Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76695, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 36041
+            }
+        ], 
+        "name": "No Respect for You", 
+        "output_item_count": 1, 
+        "output_item_id": 76739, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 71922
+            }
+        ], 
+        "name": "Basic Mithril Hammer Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 76741, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68625
+            }
+        ], 
+        "name": "Celebrate Bear", 
+        "output_item_count": 1, 
+        "output_item_id": 75602, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 75621
+            }
+        ], 
+        "name": "Basic Mithril Mace Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 76836, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45846
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12859
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12858
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12857
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12856
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12855
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12854
+            }
+        ], 
+        "name": "The Art of Forging: Dagger Blade Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76872, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 46746
+            }
+        ], 
+        "name": "Catalytic Converter", 
+        "output_item_count": 1, 
+        "output_item_id": 76886, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Warhorn Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76902, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72447
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75143
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76398
+            }
+        ], 
+        "name": "Blue Color Study", 
+        "output_item_count": 1, 
+        "output_item_id": 76911, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Shield Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 76916, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 36041
+            }
+        ], 
+        "name": "Mystic Soup", 
+        "output_item_count": 1, 
+        "output_item_id": 77031, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank the Skritt King", 
+        "output_item_count": 1, 
+        "output_item_id": 76939, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24519
+            }
+        ], 
+        "name": "Test Beryl Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 76958, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Staff Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 77009, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 20799
+            }
+        ], 
+        "name": "Test Mystic Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 77060, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Focus Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 77070, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71004
+            }
+        ], 
+        "name": "Essence of Anomaly", 
+        "output_item_count": 1, 
+        "output_item_id": 77082, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Daysword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 77111, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Short Bow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 77135, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71805
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71257
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73414
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72647
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71615
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76156
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73636
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71488
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77218
+            }
+        ], 
+        "name": "Essence of Ancient Mysticism", 
+        "output_item_count": 1, 
+        "output_item_id": 77190, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 74917
+            }
+        ], 
+        "name": "Basic Pistol Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 77216, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Havfrue", 
+        "output_item_count": 1, 
+        "output_item_id": 77218, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Nightsword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 77250, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Wind Rider's Light", 
+        "output_item_count": 1, 
+        "output_item_id": 75639, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank a Risen Giant", 
+        "output_item_count": 1, 
+        "output_item_id": 75713, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45839
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12937
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12936
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12935
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12934
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12933
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12932
+            }
+        ], 
+        "name": "The Art of Woodworking: Horn Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 75715, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8711
+            }
+        ], 
+        "name": "Birding with the Modniir Ulgoth", 
+        "output_item_count": 1, 
+        "output_item_id": 75716, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43772
+            }
+        ], 
+        "name": "Test Charged Quartz Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 77088, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8711
+            }
+        ], 
+        "name": "Birding with Mai Trin", 
+        "output_item_count": 1, 
+        "output_item_id": 77090, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77507
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77522
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77477
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77503
+            }
+        ], 
+        "name": "Wings of Ascension", 
+        "output_item_count": 1, 
+        "output_item_id": 77536, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 10000, 
+                "item_id": 77576
+            }
+        ], 
+        "name": "Masterful Toast", 
+        "output_item_count": 1, 
+        "output_item_id": 77633, 
+        "type": "Food"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank Knut", 
+        "output_item_count": 1, 
+        "output_item_id": 71652, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank Otyugh", 
+        "output_item_count": 1, 
+        "output_item_id": 75750, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Karka Queen", 
+        "output_item_count": 1, 
+        "output_item_id": 75767, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45835
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12961
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12960
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12959
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12958
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12957
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12956
+            }
+        ], 
+        "name": "The Art of Woodworking: Pistol Frame Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70415, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8686
+            }, 
+            {
+                "count": 1, 
+                "item_id": 8730
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74099
+            }
+        ], 
+        "name": "Essence of Bounty Hunting", 
+        "output_item_count": 1, 
+        "output_item_id": 70439, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Trident Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70455, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45849
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12901
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12900
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12899
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12898
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12897
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12896
+            }
+        ], 
+        "name": "The Art of Woodworking: Hammer Haft Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70461, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Pistol Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 70481, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Scepter Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70488, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72495
+            }
+        ], 
+        "name": "Essence of Prey", 
+        "output_item_count": 1, 
+        "output_item_id": 70493, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Scepter Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70512, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank Drakin Cinderspire", 
+        "output_item_count": 1, 
+        "output_item_id": 70565, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70577
+            }
+        ], 
+        "name": "Explosive Fumes", 
+        "output_item_count": 1, 
+        "output_item_id": 75324, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Pistol Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70623, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Torch Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70704, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13266
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13265
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13264
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13263
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13262
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13261
+            }
+        ], 
+        "name": "The Art of Woodworking: Staff Head Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70705, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Axe Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70723, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Pistol Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70725, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74532
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75104
+            }
+        ], 
+        "name": "Essence of Ancient Knowledge", 
+        "output_item_count": 1, 
+        "output_item_id": 70730, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12975
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12974
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12973
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12972
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12971
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12970
+            }
+        ], 
+        "name": "The Art of Woodworking: Staff Shaft Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 70736, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Dagger Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70740, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71111
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71883
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76462
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70885
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76616
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70455
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74727
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71373
+            }
+        ], 
+        "name": "Expertise in Trident Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 70757, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item_id": 45885
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13259
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13258
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13257
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13256
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13255
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13254
+            }
+        ], 
+        "name": "The Art of Woodworking: Scepter Core Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70790, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Golem's Light", 
+        "output_item_count": 1, 
+        "output_item_id": 70793, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Longbow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70841, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Short Bow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70849, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73698
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70415
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76720
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74418
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71778
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74803
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74271
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70623
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70725
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71378
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76176
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75302
+            }
+        ], 
+        "name": "Expertise in Pistol Crafting", 
+        "output_item_count": 1, 
+        "output_item_id": 70850, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Hammer Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70896, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Rifle Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70905, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 76386
+            }
+        ], 
+        "name": "Basic Mithril Daysword Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 70927, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Mace Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70946, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45855
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12886
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12885
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12884
+            }
+        ], 
+        "name": "The Art of Forging: Nightsword Hilt Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 70991, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 73074
+            }
+        ], 
+        "name": "Basic Elder Longbow Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 71020, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Nightsword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 74642, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73099
+            }
+        ], 
+        "name": "Essence of the Colossal", 
+        "output_item_count": 1, 
+        "output_item_id": 74643, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70776
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77158
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75059
+            }
+        ], 
+        "name": "Essence of Fish", 
+        "output_item_count": 1, 
+        "output_item_id": 71036, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 36041
+            }
+        ], 
+        "name": "Clear the Chamber", 
+        "output_item_count": 1, 
+        "output_item_id": 71047, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71072
+            }
+        ], 
+        "name": "Cryo Dust", 
+        "output_item_count": 1, 
+        "output_item_id": 72295, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76760
+            }
+        ], 
+        "name": "Concentrated Maguuma Bacteria", 
+        "output_item_count": 1, 
+        "output_item_id": 71081, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Rifle Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71142, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74828
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73135
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76571
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75371
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73857
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75767
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75750
+            }, 
+            {
+                "count": 1, 
+                "item_id": 70565
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71369
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75713
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75014
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71439
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71191
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72202
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71652
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75499
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75377
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76939
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71916
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72299
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75491
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71363
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73990
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72850
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74951
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75637
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74857
+            }
+        ], 
+        "name": "Essence of Mischief", 
+        "output_item_count": 1, 
+        "output_item_id": 71163, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45855
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12886
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12885
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12884
+            }
+        ], 
+        "name": "The Art of Forging: Daysword Hilt Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71169, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank Queen Jennah", 
+        "output_item_count": 1, 
+        "output_item_id": 71191, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12863
+            }
+        ], 
+        "name": "Mithril Hammer Head Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 75204, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Rifle Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71238, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ancient Kresdor", 
+        "output_item_count": 1, 
+        "output_item_id": 71257, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70734
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75386
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73493
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71268
+            }
+        ], 
+        "name": "Essence of Dreams", 
+        "output_item_count": 1, 
+        "output_item_id": 71260, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Axe Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 71265, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72184
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75143
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76398
+            }
+        ], 
+        "name": "Green Color Study", 
+        "output_item_count": 1, 
+        "output_item_id": 71304, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76646
+            }
+        ], 
+        "name": "Watered with the Cluster of Waves", 
+        "output_item_count": 1, 
+        "output_item_id": 71306, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Shield Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71313, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank Lawson Marriner", 
+        "output_item_count": 1, 
+        "output_item_id": 71363, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item_id": 45852
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12877
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12876
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12875
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12874
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12873
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12872
+            }
+        ], 
+        "name": "The Art of Forging: Mace Head Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71365, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Sand Giant", 
+        "output_item_count": 1, 
+        "output_item_id": 71369, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Pistol Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71378, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 73924
+            }
+        ], 
+        "name": "Basic Elder Short Bow Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 71390, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Jade Maw", 
+        "output_item_count": 1, 
+        "output_item_id": 71439, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Longbow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71462, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45845
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12853
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12852
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12851
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12850
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12849
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12848
+            }
+        ], 
+        "name": "The Art of Forging: Axe Blade Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71468, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 36041
+            }
+        ], 
+        "name": "Clear the Stage", 
+        "output_item_count": 1, 
+        "output_item_id": 71469, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ghost Stones", 
+        "output_item_count": 1, 
+        "output_item_id": 71488, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Daysword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71506, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Spear Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71534, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Staff Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71555, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ancient Hessdallen", 
+        "output_item_count": 1, 
+        "output_item_id": 71615, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45884
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13248
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13247
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13246
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13245
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13244
+            }, 
+            {
+                "count": 5, 
+                "item_id": 13243
+            }
+        ], 
+        "name": "The Art of Woodworking: Focus Core Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72033, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45847
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12841
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12840
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12839
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12838
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12837
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12836
+            }
+        ], 
+        "name": "The Art of Forging: Daysword Blade Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71760, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 73564
+            }
+        ], 
+        "name": "Basic Mithril Dagger Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 71774, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Focus Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71804, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ancient Haivoissen", 
+        "output_item_count": 1, 
+        "output_item_id": 71805, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12966
+            }
+        ], 
+        "name": "Thick Longbow String Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 71812, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45887
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13266
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13265
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13264
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13263
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13262
+            }, 
+            {
+                "count": 10, 
+                "item_id": 13261
+            }
+        ], 
+        "name": "The Art of Woodworking: Staff Head Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 71839, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45833
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12925
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12924
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12923
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12922
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12921
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12920
+            }
+        ], 
+        "name": "The Art of Forging: Pistol Barrel Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 71850, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72104
+            }
+        ], 
+        "name": "Essence of the End", 
+        "output_item_count": 1, 
+        "output_item_id": 71852, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45857
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12907
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12906
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12905
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12904
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12903
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12902
+            }
+        ], 
+        "name": "The Art of Forging: Shield Backing Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 71855, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 72160
+            }
+        ], 
+        "name": "Essence of Performance", 
+        "output_item_count": 1, 
+        "output_item_id": 71856, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8614
+            }, 
+            {
+                "count": 1, 
+                "item_id": 12352
+            }, 
+            {
+                "count": 2, 
+                "item_id": 8587
+            }, 
+            {
+                "count": 1, 
+                "item_id": 12192
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75053
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76944
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76388
+            }
+        ], 
+        "name": "Essence of Chickens and Eggs", 
+        "output_item_count": 1, 
+        "output_item_id": 71873, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76760
+            }
+        ], 
+        "name": "Arachnid Venom Decanter", 
+        "output_item_count": 1, 
+        "output_item_id": 71877, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 72491
+            }
+        ], 
+        "name": "Basic Elder Focus Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 71882, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Pistol Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 71897, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank Kiel", 
+        "output_item_count": 1, 
+        "output_item_id": 71916, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71942
+            }
+        ], 
+        "name": "Gelid Paste", 
+        "output_item_count": 1, 
+        "output_item_id": 74210, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 71087
+            }
+        ], 
+        "name": "Basic Elder Staff Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 71969, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76000
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75143
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76398
+            }
+        ], 
+        "name": "Yellow Color Study", 
+        "output_item_count": 1, 
+        "output_item_id": 71991, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72078
+            }
+        ], 
+        "name": "Blasting Powder", 
+        "output_item_count": 1, 
+        "output_item_id": 75588, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45858
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12913
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12912
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12911
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12910
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12909
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12908
+            }
+        ], 
+        "name": "The Art of Forging: Shield Boss Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72081, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 36041
+            }
+        ], 
+        "name": "Clear the Temple", 
+        "output_item_count": 1, 
+        "output_item_id": 72086, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Nightsword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72156, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Daysword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72281, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Shield Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72288, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank Evon Gnashblade", 
+        "output_item_count": 1, 
+        "output_item_id": 72299, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 74269
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76838
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72328
+            }
+        ], 
+        "name": "Essence of Sharks", 
+        "output_item_count": 1, 
+        "output_item_id": 72337, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Axe Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 72373, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Double Click"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 46746
+            }
+        ], 
+        "name": "Cosmic Power", 
+        "output_item_count": 1, 
+        "output_item_id": 72382, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Short Bow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72417, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76647
+            }
+        ], 
+        "name": "Essence of Quaggan Friendship", 
+        "output_item_count": 1, 
+        "output_item_id": 72445, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77003
+            }
+        ], 
+        "name": "Essence of Control", 
+        "output_item_count": 1, 
+        "output_item_id": 72454, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Daysword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72536, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 76963
+            }
+        ], 
+        "name": "Basic Axe Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 72604, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73116
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73257
+            }, 
+            {
+                "count": 1, 
+                "item_id": 74844
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72946
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71563
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72659
+            }
+        ], 
+        "name": "Fractal Reliquary", 
+        "output_item_count": 1, 
+        "output_item_id": 72606, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45834
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12919
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12918
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12917
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12916
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12915
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12914
+            }
+        ], 
+        "name": "The Art of Forging: Rifle Barrel Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72639, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ancient Theign", 
+        "output_item_count": 1, 
+        "output_item_id": 72647, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8711
+            }
+        ], 
+        "name": "Birding with the Molten Firestorm", 
+        "output_item_count": 1, 
+        "output_item_id": 72649, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Vinewrath's Light", 
+        "output_item_count": 1, 
+        "output_item_id": 72651, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 71087
+            }
+        ], 
+        "name": "Basic Staff Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 72706, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Staff Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 72736, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 70737
+            }
+        ], 
+        "name": "Prank Smodur", 
+        "output_item_count": 1, 
+        "output_item_id": 72202, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 73334
+            }
+        ], 
+        "name": "Essence of Hope", 
+        "output_item_count": 1, 
+        "output_item_id": 72766, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item_id": 45886
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12981
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12980
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12979
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12978
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12977
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12976
+            }
+        ], 
+        "name": "The Art of Woodworking: Scepter Rod Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 72819, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 8711
+            }
+        ], 
+        "name": "Birding with Taidha Covington", 
+        "output_item_count": 1, 
+        "output_item_id": 72824, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77023
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77126
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72888
+            }
+        ], 
+        "name": "Essence of the Hunt", 
+        "output_item_count": 1, 
+        "output_item_id": 72846, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 68436
+            }
+        ], 
+        "name": "Trickery of Lyssa", 
+        "output_item_count": 1, 
+        "output_item_id": 72850, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Basilisk's Light", 
+        "output_item_count": 1, 
+        "output_item_id": 72856, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 71474
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75143
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76398
+            }
+        ], 
+        "name": "Purple Color Study", 
+        "output_item_count": 1, 
+        "output_item_id": 72883, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 36041
+            }
+        ], 
+        "name": "Soil the Cleansed", 
+        "output_item_count": 1, 
+        "output_item_id": 72935, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24474
+            }
+        ], 
+        "name": "Test Ruby Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 72987, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Axe Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 73030, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Sword Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73033, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 46731
+            }, 
+            {
+                "count": 1, 
+                "item_id": 73039
+            }
+        ], 
+        "name": "Volatile Compound", 
+        "output_item_count": 1, 
+        "output_item_id": 73359, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 76963
+            }
+        ], 
+        "name": "Basic Mithril Axe Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 73073, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76238
+            }
+        ], 
+        "name": "Prank the Claw of Jormag", 
+        "output_item_count": 1, 
+        "output_item_id": 73135, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item_id": 45843
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12955
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12954
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12953
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12952
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12951
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12950
+            }
+        ], 
+        "name": "The Art of Woodworking: Rifle Stock Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73155, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45888
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12975
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12974
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12973
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12972
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12971
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12970
+            }
+        ], 
+        "name": "The Art of Woodworking: Staff Shaft Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73170, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 43773
+            }
+        ], 
+        "name": "Light of the Ley Line", 
+        "output_item_count": 1, 
+        "output_item_id": 73173, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item_id": 45850
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12894
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12893
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12892
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12891
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12890
+            }, 
+            {
+                "count": 10, 
+                "item_id": 12889
+            }
+        ], 
+        "name": "The Art of Woodworking: Mace Haft Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73179, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Longbow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73235, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Rifle Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73256, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Dagger Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73261, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Achievement"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 75716
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72824
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77090
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72649
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76203
+            }, 
+            {
+                "count": 1, 
+                "item_id": 75345
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77031
+            }, 
+            {
+                "count": 1, 
+                "item_id": 76739
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72935
+            }, 
+            {
+                "count": 1, 
+                "item_id": 72086
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71469
+            }, 
+            {
+                "count": 1, 
+                "item_id": 71047
+            }
+        ], 
+        "name": "Essence of Audacity", 
+        "output_item_count": 1, 
+        "output_item_id": 73332, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12839
+            }
+        ], 
+        "name": "Mithril Daysword Blade Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 73335, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 45840
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12931
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12930
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12929
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12928
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12927
+            }, 
+            {
+                "count": 5, 
+                "item_id": 12926
+            }
+        ], 
+        "name": "The Art of Forging: Warhorn Mouthpiece Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73342, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 71591
+            }
+        ], 
+        "name": "Basic Elder Wood Warhorn Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 73358, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Warhorn Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73376, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12887
+            }
+        ], 
+        "name": "Mithril Daysword Hilt Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 73385, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 24473
+            }
+        ], 
+        "name": "Test Emerald Crystal Facets", 
+        "output_item_count": 1, 
+        "output_item_id": 73391, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Warhorn Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73400, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Ancient Grogshadow", 
+        "output_item_count": 1, 
+        "output_item_id": 73414, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 19925
+            }
+        ], 
+        "name": "Old World Magics: Axe Edition Vol. 2", 
+        "output_item_count": 1, 
+        "output_item_id": 73488, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 37897
+            }
+        ], 
+        "name": "Ancient Water Magics: Shield Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73531, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76646
+            }
+        ], 
+        "name": "Watered with Oasis Water", 
+        "output_item_count": 1, 
+        "output_item_id": 73545, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 73248
+            }
+        ], 
+        "name": "Stabilizing Magics: Staff Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73567, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Staff Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73617, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 76646
+            }
+        ], 
+        "name": "Watered with Mineral Water", 
+        "output_item_count": 1, 
+        "output_item_id": 73632, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Charge"
+        ], 
+        "ingredients": [
+            {
+                "count": 100, 
+                "item_id": 46731
+            }
+        ], 
+        "name": "Tribute to Leading Grade", 
+        "output_item_count": 1, 
+        "output_item_id": 73636, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 74917
+            }
+        ], 
+        "name": "Basic Mithril Pistol Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 73698, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 25, 
+                "item_id": 37907
+            }
+        ], 
+        "name": "Herbal Magics: Longbow Edition", 
+        "output_item_count": 1, 
+        "output_item_id": 73701, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 250, 
+                "item_id": 12938
+            }
+        ], 
+        "name": "Elder Longbow Stave Requisition", 
+        "output_item_count": 1, 
+        "output_item_id": 73702, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 10, 
+                "item_id": 9443
+            }, 
+            {
+                "count": 50, 
+                "item_id": 19976
+            }, 
+            {
+                "count": 1, 
+                "item_id": 20852
+            }, 
+            {
+                "count": 5, 
+                "item_id": 71352
+            }
+        ], 
+        "name": "Oni Blade", 
+        "output_item_count": 1, 
+        "output_item_id": 76686, 
+        "type": "Greatsword"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77711
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77769
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77769
+            }, 
+            {
+                "count": 10, 
+                "item_id": 45176
+            }
+        ], 
+        "name": "Lucky Ram Lantern", 
+        "output_item_count": 1, 
+        "output_item_id": 68619, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77769
+            }, 
+            {
+                "count": 250, 
+                "item_id": 45175
+            }, 
+            {
+                "count": 25, 
+                "item_id": 77699
+            }, 
+            {
+                "count": 20, 
+                "item_id": 19663
+            }
+        ], 
+        "name": "Lucky Great Monkey Lantern", 
+        "output_item_count": 1, 
+        "output_item_id": 77685, 
+        "type": "Back"
     }
 ]
