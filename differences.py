@@ -87,5 +87,5 @@ for recipe in changed_recipes:
 
 string += "```\n"
 
-with open('a-differences.md', 'w') as outfile:
+with open('differences.md', 'w') as outfile:
     outfile.write(string.encode('utf8'))

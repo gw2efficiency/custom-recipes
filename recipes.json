@@ -32686,7 +32686,7 @@
     }, 
     {
         "disciplines": [
-            "Merchant"
+            "Achievement"
         ], 
         "ingredients": [
             {
@@ -32744,7 +32744,7 @@
     }, 
     {
         "disciplines": [
-            "Merchant"
+            "Achievement"
         ], 
         "ingredients": [
             {
@@ -102245,5 +102245,131 @@
         "output_item_count": 7, 
         "output_item_id": 43992, 
         "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77509
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77485
+            }, 
+            {
+                "count": 1, 
+                "item_id": 19626
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77536
+            }
+        ], 
+        "name": "The Ascension", 
+        "output_item_count": 1, 
+        "output_item_id": 77474, 
+        "type": "Back"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item_id": 46746
+            }, 
+            {
+                "count": 250, 
+                "item_id": 70820
+            }, 
+            {
+                "count": 5, 
+                "item_id": 77486
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77520
+            }
+        ], 
+        "name": "Gift of Skirmishing", 
+        "output_item_count": 1, 
+        "output_item_id": 77485, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Mystic Forge"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 77493
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77497
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77538
+            }, 
+            {
+                "count": 1, 
+                "item_id": 77548
+            }
+        ], 
+        "name": "Gift of the Competitor", 
+        "output_item_count": 1, 
+        "output_item_id": 77509, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Double Click"
+        ], 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item_id": 77531
+            }
+        ], 
+        "name": "Perfect Mist Core", 
+        "output_item_count": 1, 
+        "output_item_id": 77520, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 21, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Sun Bead", 
+        "output_item_count": 1, 
+        "output_item_id": 19717, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 525, 
+                "item_id": -2
+            }
+        ], 
+        "name": "Sun Bead", 
+        "output_item_count": 25, 
+        "output_item_id": 19717, 
+        "type": "CraftingMaterial"
     }
 ]
