@@ -32690,10 +32690,6 @@
         ], 
         "ingredients": [
             {
-                "count": 4, 
-                "item_id": 76760
-            }, 
-            {
                 "count": 1, 
                 "item_id": 46746
             }, 
@@ -38603,11 +38599,15 @@
             {
                 "count": 1, 
                 "item_id": 71281
+            }, 
+            {
+                "count": 1, 
+                "item_id": 37059
             }
         ], 
         "name": "Proof: Finite Result", 
         "output_item_count": 1, 
-        "output_item_id": 37059, 
+        "output_item_id": 76466, 
         "type": "Back"
     }, 
     {
@@ -63391,7 +63391,7 @@
             }, 
             {
                 "count": 5, 
-                "item_id": 13254
+                "item_id": 13260
             }
         ], 
         "name": "The Art of Woodworking: Scepter Core Edition", 
@@ -102371,5 +102371,365 @@
         "output_item_count": 25, 
         "output_item_id": 19717, 
         "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Salvage"
+        ], 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item_id": 38135
+            }
+        ], 
+        "name": "Tiny Snowflake", 
+        "output_item_count": 32, 
+        "output_item_id": 38130, 
+        "type": "Generic"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 88800, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Memory of the Zodiac", 
+        "output_item_count": 1, 
+        "output_item_id": 77711, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 32, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Crystalline Bottle", 
+        "output_item_count": 1, 
+        "output_item_id": 70647, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 320, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Crystalline Bottle", 
+        "output_item_count": 10, 
+        "output_item_id": 70647, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 104, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Bag of Mortar", 
+        "output_item_count": 1, 
+        "output_item_id": 75762, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 1040, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Bag of Mortar", 
+        "output_item_count": 10, 
+        "output_item_id": 75762, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Crafter's Backpack Frame", 
+        "output_item_count": 1, 
+        "output_item_id": 62942, 
+        "type": "CraftingMaterial"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 5000, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Essence of Elegance", 
+        "output_item_count": 1, 
+        "output_item_id": 75087, 
+        "type": "Trophy"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Basket", 
+        "output_item_count": 1, 
+        "output_item_id": 72103, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Bookshelf", 
+        "output_item_count": 1, 
+        "output_item_id": 71438, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Chair", 
+        "output_item_count": 1, 
+        "output_item_id": 76345, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Crate", 
+        "output_item_count": 1, 
+        "output_item_id": 73282, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Table", 
+        "output_item_count": 1, 
+        "output_item_id": 71077, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Boulder", 
+        "output_item_count": 1, 
+        "output_item_id": 71278, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Planter", 
+        "output_item_count": 1, 
+        "output_item_id": 75396, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Shrub", 
+        "output_item_count": 1, 
+        "output_item_id": 73098, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Tree", 
+        "output_item_count": 1, 
+        "output_item_id": 71255, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Pedestal", 
+        "output_item_count": 1, 
+        "output_item_id": 71662, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Candle", 
+        "output_item_count": 1, 
+        "output_item_id": 70689, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Column", 
+        "output_item_count": 1, 
+        "output_item_id": 73657, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Flagpole", 
+        "output_item_count": 1, 
+        "output_item_id": 74615, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Fountain", 
+        "output_item_count": 1, 
+        "output_item_id": 71681, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "White Balloon", 
+        "output_item_count": 1, 
+        "output_item_id": 73093, 
+        "type": "Gizmo"
+    }, 
+    {
+        "disciplines": [
+            "Merchant"
+        ], 
+        "ingredients": [
+            {
+                "count": 2400, 
+                "item_id": -1
+            }
+        ], 
+        "name": "Basic Torch", 
+        "output_item_count": 1, 
+        "output_item_id": 74705, 
+        "type": "Gizmo"
     }
 ]
