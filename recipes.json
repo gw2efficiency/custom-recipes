@@ -28910,9 +28910,9 @@
         ], 
         "ingredients": [
             {
-                "count": 1, 
+                "count": 1,
                 "item_id": 74068
-            }, 
+            },
             {
                 "count": 1, 
                 "item_id": 71820
@@ -33202,11 +33202,7 @@
             {
                 "count": 1, 
                 "item_id": 74515
-            }, 
-            {
-                "count": 1, 
-                "item_id": 74068
-            }, 
+            },
             {
                 "count": 1, 
                 "item_id": 46746
