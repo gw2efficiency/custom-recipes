@@ -32920,11 +32920,7 @@
             {
                 "count": 1, 
                 "item_id": 75742
-            }, 
-            {
-                "count": 1, 
-                "item_id": 76399
-            }, 
+            },
             {
                 "count": 1, 
                 "item_id": 46746
@@ -59592,10 +59588,6 @@
             {
                 "count": 1, 
                 "item_id": 72051
-            }, 
-            {
-                "count": 1, 
-                "item_id": 71426
             }
         ], 
         "name": "Gift of the Cosmos", 
@@ -172831,10 +172823,6 @@
             "Achievement"
         ], 
         "ingredients": [
-            {
-                "count": 1, 
-                "item_id": 78425
-            }, 
             {
                 "count": 1, 
                 "item_id": 78173
