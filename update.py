@@ -1,6 +1,6 @@
 import json, requests, subprocess
 
-api_url = 'http://gw2profits.com/json/v2/forge/'
+api_url = 'http://gw2profits.com/json/v3/forge/'
 file_name = 'recipes.json'
 
 # Grab the recipes from the API
@@ -12,6 +12,12 @@ if resp.status_code != 200:
 
 # Parse the JSON
 data = json.loads(resp.text)
+
+for element in data:
+    if 'Achievement' not in element['disciplines']:
+        element.pop('achievement_id', 0)
+    if element['output_item_count_range'] == '':
+        element.pop('output_item_count_range', 0)
 
 # Write them formatted into a file
 with open(file_name, 'w') as outfile:
