@@ -76,15 +76,12 @@ for element in data:
         element['ingredients'] = [ingredient for ingredient in element['ingredients']
                                   if ingredient['item_id'] not in prePrecursors]
 
+# Format the JSON
+formattedJson = "[\n"
+for element in data:
+    formattedJson += '  ' + json.dumps(element, sort_keys=True) + ',\n'
+formattedJson = formattedJson[0:-2] + "\n]"
+
 # Write them formatted into a file
 with open(file_name, 'w') as outfile:
-    json.dump(data, outfile, indent=4, sort_keys=True)
-
-# Check if the file changed
-diff = subprocess.Popen("git diff " + file_name, shell=True, stdout=subprocess.PIPE).stdout.read()
-
-# If yes, commit and push it to the repo, else do nothing
-if len(diff) > 0:
-    print diff
-else:
-    print "JSON file is the same"
+    outfile.write(formattedJson)
