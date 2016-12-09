@@ -7995,5 +7995,7 @@
   {"disciplines": ["Double click"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 79729}], "name": "Offering for Steadfast Refugees", "output_item_count": 1, "output_item_id": 79934, "type": "Trophy"},
   {"disciplines": ["Double click"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 79729}], "name": "Offering for Elemental Harmony", "output_item_count": 1, "output_item_id": 79938, "type": "Trophy"},
   {"disciplines": ["Double click"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 79729}], "name": "Offering to Restore Magical Balance", "output_item_count": 1, "output_item_id": 79714, "type": "Trophy"},
-  {"disciplines": ["Double click"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 79729}], "name": "Offering to Restore Nature's Majesty", "output_item_count": 1, "output_item_id": 79785, "type": "Trophy"}
+  {"disciplines": ["Double click"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 79729}], "name": "Offering to Restore Nature's Majesty", "output_item_count": 1, "output_item_id": 79785, "type": "Trophy"},
+  {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 49523}], "name": "Memories of the Mother", "output_item_count": 1, "output_item_id": 78520, "type": "Trophy"},
+  {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 1, "item_id": 49523}], "name": "Memories of the Father", "output_item_count": 1, "output_item_id": 78278, "type": "Trophy"}
 ]
