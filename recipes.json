@@ -8033,5 +8033,5 @@
   {"id":"-99999","name":"Mystic Essence of Annihilation","output_item_id":81407,"output_item_count":1,"disciplines":["Mystic Forge"],"ingredients":[{"count":20,"item_id":24351},{"count":50,"item_id":24350},{"count":10,"item_id":46681},{"count":1,"item_id":81320}]},
   {"id":"-99999","name":"Gift of Conquering","output_item_id":81371,"output_item_count":1,"disciplines":["Mystic Forge"],"ingredients":[{"count":1,"item_id":81296},{"count":4,"item_id":19678},{"count":250,"item_id":71581},{"count":2,"item_id":46746}]},
   {"id":"-99999","name":"Warcry","output_item_id":81467,"output_item_count":1,"disciplines":["Mystic Forge"],"ingredients":[{"count":1,"item_id":81455},{"count":1,"item_id":81356},{"count":1,"item_id":81288},{"count":1,"item_id":81294}]},
-  {"id":"-99999","name":"Warbringer","output_item_id":81462,"output_item_count":1,"disciplines":["Mystic Forge"],"ingredients":[{"count":1,"item_id":19626},{"count":1,"item_id":81467},{"count":1,"item_id":81478},{"count":1,"item_id":81371}]},
+  {"id":"-99999","name":"Warbringer","output_item_id":81462,"output_item_count":1,"disciplines":["Mystic Forge"],"ingredients":[{"count":1,"item_id":19626},{"count":1,"item_id":81467},{"count":1,"item_id":81478},{"count":1,"item_id":81371}]}
 ]
