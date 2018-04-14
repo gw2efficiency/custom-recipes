@@ -8125,5 +8125,7 @@
   {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 3, "item_id": 49432}, {"count": 20, "item_id": 79230}], "name": "Mystical +9 Agony Infusion", "output_item_count": 1, "output_item_id": 86180, "type": "UpgradeComponent"},
   {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 3, "item_id": 49428}, {"count": 5, "item_id": 79230}], "name": "Spiteful +5 Agony Infusion", "output_item_count": 1, "output_item_id": 85971, "type": "UpgradeComponent"},
   {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 3, "item_id": 49430}, {"count": 10, "item_id": 79230}], "name": "Spiteful +7 Agony Infusion", "output_item_count": 1, "output_item_id": 86150, "type": "UpgradeComponent"},
-  {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 3, "item_id": 49432}, {"count": 20, "item_id": 79230}], "name": "Spiteful +9 Agony Infusion", "output_item_count": 1, "output_item_id": 86113, "type": "UpgradeComponent"}
+  {"disciplines": ["Merchant"], "id": "-99999", "ingredients": [{"count": 3, "item_id": 49432}, {"count": 20, "item_id": 79230}], "name": "Spiteful +9 Agony Infusion", "output_item_count": 1, "output_item_id": 86113, "type": "UpgradeComponent"},
+  {"id":"-99999","name":"Meditation Logbook","output_item_id":85731,"output_item_count":1,"disciplines":["Mystic Forge"],"ingredients":[{"count":1,"item_id":86383},{"count":1,"item_id":85852},{"count":1,"item_id":85855},{"count":100,"item_id":82678}]},
+  {"id":"-99999","name": "Hateful Sworl", "type":"LegendaryComponent","output_item_id":86104,"output_item_count":1,"disciplines":["Achievement"],"ingredients":[{"item_id":85731,"count":1}]}
 ]
