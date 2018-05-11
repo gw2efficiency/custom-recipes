@@ -163,15 +163,42 @@ class RecipeCard extends Component {
     const diffRecipe = this.props.diffRecipe
     const itemNames = this.props.itemNames
     const mode = this.props.mode
+    const isInvalid = recipe.ingredients.find(x => !x.item_id) || !recipe.output_item_id
+    const isRecursive = !!recipe.ingredients.find(x => x.item_id === recipe.output_item_id)
+
+    let countIsDifferent = false
+    let itemIsDifferent = false
+
+    if (diffRecipe) {
+      countIsDifferent = diffRecipe.output_item_count !== recipe.output_item_count
+      itemIsDifferent = diffRecipe.output_item_id !== recipe.output_item_id
+    }
 
     return (
       <div className='card mb-3'>
         <div className="card-body">
           {/* Output Count & Name */}
           <div className='d-flex mb-2'>
-            <strong className='mr-2'>{recipe.output_item_count}</strong>
-            <span className='mr-1'>{itemNames[recipe.output_item_id]}</span>
+            <strong
+              className={c([
+                'mr-2',
+                {'text-danger': countIsDifferent}
+              ])}
+            >
+              {recipe.output_item_count}
+            </strong>
+
+            <span
+              className={c([
+                'mr-1',
+                {'text-danger': itemIsDifferent}
+              ])}
+            >
+              {itemNames[recipe.output_item_id]}
+            </span>
+
             <span className='text-muted'>({recipe.output_item_id})</span>
+
             {recipe.id && <span className='ml-auto'>({recipe.id})</span>}
           </div>
 
@@ -197,7 +224,7 @@ class RecipeCard extends Component {
                 >
                   {ingredient.count}
                 </strong>
-                {' '}
+
                 <span
                   className={c([
                     'mr-1',
@@ -206,7 +233,7 @@ class RecipeCard extends Component {
                 >
                   {itemNames[ingredient.item_id]}
                 </span>
-                {' '}
+
                 <span className='text-muted'>({ingredient.item_id})</span>
               </div>
             )
@@ -218,6 +245,20 @@ class RecipeCard extends Component {
             {' '}
             {recipe.min_rating && <span>(Min {recipe.min_rating})</span>}
           </div>
+
+          {/* Invalid warning */}
+          {isInvalid && (
+            <div className='alert alert-danger' style={{padding: '5px 15px', marginTop: 15, marginBottom: 0}}>
+              🛑 This recipe is invalid
+            </div>
+          )}
+
+          {/* Recursive warning */}
+          {isRecursive && (
+            <div className='alert alert-warning' style={{padding: '5px 15px', marginTop: 15, marginBottom: 0}}>
+              ⚠ This recipe is recursive
+            </div>
+          )}
         </div>
 
         {/* Buttons */}
@@ -226,6 +267,7 @@ class RecipeCard extends Component {
             <button
               className='btn btn-success btn-sm mr-2'
               onClick={() => this.props.add()}
+              disabled={isInvalid}
             >
               Accept new
             </button>
