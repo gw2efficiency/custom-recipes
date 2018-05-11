@@ -16,7 +16,8 @@ app.get('/api/:index', (req, res) => {
     updater: updater[index],
     existing: existing
       .map((x, i) => Object.assign(x, {index: i}))
-      .filter(x => x.output_item_id === updater[index].output_item_id),
+      .filter(x => x.output_item_id === updater[index].output_item_id)
+      .slice(0, 25),
     total: updater.length
   })
 })
@@ -24,9 +25,9 @@ app.get('/api/:index', (req, res) => {
 app.post('/api/:index', (req, res) => {
   const body = req.body
   const index = req.params.index
-  const existing = JSON.parse(fs.readFileSync('./recipes.json', 'utf-8'))
-  const updater = JSON.parse(fs.readFileSync('./tmp/differences.json', 'utf-8'))
-  const ignored = JSON.parse(fs.readFileSync('./ignored.json', 'utf-8'))
+  let existing = JSON.parse(fs.readFileSync('./recipes.json', 'utf-8'))
+  let updater = JSON.parse(fs.readFileSync('./tmp/differences.json', 'utf-8'))
+  let ignored = JSON.parse(fs.readFileSync('./ignored.json', 'utf-8'))
 
   if (body.action === 'dismiss') {
     const recipe = updater.splice(index, 1)[0]
@@ -43,6 +44,23 @@ app.post('/api/:index', (req, res) => {
     fs.writeFileSync('./tmp/differences.json', JSON.stringify(updater, null, 2), 'utf-8')
 
     existing.push(recipe)
+    const jsonString = '[\n' + existing.map(x => '  ' + JSON.stringify(x)).join(',\n') + '\n]'
+    fs.writeFileSync('./recipes.json', jsonString, 'utf-8')
+
+    return res.send('ok')
+  }
+
+  if (body.action === 'overwrite') {
+    const recipe = updater.splice(index, 1)[0]
+    fs.writeFileSync('./tmp/differences.json', JSON.stringify(updater, null, 2), 'utf-8')
+
+    existing = existing.map((x, i) => {
+      if (i !== body.existingIndex) {
+        return x
+      }
+
+      return recipe
+    })
     const jsonString = '[\n' + existing.map(x => '  ' + JSON.stringify(x)).join(',\n') + '\n]'
     fs.writeFileSync('./recipes.json', jsonString, 'utf-8')
 
