@@ -1,0 +1,11 @@
+{
+  "name": "custom-recipes",
+  "description": "Additional recipes which the official API does not provide",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node src/validate.js"
+  },
+  "dependencies": {
+    "is-my-json-valid": "^2.17.2"
+  }
+}
