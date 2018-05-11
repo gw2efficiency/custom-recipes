@@ -1,5 +1,5 @@
 const fs = require('fs')
-const validateRecipe = require('./validateRecipe')
+const validateRecipe = require('./helpers/validateRecipe')
 
 function validate () {
   console.log('Reading file')

@@ -1,4 +1,4 @@
-var validator = require('is-my-json-valid')
+const validator = require('is-my-json-valid')
 
 // EXAMPLE RECIPE:
 // {
