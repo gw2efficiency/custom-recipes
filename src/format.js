@@ -49,5 +49,9 @@ function formatIngredient (ingredient) {
     return false
   }
 
-  return ingredient
+  let result = {}
+  result.count = ingredient.count
+  result.item_id = ingredient.item_id
+
+  return result
 }
