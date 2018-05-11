@@ -1,5 +1,5 @@
 const fs = require('fs')
-const hashRecipes = require('./helpers/hashRecipes')
+const hashRecipes = require('./helpers/hashRecipe')
 
 async function run (name) {
   console.log(`Loading differences in recipes from ${name}`)
