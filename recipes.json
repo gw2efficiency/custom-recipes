@@ -7544,5 +7544,8 @@
   {"name":"Vital 9 Agony Infusion","output_item_id":37136,"output_item_count":1,"ingredients":[{"count":2,"item_id":79230},{"count":25,"item_id":24358},{"count":1,"item_id":69953},{"count":1,"item_id":37132}],"disciplines":["Mystic Forge"]},
   {"name":"White Mantle Scroll (Infused)","output_item_id":81136,"output_item_count":1,"ingredients":[{"count":1,"item_id":80369},{"count":1,"item_id":37070},{"count":250,"item_id":19721},{"count":1,"item_id":38024}],"disciplines":["Mystic Forge"]},
   {"name":"Yakkington's Ring (Infused)","output_item_id":37112,"output_item_count":1,"ingredients":[{"count":1,"item_id":37083},{"count":1,"item_id":38024},{"count":3,"item_id":38023},{"count":5,"item_id":38014}],"disciplines":["Mystic Forge"]},
-  {"name":"Claw of the Khan-Ur","output_item_id":87109,"output_item_count":1,"ingredients":[{"count":1,"item_id":87037},{"count":1,"item_id":87115},{"count":1,"item_id":71820},{"count":1,"item_id":86036}],"disciplines":["Mystic Forge"]}
+  {"name":"Claw of the Khan-Ur","output_item_id":87109,"output_item_count":1,"ingredients":[{"count":1,"item_id":87037},{"count":1,"item_id":87115},{"count":1,"item_id":71820},{"count":1,"item_id":86036}],"disciplines":["Mystic Forge"]},
+  {"name":"Diver's Breather Veil","output_item_id":87531,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]},
+  {"name":"Diver's Breather Mask","output_item_id":87499,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]},
+  {"name":"Diver's Breather Helmet","output_item_id":87540,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]}
 ]
