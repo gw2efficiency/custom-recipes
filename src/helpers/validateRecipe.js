@@ -15,8 +15,8 @@ const validator = require('is-my-json-valid')
 //     {'item_id': 71331, 'count': 1}
 //   ],
 //
-//   'min_rating': 450,
-//   'disciplines': ['Weaponsmith']
+//   'disciplines': ['Weaponsmith'],
+//   'min_rating': 450
 // }
 
 const SCHEMA = {
@@ -61,9 +61,6 @@ const SCHEMA = {
       required: true
     },
 
-    min_rating: {
-      type: 'integer'
-    },
     disciplines: {
       type: 'array',
       items: {
@@ -71,6 +68,13 @@ const SCHEMA = {
       },
       minItems: 1,
       required: true
+    },
+    min_rating: {
+      type: 'integer'
+    },
+    achievement_id: {
+      type: 'integer',
+      minimum: 1
     }
   },
   required: true,
@@ -86,8 +90,9 @@ const RECIPE_KEYS = [
   {name: 'output_item_count'},
   {name: 'ingredients'},
 
+  {name: 'disciplines'},
   {name: 'min_rating', optional: true},
-  {name: 'disciplines'}
+  {name: 'achievement_id', optional: true}
 ]
 
 const ALLOWED_KEYS = RECIPE_KEYS.map(x => x.name)
