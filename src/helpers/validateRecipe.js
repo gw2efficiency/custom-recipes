@@ -64,7 +64,25 @@ const SCHEMA = {
     disciplines: {
       type: 'array',
       items: {
-        type: 'string'
+        type: 'string',
+        enum: [
+          'Armorsmith',
+          'Artificer',
+          'Chef',
+          'Huntsman',
+          'Jeweler',
+          'Leatherworker',
+          'Scribe',
+          'Tailor',
+          'Weaponsmith',
+
+          'Achievement',
+          'Mystic Forge',
+          'Merchant',
+          'Double Click',
+          'Charge',
+          'Salvage'
+        ]
       },
       minItems: 1,
       required: true
@@ -143,6 +161,26 @@ function validateRecipe (recipe, line) {
   // Check if an achievement recipe has the required discipline data
   if (recipe.disciplines.includes('Achievement') && !recipe.achievement_id) {
     console.log(`Recipe L${line}: Missing achievement_id for Achievement discipline`)
+    console.log()
+    error = true
+  }
+
+  // Check if an recipe with a normal discipline has the required min_rating
+  const officialDisciplines = [
+    'Armorsmith',
+    'Artificer',
+    'Chef',
+    'Huntsman',
+    'Jeweler',
+    'Leatherworker',
+    'Scribe',
+    'Tailor',
+    'Weaponsmith'
+  ]
+  const isOfficialDiscipline = recipe.disciplines.filter(x => officialDisciplines.includes(x)).length > 0
+
+  if (isOfficialDiscipline && !recipe.min_rating) {
+    console.log(`Recipe L${line}: Missing min_rating for [${recipe.disciplines.join(', ')}] disciplines`)
     console.log()
     error = true
   }

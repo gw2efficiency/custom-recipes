@@ -23,7 +23,7 @@ async function run (name) {
   })
   console.log(`${updaterRecipes.length} new recipes`)
 
-  console.log('Writing to temporary file (/.tmp/differences.json)')
+  console.log('Writing to temporary file (./tmp/differences.json)')
   fs.writeFileSync(`./tmp/differences.json`, JSON.stringify(updaterRecipes, null, 2), 'utf-8')
 }
 
