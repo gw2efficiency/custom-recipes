@@ -36,11 +36,15 @@ function formatRecipe (recipe) {
     return false
   }
 
+  result.disciplines = recipe.disciplines
+
   if (recipe.min_rating) {
     result.min_rating = recipe.min_rating
   }
 
-  result.disciplines = recipe.disciplines
+  if (recipe.achievement_id) {
+    result.achievement_id = recipe.achievement_id
+  }
 
   return result
 }

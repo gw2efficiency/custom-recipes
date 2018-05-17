@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import {observable} from 'mobx'
 import {observer} from 'mobx-react'
 import c from 'classnames'
+import pick from 'lodash.pick'
 
 @observer
 class App extends Component {
@@ -168,10 +169,26 @@ class RecipeCard extends Component {
 
     let countIsDifferent = false
     let itemIsDifferent = false
+    let isOutputDifferent = false
+    let isInputDifferent = false
+    let isDisciplineDifferent = false
+    let isMetaDifferent = false
 
     if (diffRecipe) {
       countIsDifferent = diffRecipe.output_item_count !== recipe.output_item_count
       itemIsDifferent = diffRecipe.output_item_id !== recipe.output_item_id
+
+      const outputKeys = ['name', 'output_item_id', 'output_item_count']
+      isOutputDifferent = JSON.stringify(pick(diffRecipe, outputKeys)) !== JSON.stringify(pick(recipe, outputKeys))
+
+      const inputKeys = ['ingredients']
+      isInputDifferent = JSON.stringify(pick(diffRecipe, inputKeys)) !== JSON.stringify(pick(recipe, inputKeys))
+
+      const disciplineKeys = ['disciplines', 'min_rating']
+      isDisciplineDifferent = JSON.stringify(pick(diffRecipe, disciplineKeys)) !== JSON.stringify(pick(recipe, disciplineKeys))
+
+      const metaKeys = ['id', 'achievement_id']
+      isMetaDifferent = JSON.stringify(pick(diffRecipe, metaKeys)) !== JSON.stringify(pick(recipe, metaKeys))
     }
 
     return (
@@ -244,22 +261,69 @@ class RecipeCard extends Component {
             {recipe.disciplines.join(', ')}
             {' '}
             {recipe.min_rating && <span>(Min {recipe.min_rating})</span>}
+            {' '}
+            {recipe.achievement_id && <span>(AID {recipe.achievement_id})</span>}
           </div>
-
-          {/* Invalid warning */}
-          {isInvalid && (
-            <div className='alert alert-danger' style={{padding: '5px 15px', marginTop: 15, marginBottom: 0}}>
-              🛑 This recipe is invalid
-            </div>
-          )}
-
-          {/* Recursive warning */}
-          {isRecursive && (
-            <div className='alert alert-warning' style={{padding: '5px 15px', marginTop: 15, marginBottom: 0}}>
-              ⚠ This recipe is recursive
-            </div>
-          )}
         </div>
+
+        {/* Review helpers */}
+        {(diffRecipe || isInvalid || isRecursive) && (
+          <div className="card-footer">
+            {/* Differences */}
+            <table className="table table-sm">
+              <thead>
+              <tr>
+                <th style={{borderTop: 0}}>Output</th>
+                <th style={{borderTop: 0}}>Ingredients</th>
+                <th style={{borderTop: 0}}>Discipline</th>
+                <th style={{borderTop: 0}}>Metadata</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td>
+                  {isOutputDifferent
+                    ? <span className='text-danger'>DIFFERENT</span>
+                    : <span className='text-success'>MATCH</span>
+                  }
+                </td>
+                <td>
+                  {isInputDifferent
+                    ? <span className='text-danger'>DIFFERENT</span>
+                    : <span className='text-success'>MATCH</span>
+                  }
+                </td>
+                <td>
+                  {isDisciplineDifferent
+                    ? <span className='text-danger'>DIFFERENT</span>
+                    : <span className='text-success'>MATCH</span>
+                  }
+                </td>
+                <td>
+                  {isMetaDifferent
+                    ? <span className='text-danger'>DIFFERENT</span>
+                    : <span className='text-success'>MATCH</span>
+                  }
+                </td>
+              </tr>
+              </tbody>
+            </table>
+
+            {/* Invalid warning */}
+            {isInvalid && (
+              <div className='alert alert-danger' style={{padding: '5px 15px', marginTop: 15, marginBottom: 0}}>
+                🛑 This recipe is invalid
+              </div>
+            )}
+
+            {/* Recursive warning */}
+            {isRecursive && (
+              <div className='alert alert-warning' style={{padding: '5px 15px', marginTop: 15, marginBottom: 0}}>
+                ⚠ This recipe is recursive
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Buttons */}
         <div className="card-footer d-flex">
@@ -299,6 +363,12 @@ class RecipeCard extends Component {
             >
               Overwrite
             </button>
+          )}
+
+          {mode === 'existing' && (
+            <div className='text-muted ml-auto'>
+              L{recipe.index}
+            </div>
           )}
         </div>
       </div>
