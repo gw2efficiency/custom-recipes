@@ -140,6 +140,13 @@ function validateRecipe (recipe, line) {
     error = true
   }
 
+  // Check if an achievement recipe has the required discipline data
+  if (recipe.disciplines.includes('Achievement') && !recipe.achievement_id) {
+    console.log(`Recipe L${line}: Missing achievement_id for Achievement discipline`)
+    console.log()
+    error = true
+  }
+
   return error
 }
 
