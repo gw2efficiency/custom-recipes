@@ -7,6 +7,7 @@ async function run (name) {
   console.log('Reading recipes & ignored hashes')
   const existingRecipes = JSON.parse(fs.readFileSync('./recipes.json', 'utf-8'))
   const ignoredHashes = JSON.parse(fs.readFileSync('./ignored.json', 'utf-8'))
+  const ignoredItems = JSON.parse(fs.readFileSync('./ignored-items.json', 'utf-8')).map(x => x.id)
 
   console.log('Generating recipe hashes for existing')
   const existingRecipeHashes = existingRecipes.map(hashRecipes)
@@ -18,7 +19,7 @@ async function run (name) {
   console.log('Filtering new recipes')
   updaterRecipes = updaterRecipes.filter(recipe => {
     const hash = hashRecipes(recipe)
-    return !existingRecipeHashes.includes(hash) && !ignoredHashes.includes(hash)
+    return !existingRecipeHashes.includes(hash) && !ignoredHashes.includes(hash) && !ignoredItems.includes(recipe.output_item_id)
   })
   console.log(`${updaterRecipes.length} new recipes`)
 

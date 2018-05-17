@@ -367,7 +367,7 @@ class RecipeCard extends Component {
 
           {mode === 'existing' && (
             <div className='text-muted ml-auto'>
-              L{recipe.index}
+              L{recipe.index + 2}
             </div>
           )}
         </div>
