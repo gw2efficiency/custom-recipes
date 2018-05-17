@@ -7500,5 +7500,6 @@
   {"name":"Claw of the Khan-Ur","output_item_id":87109,"output_item_count":1,"ingredients":[{"count":1,"item_id":87037},{"count":1,"item_id":87115},{"count":1,"item_id":71820},{"count":1,"item_id":86036}],"disciplines":["Mystic Forge"]},
   {"name":"Diver's Breather Veil","output_item_id":87531,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]},
   {"name":"Diver's Breather Mask","output_item_id":87499,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]},
-  {"name":"Diver's Breather Helmet","output_item_id":87540,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]}
+  {"name":"Diver's Breather Helmet","output_item_id":87540,"output_item_count":1,"ingredients":[{"count":512,"item_id":87528}],"disciplines":["Merchant"]},
+  {"name":"Irradiated Vision Crystal","output_item_id":85947,"output_item_count":1,"ingredients":[{"count":50,"item_id":85828},{"count":1,"item_id":86316},{"count":1,"item_id":46746},{"count":10,"item_id":19721}],"disciplines":["Charge"]}
 ]
