@@ -10,15 +10,18 @@ class App extends Component {
   @observable itemNames = {}
   @observable index = 0
 
-  componentDidMount () {
-    this.fetchItemNames()
-    this.fetchFromAPI()
+  async componentDidMount () {
+    await this.fetchItemNames()
+    await this.fetchFromAPI()
   }
 
   async fetchItemNames () {
     try {
       this.itemNames = JSON.parse(localStorage.getItem('itemNames'))
-      return
+
+      if (this.itemNames && this.itemNames.length > 50) {
+        return
+      }
     } catch (_) {
     }
 
@@ -92,7 +95,7 @@ class App extends Component {
   }
 
   render () {
-    if (!this.apiResponse) {
+    if (!this.apiResponse || !this.itemNames) {
       return null
     }
 
