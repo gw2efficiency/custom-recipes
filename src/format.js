@@ -2,6 +2,7 @@ const fs = require('fs')
 
 console.log('Reading file')
 const file = fs.readFileSync('./recipes.json', 'utf-8')
+const overwrites = require('./helpers/getOverwrites')
 
 console.log('Parsing file to JSON')
 let json = JSON.parse(file)
@@ -23,6 +24,10 @@ function formatRecipe (recipe) {
 
   result.name = recipe.name
   result.output_item_id = recipe.output_item_id
+
+  if (typeof overwrites[result.output_item_id] !== undefined) {
+    result.id = overwrites[result.output_item_id]
+  }
 
   if (result.output_item_id < 0) {
     return false
