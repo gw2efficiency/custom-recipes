@@ -7476,5 +7476,6 @@
   {"name":"Sun-Blessed Zephyrite Gloves (medium)","output_item_id":88141,"output_item_count":1,"ingredients":[{"count":250,"item_id":43773},{"count":5,"item_id":43772},{"count":20,"item_id":19663},{"count":1,"item_id":88176}],"disciplines":["Mystic Forge"]},
   {"name":"Wind-Blessed Zephyrite Gloves (heavy)","output_item_id":88133,"output_item_count":1,"ingredients":[{"count":250,"item_id":43773},{"count":5,"item_id":43772},{"count":20,"item_id":19663},{"count":1,"item_id":88160}],"disciplines":["Mystic Forge"]},
   {"name":"Wind-Blessed Zephyrite Gloves (light)","output_item_id":88202,"output_item_count":1,"ingredients":[{"count":250,"item_id":43773},{"count":5,"item_id":43772},{"count":20,"item_id":19663},{"count":1,"item_id":88150}],"disciplines":["Mystic Forge"]},
-  {"name":"Wind-Blessed Zephyrite Gloves (medium)","output_item_id":88128,"output_item_count":1,"ingredients":[{"count":250,"item_id":43773},{"count":5,"item_id":43772},{"count":20,"item_id":19663},{"count":1,"item_id":88121}],"disciplines":["Mystic Forge"]}
+  {"name":"Wind-Blessed Zephyrite Gloves (medium)","output_item_id":88128,"output_item_count":1,"ingredients":[{"count":250,"item_id":43773},{"count":5,"item_id":43772},{"count":20,"item_id":19663},{"count":1,"item_id":88121}],"disciplines":["Mystic Forge"]},
+  {"name":"Funerary Incense","output_item_id":86093,"output_item_count":1,"ingredients":[{"count":1,"item_id":68063},{"count":1,"item_id":19925},{"count":1,"item_id":19721}],"disciplines":["Merchant"]}
 ]
