@@ -3,6 +3,7 @@
   "description": "Additional recipes which the official API does not provide",
   "version": "1.0.0",
   "scripts": {
+    "start": "sh start.sh",
     "test": "node src/validate.js"
   },
   "dependencies": {
