@@ -12,7 +12,7 @@ json = json.map(formatRecipe).filter(Boolean)
 
 console.log('Writing to file')
 const jsonString = '[\n' + json.map(x => '  ' + JSON.stringify(x)).join(',\n') + '\n]'
-fs.writeFileSync('tmp/recipes-formatted.json', jsonString, 'utf-8')
+fs.writeFileSync('./recipes.json', jsonString, 'utf-8')
 
 function formatRecipe (recipe) {
   let result = {}

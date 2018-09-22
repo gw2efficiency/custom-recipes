@@ -65,3 +65,5 @@ Claw of Resolution (87037) => 12657
 Claw of Retribution (86968) => 12662
 Call of the Void (87764) => 12717
 Lament (87930) => 12725
+Tlehco (88851) => 12810
+Anima (88885) => 12804
