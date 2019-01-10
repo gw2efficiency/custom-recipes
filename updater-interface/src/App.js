@@ -25,7 +25,7 @@ class App extends Component {
     } catch (_) {
     }
 
-    const response = await window.fetch('http://api.gw2efficiency.com/items?ids=all')
+    const response = await window.fetch('https://api.gw2efficiency.com/items?ids=all')
     const items = await response.json()
 
     let map = {}
