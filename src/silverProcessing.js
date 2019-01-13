@@ -59,17 +59,9 @@ function createGemstoneRecipes(results){
 
     for(let i=0;i<baseItems.length;i++){
         // 10% chance of getting 5 and 25 respectfully
-        let dust = {"name":"Amalgamated Gemstone","output_item_id":68063,"output_item_count":1.4,"ingredients":[{"count":1,"item_id":24277}],"disciplines":["Mystic Forge"]};
-        let ecto = {"name":"Amalgamated Gemstone","output_item_id":68063,"output_item_count":11.5,"ingredients":[{"count":5,"item_id":19721}],"disciplines":["Mystic Forge"]};
-
-        dust.ingredients.push({"count":3,"item_id":baseItems[i]});
-        dust.ingredients.push({"count":3,"item_id":baseItems[i]});
-        dust.ingredients.push({"count":3,"item_id":baseItems[i]});
+        let dust = {"name":"Amalgamated Gemstone","output_item_id":68063,"output_item_count":1.4,"ingredients":[{"count":1,"item_id":24277},{"count":3,"item_id":baseItems[i]},{"count":3,"item_id":baseItems[i]},{"count":3,"item_id":baseItems[i]}],"disciplines":["Mystic Forge"]};
+        let ecto = {"name":"Amalgamated Gemstone","output_item_id":68063,"output_item_count":11.5,"ingredients":[{"count":5,"item_id":19721},{"count":25,"item_id":baseItems[i]},{"count":25,"item_id":baseItems[i]},{"count":25,"item_id":baseItems[i]}],"disciplines":["Mystic Forge"]};
         results.push(dust);
-
-        ecto.ingredients.push({"count":25,"item_id":baseItems[i]});
-        ecto.ingredients.push({"count":25,"item_id":baseItems[i]});
-        ecto.ingredients.push({"count":25,"item_id":baseItems[i]});
         results.push(ecto);
     }
     return results;
