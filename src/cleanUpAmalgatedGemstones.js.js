@@ -14,8 +14,6 @@ function run () {
     for(let i=0;i<json.length;i++){
         let pushToResults = true;
         if(json[i].output_item_id === 68063){
-            // clears all gemstone recipes
-            //pushToResults = false;continue;
             // clears only recipes that  use random gems for the slots
             if(!processGemstones(json[i])){pushToResults = false; continue;}
         }
@@ -31,7 +29,6 @@ function run () {
     }
     results = createGemstoneRecipes(results);
     fs.writeFileSync(`./recipes.json`, JSON.stringify(results, null, 2), 'utf-8');
-    fs.writeFileSync(`./silver_items.json`, JSON.stringify(items, null, 2), 'utf-8');
     console.log("Before/after", json.length ,  results.length)
 }
 
@@ -52,10 +49,8 @@ function processGemstones(recipe){
 }
 
 function createGemstoneRecipes(results){
-    let baseItems = [
-        // add new orbs ID's in (on a new line) below this to generate the recipes
-        //24514,24518,24532,24533,24524,72436,42010,24520,76491,24512,24510,75654,24515,74988,76179,72315,70957,72504,24522,24508,24516,24884,24502,24772,24773
-    ];
+    // add new orbs ID's in (on a new line) below this to generate the recipes
+    let baseItems = [];
 
     for(let i=0;i<baseItems.length;i++){
         // 10% chance of getting 5 and 25 respectfully
