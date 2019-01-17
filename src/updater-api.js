@@ -15,7 +15,7 @@ app.get('/api/:index', (req, res) => {
   res.send({
     updater: updater[index],
     existing: existing
-      .map((x, i) => Object.assign(x, { index: i }))
+      .map((x, i) => Object.assign(x, {index: i}))
       .filter(x => x.output_item_id === updater[index].output_item_id)
       .slice(0, 25),
     total: updater.length

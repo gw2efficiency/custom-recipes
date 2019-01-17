@@ -25,7 +25,7 @@ function formatRecipe (recipe) {
   result.name = recipe.name
   result.output_item_id = recipe.output_item_id
 
-  if (typeof overwrites[result.output_item_id] !== 'undefined') {
+  if (typeof overwrites[result.output_item_id] !== "undefined") {
     result.id = overwrites[result.output_item_id]
   }
 
