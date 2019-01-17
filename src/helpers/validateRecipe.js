@@ -102,15 +102,15 @@ const SCHEMA = {
 const validate = validator(SCHEMA)
 
 const RECIPE_KEYS = [
-  {name: 'id', optional: true},
-  {name: 'name'},
-  {name: 'output_item_id'},
-  {name: 'output_item_count'},
-  {name: 'ingredients'},
+  { name: 'id', optional: true },
+  { name: 'name' },
+  { name: 'output_item_id' },
+  { name: 'output_item_count' },
+  { name: 'ingredients' },
 
-  {name: 'disciplines'},
-  {name: 'min_rating', optional: true},
-  {name: 'achievement_id', optional: true}
+  { name: 'disciplines' },
+  { name: 'min_rating', optional: true },
+  { name: 'achievement_id', optional: true }
 ]
 
 const ALLOWED_KEYS = RECIPE_KEYS.map(x => x.name)
@@ -150,7 +150,7 @@ function validateRecipe (recipe, line) {
   }
 
   // Check if the schema matches
-  const valid = validate(recipe, {verbose: true, greedy: true})
+  const valid = validate(recipe, { verbose: true, greedy: true })
   if (!valid) {
     console.log(`Recipe L${line}: Schema validation failed`)
     console.log(validate.errors.map(x => `\t${x.field} ${x.message}`).join('\n'))
