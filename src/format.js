@@ -11,7 +11,7 @@ console.log('Formatting recipes')
 json = json.map(formatRecipe).filter(Boolean)
 
 console.log('Writing to file')
-const jsonString = '[\n' + json.map(x => '  ' + JSON.stringify(x)).join(',\n') + '\n]'
+const jsonString = '[\n' + json.map(x => '  ' + JSON.stringify(x)).join(',\n') + '\n]\n'
 fs.writeFileSync('./recipes.json', jsonString, 'utf-8')
 
 function formatRecipe (recipe) {
@@ -25,7 +25,7 @@ function formatRecipe (recipe) {
   result.name = recipe.name
   result.output_item_id = recipe.output_item_id
 
-  if (typeof overwrites[result.output_item_id] !== "undefined") {
+  if (typeof overwrites[result.output_item_id] !== 'undefined') {
     result.id = overwrites[result.output_item_id]
   }
 

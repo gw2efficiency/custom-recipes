@@ -1,9 +1,9 @@
 const fs = require('fs')
 
-let overwrites = fs.readFileSync('./official-id-overwrite.txt', 'utf-8')
+const overwrites = fs.readFileSync('./official-id-overwrite.txt', 'utf-8')
 
 let map = {}
-overwrites = overwrites
+overwrites
   .split('\n')
   .map(row => {
     row = row
