@@ -29,6 +29,11 @@ function formatRecipe (recipe) {
     return false
   }
 
+  // We don't care about their amalgated gemstone recipes
+  if (result.output_item_id === 68063) {
+    return false
+  }
+
   result.output_item_count = recipe.output_item_count
   result.ingredients = recipe.ingredients.map(formatIngredient).filter(Boolean)
 
