@@ -2937,5 +2937,7 @@
   {"name":"Gift of Ephemeral Magic","output_item_id":91112,"output_item_count":1,"ingredients":[{"count":100,"item_id":88955},{"count":100,"item_id":89537},{"count":100,"item_id":90783},{"count":1,"item_id":19663}],"disciplines":["Mystic Forge"]},
   {"name":"Gift of Prescience","output_item_id":90985,"output_item_count":1,"ingredients":[{"count":1,"item_id":19623},{"count":1,"item_id":76427},{"count":100,"item_id":19676},{"count":1,"item_id":91010}],"disciplines":["Mystic Forge"]},
   {"name":"Gift of Upgrades","output_item_id":89218,"output_item_count":1,"ingredients":[{"count":250,"item_id":89271},{"count":250,"item_id":89103},{"count":250,"item_id":89216},{"count":250,"item_id":89258}],"disciplines":["Mystic Forge"]},
-  {"name":"Vision","output_item_id":91048,"output_item_count":1,"ingredients":[{"count":1,"item_id":91035},{"count":1,"item_id":71820},{"count":1,"item_id":90985},{"count":1,"item_id":91041}],"disciplines":["Mystic Forge"]}
+  {"name":"Vision","output_item_id":91048,"output_item_count":1,"ingredients":[{"count":1,"item_id":91035},{"count":1,"item_id":71820},{"count":1,"item_id":90985},{"count":1,"item_id":91041}],"disciplines":["Mystic Forge"]},
+  {"name":"Crystalline Heart","output_item_id":78797,"output_item_count":1,"ingredients":[{"count":100,"item_id":46683}],"disciplines":["Merchant"]},
+  {"name":"Memory Essence Encapsulator","output_item_id":91024,"output_item_count":1,"ingredients":[{"count":50,"item_id":19721},{"count":10,"item_id":12834},{"count":1,"item_id":49523},{"count":3,"item_id":46743}],"disciplines":["Merchant"]}
 ]
