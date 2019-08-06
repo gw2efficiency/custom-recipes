@@ -2974,5 +2974,7 @@
   {"name":"Mini White Skyscale Hatchling","output_item_id":91344,"output_item_count":1,"ingredients":[{"count":1,"item_id":91274},{"count":1,"item_id":91274},{"count":1,"item_id":91319},{"count":8,"item_id":20323}],"disciplines":["Mystic Forge"]},
   {"name":"Gift of Runes","output_item_id":89218,"output_item_count":1,"ingredients":[{"count":50,"item_id":89105},{"count":20,"item_id":19675},{"count":100,"item_id":19721},{"count":50,"item_id":19925}],"disciplines":["Mystic Forge"]},
   {"name":"Legendary Rune","output_item_id":91536,"output_item_count":1,"ingredients":[{"count":1,"item_id":89218},{"count":1,"item_id":77451},{"count":1,"item_id":70867},{"count":1,"item_id":76530}],"disciplines":["Mystic Forge"]},
-  {"name":"Gift of Sigils","output_item_id":91449,"output_item_count":1,"ingredients":[{"count":75,"item_id":89133},{"count":30,"item_id":19675},{"count":150,"item_id":19721},{"count":75,"item_id":19925}],"disciplines":["Mystic Forge"]}
+  {"name":"Gift of Sigils","output_item_id":91449,"output_item_count":1,"ingredients":[{"count":75,"item_id":89133},{"count":30,"item_id":19675},{"count":150,"item_id":19721},{"count":75,"item_id":19925}],"disciplines":["Mystic Forge"]},
+  {"name":"Attuned Gift of the Hidden Scion (Infused)","output_item_id":84577,"output_item_count":1,"ingredients":[{"count":1,"item_id":38024},{"count":3,"item_id":38023},{"count":5,"item_id":38014},{"count":1,"item_id":84032}],"disciplines":["Mystic Forge"]},
+  {"name":"Legendary Sigil","output_item_id":91505,"output_item_count":1,"ingredients":[{"count":1,"item_id":91449},{"count":1,"item_id":77451},{"count":1,"item_id":70867},{"count":1,"item_id":76530}],"disciplines":["Mystic Forge"]}
 ]
