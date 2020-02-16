@@ -2986,5 +2986,10 @@
   {"name":"Lucky Boar Lantern","output_item_id":90006,"output_item_count":1,"ingredients":[{"count":1,"item_id":77711},{"count":1,"item_id":92658},{"count":1,"item_id":92658},{"count":10,"item_id":45176}],"disciplines":["Mystic Forge"]},
   {"name":"Lucky Great Rat Lantern","output_item_id":92632,"output_item_count":1,"ingredients":[{"count":1,"item_id":92658},{"count":250,"item_id":45175},{"count":25,"item_id":77699},{"count":20,"item_id":19663}],"disciplines":["Mystic Forge"]},
   {"name":"Mystic Aspect","output_item_id":89105,"output_item_count":1,"ingredients":[{"count":10,"item_id":89271},{"count":1,"item_id":89103},{"count":1,"item_id":89258},{"count":1,"item_id":89216}],"disciplines":["Mystic Forge"]},
-  {"name":"Mystic Mote","output_item_id":89133,"output_item_count":1,"ingredients":[{"count":10,"item_id":89271},{"count":1,"item_id":89098},{"count":1,"item_id":89141},{"count":1,"item_id":89182}],"disciplines":["Mystic Forge"]}
+  {"name":"Mystic Mote","output_item_id":89133,"output_item_count":1,"ingredients":[{"count":10,"item_id":89271},{"count":1,"item_id":89098},{"count":1,"item_id":89141},{"count":1,"item_id":89182}],"disciplines":["Mystic Forge"]},
+  {"name":"Cultivated Sesame Seed","output_item_id":91701,"output_item_count":1,"ingredients":[{"count":1,"item_id":91681}],"disciplines":["Growing"]},
+  {"name":"Cultivated Cilantro Leaf","output_item_id":91715,"output_item_count":1,"ingredients":[{"count":1,"item_id":91695}],"disciplines":["Growing"]},
+  {"name":"Cultivated Mint Leaf","output_item_id":91793,"output_item_count":1,"ingredients":[{"count":1,"item_id":91749}],"disciplines":["Growing"]},
+  {"name":"Cultivated Clove","output_item_id":91796,"output_item_count":1,"ingredients":[{"count":1,"item_id":91776}],"disciplines":["Growing"]},
+  {"name":"Cultivated Peppercorn","output_item_id":91869,"output_item_count":1,"ingredients":[{"count":1,"item_id":91802}],"disciplines":["Growing"]}
 ]
