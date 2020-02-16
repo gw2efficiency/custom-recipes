@@ -81,7 +81,8 @@ const SCHEMA = {
           'Merchant',
           'Double Click',
           'Charge',
-          'Salvage'
+          'Salvage',
+          'Growing'
         ]
       },
       minItems: 1,
