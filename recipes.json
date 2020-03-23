@@ -2995,5 +2995,9 @@
   {"name":"Conflux","output_item_id":93105,"output_item_count":1,"ingredients":[{"count":1,"item_id":93128},{"count":250,"item_id":20323},{"count":1,"item_id":93075},{"count":1,"item_id":21159}],"disciplines":["Mystic Forge"]},
   {"name":"Gift of the World","output_item_id":93190,"output_item_count":1,"ingredients":[{"count":1,"item_id":93101},{"count":1,"item_id":76427},{"count":1,"item_id":83259},{"count":100,"item_id":19676}],"disciplines":["Mystic Forge"]},
   {"name":"Slumbering Conflux","output_item_id":93128,"output_item_count":1,"ingredients":[{"count":1,"item_id":93190},{"count":1,"item_id":71820},{"count":1,"item_id":81371},{"count":1,"item_id":80058}],"disciplines":["Mystic Forge"]},
-  {"name":"War Commendation","output_item_id":93101,"output_item_count":1,"ingredients":[{"count":1,"item_id":81478},{"count":1,"item_id":93146},{"count":1,"item_id":93147},{"count":1,"item_id":93248}],"disciplines":["Mystic Forge"]}
+  {"name":"War Commendation","output_item_id":93101,"output_item_count":1,"ingredients":[{"count":1,"item_id":81478},{"count":1,"item_id":93146},{"count":1,"item_id":93147},{"count":1,"item_id":93248}],"disciplines":["Mystic Forge"]},
+  {"name":"Gift of the Champion","output_item_id":93036,"output_item_count":1,"ingredients":[{"count":1,"item_id":76427},{"count":1,"item_id":84203},{"count":1,"item_id":93284},{"count":1,"item_id":93016}],"disciplines":["Mystic Forge"]},
+  {"name":"Salt-Forged Mist Diamond","output_item_id":93016,"output_item_count":1,"ingredients":[{"count":1,"item_id":77482},{"count":1,"item_id":93034},{"count":1,"item_id":93151},{"count":1,"item_id":93022}],"disciplines":["Mystic Forge"]},
+  {"name":"Slumbering Transcendence","output_item_id":93140,"output_item_count":1,"ingredients":[{"count":1,"item_id":79980},{"count":1,"item_id":71820},{"count":1,"item_id":77485},{"count":1,"item_id":93036}],"disciplines":["Mystic Forge"]},
+  {"name":"Transcendence","output_item_id":92991,"output_item_count":1,"ingredients":[{"count":250,"item_id":20323},{"count":1,"item_id":69647},{"count":1,"item_id":93012},{"count":1,"item_id":93140}],"disciplines":["Mystic Forge"]}
 ]
