@@ -38,7 +38,7 @@ class App extends Component {
   }
 
   async fetchFromAPI () {
-    const response = await window.fetch(`http://localhost:3001/api/${this.index}`)
+    const response = await window.fetch(`http://gw2efficiency.local:3001/api/${this.index}`)
     this.apiResponse = await response.json()
   }
 
@@ -55,7 +55,7 @@ class App extends Component {
   async dismiss () {
     const body = {action: 'dismiss'}
 
-    await window.fetch(`http://localhost:3001/api/${this.index}`, {
+    await window.fetch(`http://gw2efficiency.local:3001/api/${this.index}`, {
       method: 'POST',
       body: JSON.stringify(body),
       headers: {
@@ -69,7 +69,7 @@ class App extends Component {
   async add () {
     const body = {action: 'add'}
 
-    await window.fetch(`http://localhost:3001/api/${this.index}`, {
+    await window.fetch(`http://gw2efficiency.local:3001/api/${this.index}`, {
       method: 'POST',
       body: JSON.stringify(body),
       headers: {
@@ -83,7 +83,7 @@ class App extends Component {
   async overwrite (existingIndex) {
     const body = {action: 'overwrite', existingIndex}
 
-    await window.fetch(`http://localhost:3001/api/${this.index}`, {
+    await window.fetch(`http://gw2efficiency.local:3001/api/${this.index}`, {
       method: 'POST',
       body: JSON.stringify(body),
       headers: {
