@@ -3067,5 +3067,9 @@
   {"name":"Glorious Hero's Legplates","output_item_id":67154,"output_item_count":1,"ingredients":[{"count":1,"item_id":67323}],"disciplines":["Double Click"]},
   {"name":"Glorious Hero's Footgear","output_item_id":67130,"output_item_count":1,"ingredients":[{"count":1,"item_id":67323}],"disciplines":["Double Click"]},
   {"name":"Glorious Hero's Shinplates","output_item_id":67123,"output_item_count":1,"ingredients":[{"count":1,"item_id":67323}],"disciplines":["Double Click"]},
-  {"name":"Glorious Hero's Wargreaves","output_item_id":67134,"output_item_count":1,"ingredients":[{"count":1,"item_id":67323}],"disciplines":["Double Click"]}
+  {"name":"Glorious Hero's Wargreaves","output_item_id":67134,"output_item_count":1,"ingredients":[{"count":1,"item_id":67323}],"disciplines":["Double Click"]},
+  {"name":"Tonic of Icebrood Corruption","output_item_id":93751,"output_item_count":1,"ingredients":[{"count":25,"item_id":93734},{"count":25,"item_id":93734},{"count":20,"item_id":19721},{"count":25,"item_id":75075}],"disciplines":["Mystic Forge"]},
+  {"name":"Tonic of Icebrood Corruption","output_item_id":93751,"output_item_count":10,"ingredients":[{"count":250,"item_id":93734},{"count":250,"item_id":93734},{"count":200,"item_id":19721},{"count":250,"item_id":75075}],"disciplines":["Mystic Forge"]},
+  {"name":"Frost Legion Infusion","output_item_id":93906,"output_item_count":1,"ingredients":[{"count":500,"item_id":93751}],"disciplines":["Achievement"],"achievement_id":5372},
+  {"name":"Frost Legion Infusion","output_item_id":93906,"output_item_count":1,"ingredients":[{"count":250,"item_id":93751},{"count":250,"item_id":93751},{"count":5,"item_id":92687},{"count":250,"item_id":19721}],"disciplines":["Mystic Forge"]}
 ]
