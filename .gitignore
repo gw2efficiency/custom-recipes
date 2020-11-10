@@ -2,3 +2,4 @@
 node_modules
 tmp/*
 item-cache.json
+.history/
