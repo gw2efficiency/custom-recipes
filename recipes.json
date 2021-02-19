@@ -3114,7 +3114,6 @@
   {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":82030}],"disciplines":["Salvage"]},
   {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":12466}],"disciplines":["Salvage"]},
   {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":12452}],"disciplines":["Salvage"]},
-  {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":92138}],"disciplines":["Salvage"]},
   {"name":"Rare Extract of Nourishment","output_item_id":91684,"output_item_count":1,"ingredients":[{"count":1,"item_id":12421}],"disciplines":["Salvage"]},
   {"name":"Rare Extract of Nourishment","output_item_id":91684,"output_item_count":1,"ingredients":[{"count":1,"item_id":12437}],"disciplines":["Salvage"]},
   {"name":"Rare Extract of Nourishment","output_item_id":91684,"output_item_count":1,"ingredients":[{"count":1,"item_id":36081}],"disciplines":["Salvage"]},
@@ -3189,5 +3188,8 @@
   {"name":"Fine Extract of Nourishment","output_item_id":91838,"output_item_count":1,"ingredients":[{"count":1,"item_id":12730}],"disciplines":["Salvage"]},
   {"name":"Fine Extract of Nourishment","output_item_id":91838,"output_item_count":1,"ingredients":[{"count":1,"item_id":12190}],"disciplines":["Salvage"]},
   {"name":"Fine Extract of Nourishment","output_item_id":91838,"output_item_count":1,"ingredients":[{"count":1,"item_id":12146}],"disciplines":["Salvage"]},
-  {"name":"Fine Extract of Nourishment","output_item_id":91838,"output_item_count":1,"ingredients":[{"count":1,"item_id":12204}],"disciplines":["Salvage"]}
+  {"name":"Fine Extract of Nourishment","output_item_id":91838,"output_item_count":1,"ingredients":[{"count":1,"item_id":12204}],"disciplines":["Salvage"]},
+  {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":82541}],"disciplines":["Salvage"]},
+  {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":82642}],"disciplines":["Salvage"]},
+  {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":10,"ingredients":[{"count":1,"item_id":83545}],"disciplines":["Salvage"]}
 ]
