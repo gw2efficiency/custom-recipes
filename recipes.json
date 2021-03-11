@@ -3191,5 +3191,12 @@
   {"name":"Fine Extract of Nourishment","output_item_id":91838,"output_item_count":1,"ingredients":[{"count":1,"item_id":12204}],"disciplines":["Salvage"]},
   {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":82541}],"disciplines":["Salvage"]},
   {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":1,"ingredients":[{"count":1,"item_id":82642}],"disciplines":["Salvage"]},
-  {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":10,"ingredients":[{"count":1,"item_id":83545}],"disciplines":["Salvage"]}
+  {"name":"Exotic Extract of Nourishment","output_item_id":91726,"output_item_count":10,"ingredients":[{"count":1,"item_id":83545}],"disciplines":["Salvage"]},
+  {"id":10830,"name":"Guild Arrow Cart Blueprints","output_item_id":39715,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":21156},{"count":1,"item_id":73081}],"disciplines":["Scribe"],"min_rating":200},
+  {"id":10690,"name":"Guild Ballista Blueprints","output_item_id":42003,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":21157},{"count":1,"item_id":73081}],"disciplines":["Scribe"],"min_rating":200},
+  {"id":10456,"name":"Guild Catapult Blueprint","output_item_id":42004,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":21158},{"count":1,"item_id":73120}],"disciplines":["Scribe"],"min_rating":300},
+  {"id":11079,"name":"Guild Flame Ram Blueprint","output_item_id":74677,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":21161},{"count":1,"item_id":73120}],"disciplines":["Scribe"],"min_rating":300},
+  {"id":10638,"name":"Guild Shield Generator Blueprint","output_item_id":76483,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":75311},{"count":1,"item_id":71252}],"disciplines":["Scribe"],"min_rating":400},
+  {"id":10218,"name":"Guild Siege Golem Blueprints","output_item_id":74323,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":21159},{"count":1,"item_id":71252}],"disciplines":["Scribe"],"min_rating":400},
+  {"id":11071,"name":"Guild Trebuchet Blueprints","output_item_id":39717,"output_item_count":1,"ingredients":[{"count":1,"item_id":71473},{"count":3,"item_id":21160},{"count":1,"item_id":71252}],"disciplines":["Scribe"],"min_rating":400}
 ]
