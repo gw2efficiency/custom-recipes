@@ -1412,7 +1412,7 @@
   {"name":"Recipe: Ruka's Wanderer's Inscription","output_item_id":74114,"output_item_count":1,"ingredients":[{"count":125,"item_id":46682}],"disciplines":["Merchant"]},
   {"name":"Mistward Helm Insignia","output_item_id":73805,"output_item_count":1,"ingredients":[{"count":30,"item_id":46682}],"disciplines":["Merchant"]},
   {"name":"Superior Sigil of Rending","output_item_id":73532,"output_item_count":1,"ingredients":[{"count":100,"item_id":46682}],"disciplines":["Merchant"]},
-  {"name":"Superior Rune of Leadership","output_item_id":70600,"output_item_count":1,"ingredients":[{"count":100,"item_id":46682}],"disciplines":["Merchant"]},
+  {"name":"Superior Rune of Leadership","output_item_id":70600,"output_item_count":1,"ingredients":[{"count":50,"item_id":46682}],"disciplines":["Merchant"]},
   {"name":"Mini Blademaster Diarmid","output_item_id":71258,"output_item_count":1,"ingredients":[{"count":250,"item_id":46682}],"disciplines":["Merchant"]},
   {"name":"Endless Spotted Beetle Tonic","output_item_id":74186,"output_item_count":1,"ingredients":[{"count":250,"item_id":46682}],"disciplines":["Merchant"]},
   {"name":"Recipe: Slice of Allspice Cake with Ice Cream","output_item_id":73981,"output_item_count":1,"ingredients":[{"count":100,"item_id":46682}],"disciplines":["Merchant"]},
