@@ -3209,5 +3209,8 @@
   { "name": "Vial of Unfreezing Leather Oil", "output_item_id": 94927, "output_item_count": 1, "ingredients": [ { "count": 1000, "item_id": 92072 }, { "count": 20, "item_id": 93751 } ], "disciplines": ["Merchant"] },
   { "name": "Eitrite Chain Links", "output_item_id": 94953, "output_item_count": 1, "ingredients": [ { "count": 1000, "item_id": 92317 } ], "disciplines": ["Merchant"] },
   { "name": "Prismaticite Clasp", "output_item_id": 94959, "output_item_count": 1, "ingredients": [ { "count": 10, "item_id": 94270 }, { "count": 250, "item_id": 89271 } ], "disciplines": ["Merchant"] },
-  { "name": "Draconic Aether Cleanser", "output_item_id": 94973, "output_item_count": 1, "ingredients": [ { "count": 5, "item_id": 92687 }, { "count": 5, "item_id": 93567 } ], "disciplines": ["Merchant"] }
+  { "name": "Draconic Aether Cleanser", "output_item_id": 94973, "output_item_count": 1, "ingredients": [ { "count": 5, "item_id": 92687 }, { "count": 5, "item_id": 93567 } ], "disciplines": ["Merchant"] },
+  {"name":"Essence of Carnage","output_item_id":81469,"output_item_count":1,"ingredients":[{"count":500,"item_id":71581}],"disciplines":["Merchant"]},
+  {"name":"Gift of Bloodstone Magic","output_item_id":81815,"output_item_count":1,"ingredients":[{"count":250,"item_id":79280},{"count":250,"item_id":80332},{"count":250,"item_id":81706}],"disciplines":["Merchant"]},
+  {"name":"Gift of Dragon Magic","output_item_id":82036,"output_item_count":1,"ingredients":[{"count":250,"item_id":79469},{"count":250,"item_id":79899},{"count":250,"item_id":81127}],"disciplines":["Merchant"]}
 ]
