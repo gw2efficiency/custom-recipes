@@ -3211,5 +3211,14 @@
   {"name":"Draconic Aether Cleanser","output_item_id":94973,"output_item_count":1,"ingredients":[{"count":5,"item_id":92687},{"count":5,"item_id":93567}],"disciplines":["Merchant"]},
   {"name":"Essence of Carnage","output_item_id":81469,"output_item_count":1,"ingredients":[{"count":500,"item_id":71581}],"disciplines":["Merchant"]},
   {"name":"Gift of Bloodstone Magic","output_item_id":81815,"output_item_count":1,"ingredients":[{"count":250,"item_id":79280},{"count":250,"item_id":80332},{"count":250,"item_id":81706}],"disciplines":["Merchant"]},
-  {"name":"Gift of Dragon Magic","output_item_id":82036,"output_item_count":1,"ingredients":[{"count":250,"item_id":79469},{"count":250,"item_id":79899},{"count":250,"item_id":81127}],"disciplines":["Merchant"]}
+  {"name":"Gift of Dragon Magic","output_item_id":82036,"output_item_count":1,"ingredients":[{"count":250,"item_id":79469},{"count":250,"item_id":79899},{"count":250,"item_id":81127}],"disciplines":["Merchant"]},
+  {"name":"Mini Black and Tan Shiba Inu","output_item_id":95205,"output_item_count":1,"ingredients":[{"count":1,"item_id":95197},{"count":1,"item_id":95197},{"count":1,"item_id":95197},{"count":2,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Blazing Shiba Inu","output_item_id":95184,"output_item_count":1,"ingredients":[{"count":1,"item_id":95220},{"count":1,"item_id":95188},{"count":1,"item_id":95189},{"count":20,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Blue Shiba Inu","output_item_id":95215,"output_item_count":1,"ingredients":[{"count":1,"item_id":95216},{"count":1,"item_id":95216},{"count":1,"item_id":95205},{"count":8,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Cream Shiba Inu","output_item_id":95189,"output_item_count":1,"ingredients":[{"count":1,"item_id":95216},{"count":1,"item_id":95216},{"count":1,"item_id":95197},{"count":4,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Crimson Shiba Inu","output_item_id":95188,"output_item_count":1,"ingredients":[{"count":1,"item_id":95205},{"count":1,"item_id":95189},{"count":1,"item_id":95197},{"count":8,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Gold Shiba Inu","output_item_id":95220,"output_item_count":1,"ingredients":[{"count":1,"item_id":95188},{"count":1,"item_id":95188},{"count":1,"item_id":95197},{"count":12,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Sesame Shiba Inu","output_item_id":95216,"output_item_count":1,"ingredients":[{"count":1,"item_id":95205},{"count":1,"item_id":95197},{"count":1,"item_id":95197},{"count":4,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Silver Shiba Inu","output_item_id":95222,"output_item_count":1,"ingredients":[{"count":1,"item_id":95215},{"count":1,"item_id":95215},{"count":1,"item_id":95189},{"count":12,"item_id":20323}],"disciplines":["Mystic Forge"]},
+  {"name":"Mini Starry Shiba Inu","output_item_id":95186,"output_item_count":1,"ingredients":[{"count":1,"item_id":95222},{"count":1,"item_id":95216},{"count":1,"item_id":95215},{"count":20,"item_id":20323}],"disciplines":["Mystic Forge"]}
 ]
