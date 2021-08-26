@@ -67,30 +67,29 @@ let recipes = [
   {legendary: `Ardent Glorious Leggings`, ascended: `Ardent Glorious Leggings`, gifts: pvpGifts},
   {legendary: `Ardent Glorious Footgear`, ascended: `Ardent Glorious Footgear`, gifts: pvpGifts},
 
-  // THESE ARE HIDDEN BECAUSE THEY ARE BROKEN IN THE API
-  // // PvP B - Heavy
-  // {legendary: `Glorious Hero's Plate Helm`, ascended: `Glorious Hero's Plate Helm`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Pauldrons`, ascended: `Glorious Hero's Pauldrons`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Breastplate`, ascended: `Glorious Hero's Breastplate`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Gauntlets`, ascended: `Glorious Hero's Gauntlets`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Legplates`, ascended: `Glorious Hero's Legplates`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Wargreaves`, ascended: `Glorious Hero's Wargreaves`, gifts: pvpGifts},
-  //
-  // // PvP B - Medium
-  // {legendary: `Glorious Hero's Cap`, ascended: `Glorious Hero's Cap`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Shoulderguards`, ascended: `Glorious Hero's Shoulderguards`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Brigandine`, ascended: `Glorious Hero's Brigandine`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Wristplates`, ascended: `Glorious Hero's Wristplates`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Legguards`, ascended: `Glorious Hero's Legguards`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Shinplates`, ascended: `Glorious Hero's Shinplates`, gifts: pvpGifts},
-  //
-  // // PvP B - Light
-  // {legendary: `Glorious Hero's Crown`, ascended: `Glorious Hero's Crown`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Epaulets`, ascended: `Glorious Hero's Epaulets`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Raiment`, ascended: `Glorious Hero's Raiment`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Armguards`, ascended: `Glorious Hero's Armguards`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Leggings`, ascended: `Glorious Hero's Leggings`, gifts: pvpGifts},
-  // {legendary: `Glorious Hero's Footgear`, ascended: `Glorious Hero's Footgear`, gifts: pvpGifts},
+  // PvP B - Heavy
+  {legendary: `Glorious Hero's Plate Helm`, ascended: `Glorious Hero's Plate Helm`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Pauldrons`, ascended: `Glorious Hero's Pauldrons`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Breastplate`, ascended: `Glorious Hero's Breastplate`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Gauntlets`, ascended: `Glorious Hero's Gauntlets`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Legplates`, ascended: `Glorious Hero's Legplates`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Wargreaves`, ascended: `Glorious Hero's Wargreaves`, gifts: pvpGifts},
+  
+  // PvP B - Medium
+  {legendary: `Glorious Hero's Cap`, ascended: `Glorious Hero's Cap`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Shoulderguards`, ascended: `Glorious Hero's Shoulderguards`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Brigandine`, ascended: `Glorious Hero's Brigandine`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Wristplates`, ascended: `Glorious Hero's Wristplates`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Legguards`, ascended: `Glorious Hero's Legguards`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Shinplates`, ascended: `Glorious Hero's Shinplates`, gifts: pvpGifts},
+  
+  // PvP B - Light
+  {legendary: `Glorious Hero's Crown`, ascended: `Glorious Hero's Crown`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Epaulets`, ascended: `Glorious Hero's Epaulets`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Raiment`, ascended: `Glorious Hero's Raiment`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Armguards`, ascended: `Glorious Hero's Armguards`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Leggings`, ascended: `Glorious Hero's Leggings`, gifts: pvpGifts},
+  {legendary: `Glorious Hero's Footgear`, ascended: `Glorious Hero's Footgear`, gifts: pvpGifts},
 
   // PvP C - Heavy
   {legendary: `Mistforged Glorious Hero's Plate Helm`, ascended: `Mistforged Glorious Hero's Plate Helm`, gifts: pvpGifts},
