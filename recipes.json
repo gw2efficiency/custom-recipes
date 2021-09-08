@@ -3251,5 +3251,8 @@
   {"name":"Sublime Mistforged Triumphant Hero's Raiment","output_item_id":84508,"output_item_count":1,"ingredients":[{"count":1,"item_id":81365},{"count":1,"item_id":82746},{"count":1,"item_id":84168},{"count":1,"item_id":83259}],"disciplines":["Mystic Forge"]},
   {"name":"Mistforged Triumphant Hero's Armguards","output_item_id":82109,"output_item_count":1,"ingredients":[{"count":1,"item_id":81510},{"count":1,"item_id":82746},{"count":1,"item_id":84168},{"count":1,"item_id":83259}],"disciplines":["Mystic Forge"]},
   {"name":"Mistforged Triumphant Hero's Leggings","output_item_id":82502,"output_item_count":1,"ingredients":[{"count":1,"item_id":81397},{"count":1,"item_id":82746},{"count":1,"item_id":84168},{"count":1,"item_id":83259}],"disciplines":["Mystic Forge"]},
-  {"name":"Mistforged Triumphant Hero's Footgear","output_item_id":83482,"output_item_count":1,"ingredients":[{"count":1,"item_id":81419},{"count":1,"item_id":82746},{"count":1,"item_id":84168},{"count":1,"item_id":83259}],"disciplines":["Mystic Forge"]}
+  {"name":"Mistforged Triumphant Hero's Footgear","output_item_id":83482,"output_item_count":1,"ingredients":[{"count":1,"item_id":81419},{"count":1,"item_id":82746},{"count":1,"item_id":84168},{"count":1,"item_id":83259}],"disciplines":["Mystic Forge"]},
+  {"name":"Lacquered Banner Pole","output_item_id":87668,"output_item_count":1,"ingredients":[{"count":1,"item_id":88023},{"count":10,"item_id":19721},{"count":10,"item_id":19725},{"count":100,"item_id":87645}],"disciplines":["Merchant"]},
+  {"name":"Recipe: Banner Pennon","output_item_id":87988,"output_item_count":1,"ingredients":[{"count":100,"item_id":87645}],"disciplines":["Merchant"]},
+  {"name":"Urn of \"Heroic\" Ashes","output_item_id":87734,"output_item_count":1,"ingredients":[{"count":500,"item_id":87645}],"disciplines":["Merchant"]}
 ]
