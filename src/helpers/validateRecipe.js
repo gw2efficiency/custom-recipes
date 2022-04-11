@@ -46,7 +46,12 @@ const SCHEMA = {
       items: {
         type: 'object',
         properties: {
-          item_id: {
+          type: {
+            type: 'string',
+            enum: ['Item', 'GuildUpgrade', 'Currency'],
+            required: true
+          },
+          id: {
             type: 'integer',
             required: true,
             minimum: 1
