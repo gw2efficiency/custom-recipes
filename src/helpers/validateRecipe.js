@@ -1,24 +1,5 @@
 const validator = require('is-my-json-valid')
 
-// EXAMPLE RECIPE:
-// {
-//   'id': 12662,
-//   'name': 'Claw of Retribution',
-//
-//   'output_item_id': 86968,
-//   'output_item_count': 1,
-//   'ingredients': [
-//     {'item_id': 87093, 'count': 1},
-//     {'item_id': 87031, 'count': 60},
-//     {'item_id': 24351, 'count': 5},
-//     {'item_id': 76826, 'count': 1},
-//     {'item_id': 71331, 'count': 1}
-//   ],
-//
-//   'disciplines': ['Weaponsmith'],
-//   'min_rating': 450
-// }
-
 const SCHEMA = {
   type: 'object',
   properties: {

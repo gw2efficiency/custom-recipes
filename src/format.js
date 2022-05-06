@@ -54,13 +54,14 @@ function formatRecipe (recipe) {
 }
 
 function formatIngredient (ingredient) {
-  if (ingredient.item_id < 0) {
+  if (ingredient.id < 0) {
     return false
   }
 
   let result = {}
   result.count = ingredient.count
-  result.item_id = ingredient.item_id
+  result.type = ingredient.type
+  result.id = ingredient.id
 
   return result
 }

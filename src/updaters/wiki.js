@@ -54,6 +54,7 @@ function formatRecipe (recipe) {
 function formatIngredient (ingredient) {
   let result = {}
   result.count = ingredient['Has ingredient quantity'].item[0]
-  result.item_id = ingredient['Has ingredient id'].item[0]
+  result.type = 'Item'
+  result.id = ingredient['Has ingredient id'].item[0]
   return result
 }

@@ -9,7 +9,7 @@ async function run (name) {
   const ignoredHashes = JSON.parse(fs.readFileSync('./ignored.json', 'utf-8'))
   const ignoredItems = JSON.parse(fs.readFileSync('./ignored-items.json', 'utf-8')).map(x => x.id)
 
-  console.log('Generating recipe hashes for existing')
+  console.log(`Generating recipe hashes for existing ${existingRecipes.length} recipes`)
   const existingRecipeHashes = existingRecipes.map(hashRecipes)
 
   console.log(`Running updater`)

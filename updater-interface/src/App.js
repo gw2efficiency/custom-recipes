@@ -167,8 +167,8 @@ class RecipeCard extends Component {
     const diffRecipe = this.props.diffRecipe
     const itemNames = this.props.itemNames
     const mode = this.props.mode
-    const isInvalid = recipe.ingredients.find(x => !x.item_id) || !recipe.output_item_id
-    const isRecursive = !!recipe.ingredients.find(x => x.item_id === recipe.output_item_id)
+    const isInvalid = recipe.ingredients.find(x => !x.id) || !recipe.output_item_id
+    const isRecursive = !!recipe.ingredients.find(x => x.id === recipe.output_item_id)
 
     let countIsDifferent = false
     let itemIsDifferent = false
@@ -231,7 +231,7 @@ class RecipeCard extends Component {
               countIsDifferent = !diffRecipe.ingredients[index] ||
                 diffRecipe.ingredients[index].count !== ingredient.count
               itemIsDifferent = !diffRecipe.ingredients[index] ||
-                diffRecipe.ingredients[index].item_id !== ingredient.item_id
+                diffRecipe.ingredients[index].id !== ingredient.id
             }
 
             return (
@@ -251,10 +251,10 @@ class RecipeCard extends Component {
                     {'text-danger': itemIsDifferent}
                   ])}
                 >
-                  {itemNames[ingredient.item_id]}
+                  {itemNames[ingredient.id]}
                 </span>
 
-                <span className='text-muted'>({ingredient.item_id})</span>
+                <span className='text-muted'>({ingredient.id})</span>
               </div>
             )
           })}

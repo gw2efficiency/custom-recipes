@@ -2,7 +2,13 @@ const crypto = require('crypto')
 
 function hashRecipe (recipe) {
   recipe = JSON.parse(JSON.stringify(recipe))
-  recipe.ingredients.sort((a, b) => a.item_id - b.item_id)
+  recipe.ingredients.sort((a, b) => a.id - b.id)
+  recipe.ingredients.map(x => {
+    x.item_id = x.id
+    delete x.id
+    delete x.type
+    return x
+  })
   return hash(JSON.stringify(recipe))
 }
 
