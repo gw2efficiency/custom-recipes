@@ -8,10 +8,11 @@ const ITEM_NAME_MAP = {}
 ITEM_CACHE.forEach((item) => (ITEM_NAME_MAP[item.id] = item.name))
 
 console.log(`Generating recipes out of ${MERCHANTS.length} merchants...`)
+const ignoredIds = [19675]
 let recipes = []
 for (const merchant of MERCHANTS) {
   for (const purchaseOption of merchant.purchase_options) {
-    if (purchaseOption.ignore) {
+    if (purchaseOption.ignore || ignoredIds.includes(purchaseOption.id)) {
       continue
     }
 
