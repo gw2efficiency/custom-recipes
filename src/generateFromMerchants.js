@@ -11,6 +11,10 @@ console.log(`Generating recipes out of ${MERCHANTS.length} merchants...`)
 let recipes = []
 for (const merchant of MERCHANTS) {
   for (const purchaseOption of merchant.purchase_options) {
+    if (purchaseOption.ignore) {
+      continue
+    }
+
     if (purchaseOption.type !== 'Item') {
       console.error(`  > ERROR: Unsupported type "${purchaseOption.type}" for purchase option`)
       process.exit(1)
