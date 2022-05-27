@@ -50,6 +50,14 @@ function formatRecipe (recipe) {
     result.achievement_id = recipe.achievement_id
   }
 
+  if (recipe.merchant) {
+    result.merchant = recipe.merchant
+  }
+
+  if (recipe.merchant_data_hash) {
+    result.merchant_data_hash = recipe.merchant_data_hash
+  }
+
   return result
 }
 
