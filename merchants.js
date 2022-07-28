@@ -25585,5 +25585,141 @@ module.exports = [
         ]
       }
     ]
+  },
+  {
+    name: `Dungeon Armor and Weapons`,
+    locations: [
+      `Fort Marriner, Lion's Arch`
+    ],
+    purchase_options: [
+      {
+        type: 'Item',
+        id: 19664,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44537,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19665,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44539,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19667,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44541,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19666,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44540,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19668,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44543,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19670,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44542,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19671,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44544,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19669,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44538,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      }
+    ]
   }
 ]
