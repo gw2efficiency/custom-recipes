@@ -25522,5 +25522,204 @@ module.exports = [
         ]
       }
     ]
+  },
+  {
+    name: `Scholar Glenna`,
+    locations: [
+      `Spirit Vale, Heart of Maguuma`,
+      `Salvation Pass, Heart of Maguuma`,
+      `Stronghold of the Faithful, Heart of Maguuma`,
+      `Bastion of the Penitent, Woodland Cascades`,
+      `Mythwright Gambit, Crystal Desert`,
+      `The Key of Ahdashim, Crystal Desert`,
+      `Hall of Chains, The Mists`
+    ],
+    purchase_options: [
+      {
+        type: 'Item',
+        id: 98327,
+        count: 1,
+        price: [
+          { type: 'Item', id: 77302, count: 1 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 98327,
+        count: 1,
+        price: [
+          { type: 'Item', id: 88485, count: 1 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 78989,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 70, count: 25 },
+          { type: 'Item', id: 20852, count: 1 },
+          { type: 'Item', id: 19925, count: 50 },
+          { type: 'Item', id: 73137, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 91225,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 70, count: 150 },
+          { type: 'Item', id: 88909, count: 1 },
+          { type: 'Item', id: 86036, count: 1 },
+          { type: 'Item', id: 71994, count: 6 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 80516,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 70, count: 25 },
+          { type: 'Currency', id: 1, count: 50000 }
+        ]
+      }
+    ]
+  },
+  {
+    name: `Dungeon Armor and Weapons`,
+    locations: [
+      `Fort Marriner, Lion's Arch`
+    ],
+    purchase_options: [
+      {
+        type: 'Item',
+        id: 19664,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44537,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19665,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44539,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19667,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44541,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19666,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44540,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19668,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44543,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19670,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44542,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19671,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44544,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 19669,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 500 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 44538,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 69, count: 200 }
+        ]
+      }
+    ]
   }
 ]
