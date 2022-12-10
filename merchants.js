@@ -4,6 +4,10 @@ module.exports = [
     locations: [
       `Trader's Forum, Lion's Arch`
     ],
+    display_name: `Miyani / Mystic Forge Attendant`,
+    display_locations: [
+      `Mystic Forge`
+    ],
     purchase_options: [
       {
         type: 'Item',
@@ -25524,15 +25528,13 @@ module.exports = [
     ]
   },
   {
-    name: `Scholar Glenna`,
+    name: `Scholar Glenna (Spirit Vale)`,
     locations: [
-      `Spirit Vale, Heart of Maguuma`,
-      `Salvation Pass, Heart of Maguuma`,
-      `Stronghold of the Faithful, Heart of Maguuma`,
-      `Bastion of the Penitent, Woodland Cascades`,
-      `Mythwright Gambit, Crystal Desert`,
-      `The Key of Ahdashim, Crystal Desert`,
-      `Hall of Chains, The Mists`
+      `Spirit Vale, Forsaken Thicket`
+    ],
+    display_name: `Scholar Glenna`,
+    display_locations: [
+      `Raid Entrance`
     ],
     purchase_options: [
       {
@@ -25587,10 +25589,11 @@ module.exports = [
     ]
   },
   {
-    name: `Dungeon Armor and Weapons`,
+    name: `Dungeon Armor and Weapons/Ascalonian Catacombs`,
     locations: [
       `Fort Marriner, Lion's Arch`
     ],
+    display_name: `Dungeon Armor and Weapons`,
     purchase_options: [
       {
         type: 'Item',
@@ -27283,8 +27286,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master armorsmiths`,
+    name: `Muireall`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Armorsmiths`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -28164,8 +28171,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master artificers`,
+    name: `Klunn`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Artificers`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -28987,8 +28998,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master chefs`,
+    name: `Lachaidh`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Chefs`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -29371,8 +29386,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master huntsmen`,
+    name: `Jraogh`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Huntsmen`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -30237,8 +30256,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master jewelers`,
+    name: `Isabel`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Jewelers`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -30733,8 +30756,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master leatherworkers`,
+    name: `Hamil`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Leatherworkers`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -31590,9 +31617,13 @@ module.exports = [
     ]
   },
   {
-    name: `Master scribes`,
+    name: `Cullen`,
     locations: [
-      `Crafting Station`
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Scribe`,
+    display_locations: [
+      `Guild Hall`
     ],
     purchase_options: [
       {
@@ -32102,8 +32133,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master tailors`,
+    name: `Giita`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Tailors`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -32967,8 +33002,12 @@ module.exports = [
     ]
   },
   {
-    name: `Master weaponsmiths`,
+    name: `Frayja`,
     locations: [
+      `Trader's Forum, Lion's Arch`
+    ],
+    display_name: `Master Weaponsmiths`,
+    display_locations: [
       `Crafting Station`
     ],
     purchase_options: [
@@ -33818,12 +33857,16 @@ module.exports = [
     ]
   },
   {
-    name: `Guild Trader`,
+    name: `Sigurlina Jonsdottir`,
     locations: [
       `Gilded Hollow, Heart of Maguuma`,
       `Lost Precipice, Heart of Maguuma`,
       `Windswept Haven, Crystal Desert`,
       `Isle of Reflection, Cantha`
+    ],
+    display_name: `Guild Trader`,
+    display_locations: [
+      `Guild Hall`
     ],
     purchase_options: [
       {
@@ -34365,12 +34408,16 @@ module.exports = [
     ]
   },
   {
-    name: `Guild Decorations Merchant`,
+    name: `Douglas Bird`,
     locations: [
       `Gilded Hollow, Heart of Maguuma`,
       `Lost Precipice, Heart of Maguuma`,
       `Windswept Haven, Crystal Desert`,
       `Isle of Reflection, Cantha`
+    ],
+    display_name: `Guild Decorations Merchant`,
+    display_locations: [
+      `Guild Hall`
     ],
     purchase_options: [
       {
@@ -34707,6 +34754,10 @@ module.exports = [
     name: `Gleam`,
     locations: [
       `Treadrock Uplands, Dry Top`
+    ],
+    display_name: `Geode merchant (Dusk, Gleam, Kiena, Moonglow)`,
+    display_locations: [
+      `Dry Top`
     ],
     purchase_options: [
       {
