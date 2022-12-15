@@ -47,8 +47,8 @@ for (const merchant of MERCHANTS) {
       ingredients,
       disciplines: ['Merchant'],
       merchant: {
-        name: merchant.name,
-        locations: merchant.locations,
+        name: merchant.display_name || merchant.name,
+        locations: merchant.display_locations || merchant.locations,
       },
     }
 
