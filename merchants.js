@@ -15605,7 +15605,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15614,7 +15615,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15623,7 +15625,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15632,7 +15635,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15641,7 +15645,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15650,7 +15655,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15659,7 +15665,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15668,7 +15675,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15677,7 +15685,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15686,7 +15695,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15695,7 +15705,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15704,7 +15715,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15713,7 +15725,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15722,7 +15735,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15731,7 +15745,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       },
       {
         type: 'Item',
@@ -15740,7 +15755,8 @@ module.exports = [
         price: [
           { type: 'Currency', id: 1, count: 264 },
           { type: 'Item', id: 92272, count: 10 }
-        ]
+        ],
+        ignore: true
       }
     ]
   },
