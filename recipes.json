@@ -3405,6 +3405,6 @@
   {"name":"Gift of Research","output_item_id":97655,"output_item_count":1,"ingredients":[{"count":250,"item_id":46747},{"count":250,"item_id":45178},{"count":250,"item_id":95813},{"count":250,"item_id":95813}],"disciplines":["Mystic Forge"]},
   {"name":"Master Virtuoso's Ring (Infused)","output_item_id":97834,"output_item_count":1,"ingredients":[{"count":1,"item_id":97054},{"count":1,"item_id":38024},{"count":3,"item_id":38023},{"count":5,"item_id":38014}],"disciplines":["Mystic Forge"]},
   {"name":"Poem on Rifles","output_item_id":97201,"output_item_count":1,"ingredients":[{"count":10,"item_id":96151},{"count":10,"item_id":97790},{"count":1,"item_id":45834},{"count":1,"item_id":71148}],"disciplines":["Mystic Forge"]},
-  {"name":"Poem on Short Bows","output_item_id":96849,"output_item_count":1,"ingredients":[{"count":10,"item_id":96151},{"count":10,"item_id":97790},{"count":1,"item_id":45842},{"count":1,"item_id":71148}],"disciplines":["Mystic Forge"]}
+  {"name":"Poem on Short Bows","output_item_id":96849,"output_item_count":1,"ingredients":[{"count":10,"item_id":96151},{"count":10,"item_id":97790},{"count":1,"item_id":45842},{"count":1,"item_id":71148}],"disciplines":["Mystic Forge"]},
   {"name":"Lucid Dreamer's Dagger","output_item_id":98979,"output_item_count":1,"ingredients":[{"count":1,"item_id":98956},{"count":5,"item_id":12858},{"count":5,"item_id":12882},{"count":10,"item_id":19976}],"disciplines":["Mystic Forge"]}
 ]
