@@ -1954,7 +1954,7 @@
   {"name":"Metallically Overcharged Quartz","output_item_id":76852,"output_item_count":1,"ingredients":[{"count":1,"type":"Item","id":43772}],"disciplines":["Charge"]},
   {"name":"Fiery Overcharged Quartz","output_item_id":71626,"output_item_count":1,"ingredients":[{"count":1,"type":"Item","id":43772}],"disciplines":["Charge"]},
   {"name":"Solar Overcharged Quartz","output_item_id":70667,"output_item_count":1,"ingredients":[{"count":1,"type":"Item","id":43772}],"disciplines":["Charge"]},
-  {"name":"Integrated Fractal Matrix","output_item_id":79230,"output_item_count":1,"ingredients":[{"count":10,"type":"Item","id":73248}],"disciplines":["Merchant"]},
+  {"name":"Integrated Fractal Matrix","output_item_id":79230,"output_item_count":1,"ingredients":[{"count":10,"type":"Item","id":73248},{"count":15,"type":"Currency","id":7}],"disciplines":["Merchant"]},
   {"name":"Mighty +5 Agony Infusion","output_item_id":39620,"output_item_count":1,"ingredients":[{"count":3,"type":"Item","id":49428},{"count":5,"type":"Item","id":79230}],"disciplines":["Merchant"]},
   {"name":"Precise +5 Agony Infusion","output_item_id":39621,"output_item_count":1,"ingredients":[{"count":3,"type":"Item","id":49428},{"count":5,"type":"Item","id":79230}],"disciplines":["Merchant"]},
   {"name":"Malign +5 Agony Infusion","output_item_id":39619,"output_item_count":1,"ingredients":[{"count":3,"type":"Item","id":49428},{"count":5,"type":"Item","id":79230}],"disciplines":["Merchant"]},
