@@ -36908,6 +36908,39 @@ module.exports = [
       },
       {
         type: 'Item',
+        id: 99413,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 2, count: 350000 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99427,
+        count: 1,
+        price: [
+          { type: 'Item', id: 96347, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99436,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 61, count: 2500 },
+          { type: 'Currency', id: 1, count: 750000 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99541,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 23, count: 100 }
+        ]
+      },
+      {
+        type: 'Item',
         id: 98136,
         count: 1,
         price: [
@@ -36949,6 +36982,16 @@ module.exports = [
       {
         type: 'Item',
         id: 99220,
+        count: 1,
+        price: [
+          { type: 'Item', id: 96722, count: 200 },
+          { type: 'Item', id: 96088, count: 250 },
+          { type: 'Item', id: 19675, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99418,
         count: 1,
         price: [
           { type: 'Item', id: 96722, count: 200 },
@@ -37594,6 +37637,134 @@ module.exports = [
         count: 1,
         price: [
           { type: 'Item', id: 99225, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99407,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99520,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99491,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99509,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99393,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99455,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99470,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99547,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99423,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99443,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99495,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99452,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99442,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99479,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99412,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 99415,
+        count: 1,
+        price: [
+          { type: 'Item', id: 99390, count: 1 }
         ]
       }
     ]
