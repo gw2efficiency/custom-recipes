@@ -37529,7 +37529,7 @@ module.exports = [
       },
       {
         type: 'Item',
-        id: 99006,
+        id: 99202,
         count: 1,
         price: [
           { type: 'Item', id: 99225, count: 1 }
