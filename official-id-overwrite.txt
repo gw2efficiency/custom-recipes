@@ -71,4 +71,3 @@ Spero (89886) => 13081
 Doctrina (89481) => 13014
 Exitare (90883) => 13205
 Visiospei (90780) => 13163
-Amalgamated Draconic Lodestone (92687) => 13385, 13389

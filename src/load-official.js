@@ -15,6 +15,10 @@ console.log('Trying to resolve output ids to recipe ids on official API...')
 let results = []
 
 recipes.forEach((recipe) => {
+  if ([92687].includes(recipe.output_item_id)) {
+    return
+  }
+
   const recipeIds = OFFICIAL_RECIPE_MAP[recipe.output_item_id]
 
   const ingredientIds = recipe.ingredients.map(x => x.id)

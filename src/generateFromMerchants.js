@@ -7,12 +7,23 @@ const ITEM_CACHE = JSON.parse(fs.readFileSync('./item-cache.json', 'utf-8'))
 const ITEM_NAME_MAP = {}
 ITEM_CACHE.forEach((item) => (ITEM_NAME_MAP[item.id] = item.name))
 
+console.log('Reading official recipe cache...')
+const OFFICIAL_RECIPE_CACHE = JSON.parse(fs.readFileSync('./official-recipe-cache.json', 'utf-8'))
+const OFFICIAL_RECIPE_MAP = {}
+OFFICIAL_RECIPE_CACHE.forEach((recipe) => (OFFICIAL_RECIPE_MAP[recipe.output_item_id] = recipe.id))
+
 console.log(`Generating recipes out of ${MERCHANTS.length} merchants...`)
 const ignoredIds = [19675]
 let recipes = []
 for (const merchant of MERCHANTS) {
   for (const purchaseOption of merchant.purchase_options) {
     if (purchaseOption.ignore || ignoredIds.includes(purchaseOption.id)) {
+      continue
+    }
+
+    if (OFFICIAL_RECIPE_MAP[purchaseOption.id]) {
+      // Ignore any merchant recipe that already have an official crafting recipe
+      // This prevents merchant items to show up for things like Bloodstone Brick / Gift of Blood
       continue
     }
 
