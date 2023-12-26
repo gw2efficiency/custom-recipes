@@ -13,7 +13,7 @@ const OFFICIAL_RECIPE_MAP = {}
 OFFICIAL_RECIPE_CACHE.forEach((recipe) => (OFFICIAL_RECIPE_MAP[recipe.output_item_id] = recipe.id))
 
 console.log(`Generating recipes out of ${MERCHANTS.length} merchants...`)
-const ignoredIds = [19675]
+const ignoredIds = JSON.parse(fs.readFileSync('./ignored-items.json', 'utf-8')).map(x => x.id)
 let recipes = []
 for (const merchant of MERCHANTS) {
   for (const purchaseOption of merchant.purchase_options) {
