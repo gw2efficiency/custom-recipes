@@ -24,8 +24,6 @@ function run() {
 }
 
 function generateGemstoneRecipes() {
-  let recipes = []
-
   const items = JSON.parse(fs.readFileSync('./item-cache.json', 'utf-8'))
 
   const relics = items.filter(({type}) => ['Mwcc', 'Relic'].includes(type))
@@ -33,22 +31,18 @@ function generateGemstoneRecipes() {
   console.log(`Found ${relics.length} relics:`)
   relics.forEach(({name, type}) => console.log({name, type}))
 
-  relics.forEach(({id}) => {
-    recipes.push({
-      'name': 'Mystic Facet',
-      'output_item_id': MYSTIC_FACET,
-      'output_item_count': 1,
-      'ingredients': [
-        {'count': 1, 'type': 'Item', id},
-        {'count': 250, 'type': 'Item', 'id': PILE_OF_LUCENT_CRYSTAL},
-        {'count': 250, 'type': 'Item', 'id': PILE_OF_LUCENT_CRYSTAL},
-        {'count': 250, 'type': 'Item', 'id': PILE_OF_LUCENT_CRYSTAL}
-      ],
-      'disciplines': ['Mystic Forge']
-    })
-  })
-
-  return recipes
+  return relics.map(({id}) => ({
+    'name': 'Mystic Facet',
+    'output_item_id': MYSTIC_FACET,
+    'output_item_count': 1,
+    'ingredients': [
+      {'count': 1, 'type': 'Item', id},
+      {'count': 250, 'type': 'Item', 'id': PILE_OF_LUCENT_CRYSTAL},
+      {'count': 250, 'type': 'Item', 'id': PILE_OF_LUCENT_CRYSTAL},
+      {'count': 250, 'type': 'Item', 'id': PILE_OF_LUCENT_CRYSTAL}
+    ],
+    'disciplines': ['Mystic Forge']
+  }))
 }
 
 run()
