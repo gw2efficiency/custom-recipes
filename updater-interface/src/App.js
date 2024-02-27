@@ -4,6 +4,8 @@ import {observer} from 'mobx-react'
 import c from 'classnames'
 import pick from 'lodash.pick'
 
+const apiHostname = process.env.REACT_APP_API_HOST
+
 @observer
 class App extends Component {
   @observable apiResponse = null
@@ -38,7 +40,7 @@ class App extends Component {
   }
 
   async fetchFromAPI () {
-    const response = await window.fetch(`http://minirack.io:3001/api/${this.index}`)
+    const response = await window.fetch(`http://${apiHostname}:3001/api/${this.index}`)
     this.apiResponse = await response.json()
   }
 
@@ -55,7 +57,7 @@ class App extends Component {
   async dismiss () {
     const body = {action: 'dismiss'}
 
-    await window.fetch(`http://minirack.io:3001/api/${this.index}`, {
+    await window.fetch(`http://${apiHostname}:3001/api/${this.index}`, {
       method: 'POST',
       body: JSON.stringify(body),
       headers: {
@@ -69,7 +71,7 @@ class App extends Component {
   async add () {
     const body = {action: 'add'}
 
-    await window.fetch(`http://minirack.io:3001/api/${this.index}`, {
+    await window.fetch(`http://${apiHostname}:3001/api/${this.index}`, {
       method: 'POST',
       body: JSON.stringify(body),
       headers: {
@@ -83,7 +85,7 @@ class App extends Component {
   async overwrite (existingIndex) {
     const body = {action: 'overwrite', existingIndex}
 
-    await window.fetch(`http://minirack.io:3001/api/${this.index}`, {
+    await window.fetch(`http://${apiHostname}:3001/api/${this.index}`, {
       method: 'POST',
       body: JSON.stringify(body),
       headers: {
