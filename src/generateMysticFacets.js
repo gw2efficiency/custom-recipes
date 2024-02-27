@@ -26,7 +26,7 @@ function run() {
 function generateGemstoneRecipes() {
   const items = JSON.parse(fs.readFileSync('./item-cache.json', 'utf-8'))
 
-  const relics = items.filter(({type}) => ['Mwcc', 'Relic'].includes(type))
+  const relics = items.filter(({type, rarity}) => ['Mwcc', 'Relic'].includes(type) & rarity === 'Exotic')
 
   console.log(`Found ${relics.length} relics:`)
   relics.forEach(({name, type}) => console.log({name, type}))
