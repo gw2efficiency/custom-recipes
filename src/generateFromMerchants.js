@@ -1,6 +1,7 @@
 const fs = require('fs')
 const flocky = require('@devoxa/flocky')
 const MERCHANTS = require('../merchants')
+const flatStringify = require('./helpers/flatStringify')
 
 console.log('Reading item cache...')
 const ITEM_CACHE = JSON.parse(fs.readFileSync('./item-cache.json', 'utf-8'))
@@ -88,6 +89,6 @@ const newRecipes = recipes.filter((x) => !existingMerchantDataHashes.includes(x.
 recipesJson = recipesJson.concat(newRecipes)
 
 console.log('Writing output into recipes.json...')
-fs.writeFileSync('./recipes.json', JSON.stringify(recipesJson, null, 2), 'utf-8')
+fs.writeFileSync('./recipes.json', flatStringify(recipesJson, null, 2), 'utf-8')
 
 console.log('Done, next run `node src/format.js && node src/validate.js`')
