@@ -1,4 +1,5 @@
 const fs = require('fs')
+const flatStringify = require('./helpers/flatStringify')
 
 const MYSTIC_FACET = 101540
 const PILE_OF_LUCENT_CRYSTAL = 89271
@@ -17,9 +18,7 @@ function run() {
   console.log('Updated recipe file')
 
   // Write the recipe file
-  const jsonString =
-    '[\n' + recipeFile.map(x => '  ' + JSON.stringify(x)).join(',\n') + '\n]\n'
-  fs.writeFileSync('./recipes.json', jsonString, 'utf-8')
+  fs.writeFileSync('./recipes.json', flatStringify(recipeFile), 'utf-8')
   console.log('Wrote recipe file')
 }
 
