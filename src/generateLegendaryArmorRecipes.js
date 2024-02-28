@@ -204,8 +204,8 @@ async function run () {
       output_item_id: legendaryItems[0].id,
       output_item_count: 1,
       ingredients: [
-        {count: 1, item_id: ascendedItems[0].id},
-        ...recipe.gifts.map(gift => ({count: 1, item_id: gift}))
+        {count: 1, type: "Item", id: ascendedItems[0].id},
+        ...recipe.gifts.map(gift => ({count: 1, type: "Item", id: gift}))
       ],
       disciplines: ['Mystic Forge']
     }
