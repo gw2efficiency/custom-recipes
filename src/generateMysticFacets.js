@@ -28,10 +28,22 @@ function generateGemstoneRecipes() {
 
   const relics = items.filter(({type, rarity}) => ['Mwcc', 'Relic'].includes(type) & rarity === 'Exotic')
 
-  console.log(`Found ${relics.length} relics:`)
-  relics.forEach(({name, type}) => console.log({name, type}))
+  const craftableIds = [
+    ...JSON.parse(fs.readFileSync('./official-recipe-cache.json', 'utf-8')),
+    ...JSON.parse(fs.readFileSync('./recipes.json', 'utf-8'))
+  ].map(({output_item_id}) => output_item_id)
 
-  return relics.map(({id}) => ({
+  const craftableRelics = relics.filter(({id}) => craftableIds.includes(id))
+  const uncraftableRelics = relics.filter(({id}) => !craftableIds.includes(id))
+
+  console.log(`Ignoring ${uncraftableRelics.length} uncraftable relics:`)
+  uncraftableRelics.forEach(({name, type}) => console.log({name, type}))
+  console.log()
+
+  console.log(`Found ${craftableRelics.length} craftable relics:`)
+  craftableRelics.forEach(({name, type}) => console.log({name, type}))
+
+  return craftableRelics.map(({id}) => ({
     'name': 'Mystic Facet',
     'output_item_id': MYSTIC_FACET,
     'output_item_count': 1,
