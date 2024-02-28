@@ -18,6 +18,18 @@ const wvwGifts = [
   83259 // Gift of War Dedication
 ]
 
+const obsidianGiftsMighty = [
+  100933, // Gift of Mighty Prosperity
+  100852, // Gift of Expertise
+  100288 // Gift of Stormy Skies
+]
+
+const obsidianGiftsMagical = [
+  100512, // Gift of Magical Prosperity
+  100852, // Gift of Expertise
+  100288 // Gift of Stormy Skies
+]
+
 let recipes = [
   // PvE - Heavy
   {legendary: `Perfected Envoy Helmet`, ascended: `Refined Envoy Helmet`, gifts: pveGifts},
@@ -161,7 +173,49 @@ let recipes = [
   {legendary: `Sublime Mistforged Triumphant Hero's Raiment`, ascended: `Sublime Mistforged Triumphant Hero's Raiment`, gifts: wvwGifts},
   {legendary: `Mistforged Triumphant Hero's Armguards`, ascended: `Mistforged Triumphant Hero's Armguards`, gifts: wvwGifts},
   {legendary: `Mistforged Triumphant Hero's Leggings`, ascended: `Mistforged Triumphant Hero's Leggings`, gifts: wvwGifts},
-  {legendary: `Mistforged Triumphant Hero's Footgear`, ascended: `Mistforged Triumphant Hero's Footgear`, gifts: wvwGifts}
+  {legendary: `Mistforged Triumphant Hero's Footgear`, ascended: `Mistforged Triumphant Hero's Footgear`, gifts: wvwGifts},
+
+  // Obsidian - Heavy
+  {legendary: `Obsidian Heavy Helmet`, ascended: `Arcanum of Astral Thought`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Heavy Pauldrons`, ascended: `Arcanum of Astral Bearing`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Heavy Breastplate`, ascended: `Arcanum of Astral Heartbeat`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Heavy Gauntlets`, ascended: `Arcanum of Astral Grasp`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Heavy Cuisses`, ascended: `Arcanum of Astral Stride`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Heavy Greaves`, ascended: `Arcanum of Astral Footprints`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Heavy Helmet`, ascended: `Arcanum of Astral Thought`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Heavy Pauldrons`, ascended: `Arcanum of Astral Bearing`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Heavy Breastplate`, ascended: `Arcanum of Astral Heartbeat`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Heavy Gauntlets`, ascended: `Arcanum of Astral Grasp`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Heavy Cuisses`, ascended: `Arcanum of Astral Stride`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Heavy Greaves`, ascended: `Arcanum of Astral Footprints`, gifts: obsidianGiftsMagical},
+
+  // Obsidian - Medium
+  {legendary: `Obsidian Medium Mask`, ascended: `Arcanum of Astral Thought`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Medium Shoulders`, ascended: `Arcanum of Astral Bearing`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Medium Jacket`, ascended: `Arcanum of Astral Heartbeat`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Medium Gloves`, ascended: `Arcanum of Astral Grasp`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Medium Leggings`, ascended: `Arcanum of Astral Stride`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Medium Boots`, ascended: `Arcanum of Astral Footprints`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Medium Mask`, ascended: `Arcanum of Astral Thought`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Medium Shoulders`, ascended: `Arcanum of Astral Bearing`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Medium Jacket`, ascended: `Arcanum of Astral Heartbeat`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Medium Gloves`, ascended: `Arcanum of Astral Grasp`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Medium Leggings`, ascended: `Arcanum of Astral Stride`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Medium Boots`, ascended: `Arcanum of Astral Footprints`, gifts: obsidianGiftsMagical},
+
+  // Obsidian - Light
+  {legendary: `Obsidian Light Crown`, ascended: `Arcanum of Astral Thought`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Light Mantle`, ascended: `Arcanum of Astral Bearing`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Light Regalia`, ascended: `Arcanum of Astral Heartbeat`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Light Gloves`, ascended: `Arcanum of Astral Grasp`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Light Pants`, ascended: `Arcanum of Astral Stride`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Light Shoes`, ascended: `Arcanum of Astral Footprints`, gifts: obsidianGiftsMighty},
+  {legendary: `Obsidian Light Crown`, ascended: `Arcanum of Astral Thought`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Light Mantle`, ascended: `Arcanum of Astral Bearing`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Light Regalia`, ascended: `Arcanum of Astral Heartbeat`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Light Gloves`, ascended: `Arcanum of Astral Grasp`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Light Pants`, ascended: `Arcanum of Astral Stride`, gifts: obsidianGiftsMagical},
+  {legendary: `Obsidian Light Shoes`, ascended: `Arcanum of Astral Footprints`, gifts: obsidianGiftsMagical},
 ]
 
 // These IDs match the names + rarity, but are not actually the items in game zZz
@@ -187,7 +241,7 @@ async function run () {
   let error = false
   recipes = recipes.map(recipe => {
     const legendaryItems = items.filter(item => item.rarity === 'Legendary' && recipe.legendary === item.name)
-    const ascendedItems = items.filter(item => item.rarity === 'Ascended' && recipe.ascended === item.name)
+    const ascendedItems = items.filter(item => (item.rarity === 'Ascended' || item.type === 'Trophy') && recipe.ascended === item.name)
 
     if (legendaryItems.length !== 1) {
       console.log(`Legendary "${recipe.legendary}" !== 1`, legendaryItems)
