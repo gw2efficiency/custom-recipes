@@ -10,10 +10,12 @@ const apiHostname = process.env.REACT_APP_API_HOST
 class App extends Component {
   @observable apiResponse = null
   @observable itemNames = {}
+  @observable currencyNames = {}
   @observable index = 0
 
   async componentDidMount () {
     await this.fetchItemNames()
+    await this.fetchCurrencyNames()
     await this.fetchFromAPI()
   }
 
@@ -37,6 +39,18 @@ class App extends Component {
 
     this.itemNames = map
     localStorage.setItem('itemNames', JSON.stringify(map))
+  }
+
+  async fetchCurrencyNames () {
+    const response = await window.fetch('https://api.guildwars2.com/v2/currencies?ids=all&lang=en')
+    const currencies = await response.json()
+
+    let map = {}
+    currencies.forEach(currency => {
+      map[currency.id] = currency.name
+    })
+
+    this.currencyNames = map
   }
 
   async fetchFromAPI () {
@@ -136,6 +150,7 @@ class App extends Component {
             <RecipeCard
               recipe={this.apiResponse.updater}
               itemNames={this.itemNames}
+              currencyNames={this.currencyNames}
               mode='new'
               dismiss={() => this.dismiss()}
               add={() => this.add()}
@@ -152,6 +167,7 @@ class App extends Component {
                 recipe={existing}
                 diffRecipe={this.apiResponse.updater}
                 itemNames={this.itemNames}
+                currencyNames={this.currencyNames}
                 mode='existing'
                 overwrite={(x) => this.overwrite(x)}
               />
@@ -168,6 +184,7 @@ class RecipeCard extends Component {
     const recipe = this.props.recipe
     const diffRecipe = this.props.diffRecipe
     const itemNames = this.props.itemNames
+    const currencyNames = this.props.currencyNames
     const mode = this.props.mode
     const isInvalid = recipe.ingredients.find(x => !x.id) || !recipe.output_item_id
     const isRecursive = !!recipe.ingredients.find(x => x.id === recipe.output_item_id)
@@ -253,10 +270,10 @@ class RecipeCard extends Component {
                     {'text-danger': itemIsDifferent}
                   ])}
                 >
-                  {itemNames[ingredient.id]}
+                  {ingredient.type === 'Item' ? itemNames[ingredient.id] : currencyNames[ingredient.id]}
                 </span>
 
-                <span className='text-muted'>({ingredient.id})</span>
+                <span className='text-muted'>({ingredient.type}, {ingredient.id})</span>
               </div>
             )
           })}
