@@ -2124,15 +2124,7 @@ module.exports = [
         id: 81522,
         count: 1,
         price: [
-          { type: 'Currency', id: 31, count: 500 }
-        ]
-      },
-      {
-        type: 'Item',
-        id: 81522,
-        count: 1,
-        price: [
-          { type: 'Currency', id: 36, count: 500 }
+          { type: 'Currency', id: 65, count: 500 }
         ]
       },
       {
@@ -2190,15 +2182,7 @@ module.exports = [
         id: 84099,
         count: 1,
         price: [
-          { type: 'Currency', id: 31, count: 250 }
-        ]
-      },
-      {
-        type: 'Item',
-        id: 84099,
-        count: 1,
-        price: [
-          { type: 'Currency', id: 36, count: 250 }
+          { type: 'Currency', id: 65, count: 250 }
         ]
       },
       {
