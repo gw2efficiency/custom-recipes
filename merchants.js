@@ -41497,5 +41497,823 @@ module.exports = [
         ignore: true
       }
     ]
+  },
+  {
+    name: `Chin-Hwa`,
+    locations: [
+      `Daigo Ward, Seitung Province`
+    ],
+    purchase_options: [
+      {
+        type: 'Item',
+        id: 96604,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97567,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96307,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95713,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 75 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96025,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 100 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96768,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 125 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95650,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97098,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95855,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95755,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 75 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95804,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 100 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95874,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 125 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97143,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96649,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96572,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 50 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97541,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 75 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97251,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 100 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95758,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 5000 },
+          { type: 'Currency', id: 66, count: 125 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96484,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95928,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97473,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97721,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96109,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97067,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95949,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95878,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97626,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96896,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97248,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95721,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95829,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95848,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97283,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96101,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96178,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95959,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96746,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97264,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97104,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97350,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95702,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96948,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97761,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96665,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96727,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97847,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97789,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96603,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95826,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97065,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97167,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96104,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95811,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96774,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96326,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96930,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 95905,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97652,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96662,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96487,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96661,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 50000 },
+          { type: 'Currency', id: 66, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96378,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96157,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 97114,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96441,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 96722,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 66, count: 200 }
+        ],
+        ignore: true
+      }
+    ]
+  },
+  {
+    name: `Junior Archivist's Aide Conri`,
+    locations: [
+      `Outer Ring, The Wizard's Tower`
+    ],
+    purchase_options: [
+      {
+        type: 'Item',
+        id: 101882,
+        count: 1,
+        price: [
+          { type: 'Item', id: 100930, count: 5 },
+          { type: 'Item', id: 100267, count: 2 },
+          { type: 'Item', id: 99964, count: 2 },
+          { type: 'Item', id: 100098, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101831,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101809,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101763,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101716,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101825,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101884,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101815,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101899,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101783,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101879,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101918,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101744,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101892,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101745,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101733,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101887,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101747,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 101929,
+        count: 1,
+        price: [
+          { type: 'Item', id: 101924, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 80731,
+        count: 1,
+        price: [
+          { type: 'Item', id: 100267, count: 1 },
+          { type: 'Item', id: 99964, count: 1 },
+          { type: 'Item', id: 100098, count: 1 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101723,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101859,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101837,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101897,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101942,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101812,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101728,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      },
+      {
+        type: 'Item',
+        id: 101728,
+        count: 1,
+        price: [
+          { type: 'Item', id: 19925, count: 250 },
+          { type: 'Item', id: 80728, count: 50 },
+          { type: 'Item', id: 80764, count: 50 }
+        ],
+        ignore: true
+      }
+    ]
   }
 ]
