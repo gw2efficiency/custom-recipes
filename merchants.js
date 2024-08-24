@@ -36541,7 +36541,7 @@ module.exports = [
         id: 96978,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 10 }
+          { type: 'Currency', id: 66, count: 10 }
         ],
         ignore: true
       },
@@ -38456,7 +38456,7 @@ module.exports = [
         price: [
           { type: 'Currency', id: 72, count: 250 },
           { type: 'Currency', id: 73, count: 250 },
-          { type: 'Currency', id: 62, count: 250 },
+          { type: 'Currency', id: 66, count: 250 },
           { type: 'Currency', id: 75, count: 250 }
         ]
       },
@@ -39229,7 +39229,7 @@ module.exports = [
         id: 100843,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39237,7 +39237,7 @@ module.exports = [
         id: 99970,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39245,7 +39245,7 @@ module.exports = [
         id: 100433,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39253,7 +39253,7 @@ module.exports = [
         id: 100918,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39261,7 +39261,7 @@ module.exports = [
         id: 100431,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39269,7 +39269,7 @@ module.exports = [
         id: 100835,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39277,7 +39277,7 @@ module.exports = [
         id: 100713,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39285,7 +39285,7 @@ module.exports = [
         id: 100642,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39293,7 +39293,7 @@ module.exports = [
         id: 100490,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39301,7 +39301,7 @@ module.exports = [
         id: 100035,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39309,7 +39309,7 @@ module.exports = [
         id: 100325,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39317,7 +39317,7 @@ module.exports = [
         id: 100228,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39325,7 +39325,7 @@ module.exports = [
         id: 100566,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39333,7 +39333,7 @@ module.exports = [
         id: 100793,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39341,7 +39341,7 @@ module.exports = [
         id: 100626,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39349,7 +39349,7 @@ module.exports = [
         id: 100108,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39357,7 +39357,7 @@ module.exports = [
         id: 100716,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39365,7 +39365,7 @@ module.exports = [
         id: 100341,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39373,7 +39373,7 @@ module.exports = [
         id: 100465,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39381,7 +39381,7 @@ module.exports = [
         id: 100664,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39389,7 +39389,7 @@ module.exports = [
         id: 100755,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39397,7 +39397,7 @@ module.exports = [
         id: 100973,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39405,7 +39405,7 @@ module.exports = [
         id: 100850,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39413,7 +39413,7 @@ module.exports = [
         id: 100856,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39421,7 +39421,7 @@ module.exports = [
         id: 100117,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39429,7 +39429,7 @@ module.exports = [
         id: 100700,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39437,7 +39437,7 @@ module.exports = [
         id: 100206,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39445,7 +39445,7 @@ module.exports = [
         id: 100719,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39453,7 +39453,7 @@ module.exports = [
         id: 100822,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39461,7 +39461,7 @@ module.exports = [
         id: 100104,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39469,7 +39469,7 @@ module.exports = [
         id: 100525,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39477,7 +39477,7 @@ module.exports = [
         id: 100079,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       }
     ]
@@ -39724,7 +39724,7 @@ module.exports = [
         id: 100716,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39732,7 +39732,7 @@ module.exports = [
         id: 100341,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39740,7 +39740,7 @@ module.exports = [
         id: 100465,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39748,7 +39748,7 @@ module.exports = [
         id: 100664,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39756,7 +39756,7 @@ module.exports = [
         id: 100755,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39764,7 +39764,7 @@ module.exports = [
         id: 100973,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39772,7 +39772,7 @@ module.exports = [
         id: 100850,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39780,7 +39780,7 @@ module.exports = [
         id: 100856,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39788,7 +39788,7 @@ module.exports = [
         id: 100117,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39796,7 +39796,7 @@ module.exports = [
         id: 100700,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39804,7 +39804,7 @@ module.exports = [
         id: 100206,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39812,7 +39812,7 @@ module.exports = [
         id: 100719,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39820,7 +39820,7 @@ module.exports = [
         id: 100822,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39828,7 +39828,7 @@ module.exports = [
         id: 100104,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39836,7 +39836,7 @@ module.exports = [
         id: 100525,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -39844,7 +39844,7 @@ module.exports = [
         id: 100079,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       }
     ]
@@ -40127,7 +40127,7 @@ module.exports = [
         id: 100843,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40135,7 +40135,7 @@ module.exports = [
         id: 99970,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40143,7 +40143,7 @@ module.exports = [
         id: 100433,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40151,7 +40151,7 @@ module.exports = [
         id: 100918,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40159,7 +40159,7 @@ module.exports = [
         id: 100431,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40167,7 +40167,7 @@ module.exports = [
         id: 100835,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40175,7 +40175,7 @@ module.exports = [
         id: 100713,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40183,7 +40183,7 @@ module.exports = [
         id: 100642,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40191,7 +40191,7 @@ module.exports = [
         id: 100490,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40199,7 +40199,7 @@ module.exports = [
         id: 100035,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40207,7 +40207,7 @@ module.exports = [
         id: 100325,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40215,7 +40215,7 @@ module.exports = [
         id: 100228,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40223,7 +40223,7 @@ module.exports = [
         id: 100566,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40231,7 +40231,7 @@ module.exports = [
         id: 100793,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40239,7 +40239,7 @@ module.exports = [
         id: 100626,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40247,7 +40247,7 @@ module.exports = [
         id: 100108,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       }
     ]
@@ -40485,7 +40485,7 @@ module.exports = [
         id: 101291,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40493,7 +40493,7 @@ module.exports = [
         id: 101243,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40501,7 +40501,7 @@ module.exports = [
         id: 101252,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40509,7 +40509,7 @@ module.exports = [
         id: 101184,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40517,7 +40517,7 @@ module.exports = [
         id: 101163,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40525,7 +40525,7 @@ module.exports = [
         id: 101157,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40533,7 +40533,7 @@ module.exports = [
         id: 101216,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40541,7 +40541,7 @@ module.exports = [
         id: 101215,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40549,7 +40549,7 @@ module.exports = [
         id: 101230,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40557,7 +40557,7 @@ module.exports = [
         id: 101158,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40565,7 +40565,7 @@ module.exports = [
         id: 101293,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40573,7 +40573,7 @@ module.exports = [
         id: 101277,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40581,7 +40581,7 @@ module.exports = [
         id: 101221,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40589,7 +40589,7 @@ module.exports = [
         id: 101301,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40597,7 +40597,7 @@ module.exports = [
         id: 101128,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       },
       {
@@ -40605,7 +40605,7 @@ module.exports = [
         id: 101254,
         count: 1,
         price: [
-          { type: 'Currency', id: 62, count: 5 }
+          { type: 'Currency', id: 66, count: 5 }
         ]
       }
     ]
