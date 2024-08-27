@@ -42315,5 +42315,721 @@ module.exports = [
         ignore: true
       }
     ]
+  },
+  {
+    name: `INFUZ-5959`,
+    locations: [
+      `Mistlock Observatory, Fractals of the Mists`,
+      `Mistlock Sanctuary, Fractals of the Mists (region)`
+    ],
+    purchase_options: [
+      {
+        type: 'Item',
+        id: 49426,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 448 },
+          { type: 'Item', id: 49424, count: 4 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49428,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 2240 },
+          { type: 'Item', id: 49424, count: 16 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49430,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 9424 },
+          { type: 'Item', id: 49424, count: 64 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49432,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 38144 },
+          { type: 'Item', id: 49424, count: 256 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49434,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 153040 },
+          { type: 'Item', id: 49424, count: 1024 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49428,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 448 },
+          { type: 'Item', id: 49426, count: 4 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49430,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 2240 },
+          { type: 'Item', id: 49426, count: 16 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49432,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 9424 },
+          { type: 'Item', id: 49426, count: 64 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49434,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 38144 },
+          { type: 'Item', id: 49426, count: 256 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49430,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 448 },
+          { type: 'Item', id: 49428, count: 4 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49432,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 2240 },
+          { type: 'Item', id: 49428, count: 16 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49434,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 9424 },
+          { type: 'Item', id: 49428, count: 64 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49432,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 448 },
+          { type: 'Item', id: 49430, count: 4 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49434,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 2240 },
+          { type: 'Item', id: 49430, count: 16 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49434,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 448 },
+          { type: 'Item', id: 49432, count: 4 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 79230,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 7, count: 15 },
+          { type: 'Item', id: 73248, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 39620,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 39621,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 39619,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 39618,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 39617,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 39616,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86338,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 85971,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 3 },
+          { type: 'Item', id: 79230, count: 5 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37127,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37128,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37129,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37134,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37133,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37123,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 85881,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86150,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 3 },
+          { type: 'Item', id: 79230, count: 10 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37131,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37132,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37130,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37136,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37135,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37125,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86180,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86113,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49432, count: 3 },
+          { type: 'Item', id: 79230, count: 20 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37127,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 39620, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37128,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 39621, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37129,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 39619, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37134,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 39618, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37133,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 39617, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37123,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 39616, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 85881,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 86338, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86150,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49428, count: 6 },
+          { type: 'Item', id: 85971, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37131,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 37127, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37132,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 37128, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37130,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 37129, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37136,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 37134, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37135,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 37133, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37125,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 37123, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86180,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 85881, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 86113,
+        count: 1,
+        price: [
+          { type: 'Item', id: 49430, count: 6 },
+          { type: 'Item', id: 86150, count: 2 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49435,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49436, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49434,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49435, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49433,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49434, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49432,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49433, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49431,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49432, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49430,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49431, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 70064,
+        count: 5,
+        price: [
+          { type: 'Item', id: 37138, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 70064,
+        count: 10,
+        price: [
+          { type: 'Item', id: 70852, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 73381,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 2400 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 76409,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 2400 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 38014,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 3200 },
+          { type: 'Currency', id: 7, count: 30 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 38023,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 9600 },
+          { type: 'Currency', id: 7, count: 100 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 38024,
+        count: 1,
+        price: [
+          { type: 'Currency', id: 1, count: 28800 },
+          { type: 'Currency', id: 7, count: 300 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37131,
+        count: 5,
+        price: [
+          { type: 'Item', id: 49439, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37132,
+        count: 5,
+        price: [
+          { type: 'Item', id: 49439, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37130,
+        count: 5,
+        price: [
+          { type: 'Item', id: 49439, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37136,
+        count: 5,
+        price: [
+          { type: 'Item', id: 49439, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37135,
+        count: 5,
+        price: [
+          { type: 'Item', id: 49439, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 37125,
+        count: 5,
+        price: [
+          { type: 'Item', id: 49439, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49439,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49440, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49440,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49441, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49441,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49442, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49442,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49443, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49443,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49444, count: 1 }
+        ]
+      },
+      {
+        type: 'Item',
+        id: 49444,
+        count: 2,
+        price: [
+          { type: 'Item', id: 49445, count: 1 }
+        ]
+      }
+    ]
   }
 ]
